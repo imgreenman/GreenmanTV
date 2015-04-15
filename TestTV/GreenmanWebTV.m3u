@@ -1,0 +1,1691 @@
+#EXTM3U
+
+#EXTINF:-1,RTE ONE[COLOR red]link_down[/COLOR]
+http://93.184.221.133/00573D/345/345-0.m3u8
+#EXTINF:0,RTE ONE
+http://212.250.46.35:4252/bysid/9601
+#EXTINF:0,RTE 2
+http://212.250.46.35:4252/bysid/9602
+#EXTINF:0,RTE 2
+http://93.184.221.133/00573D/346/346-0.m3u8
+#EXTINF:0,RTEjr
+http://212.250.46.35:4252/bysid/9606
+#EXTINF:-1,TG 4
+http://93.184.221.133/00573D/348/348-0.m3u8
+#EXTINF:0,BBC 1
+http://93.184.221.133/00573D/1277/1277-0.m3u8
+#EXTINF:0,BBC ONE SCOTLAND
+http://wpc.573d.edgecastcdn.net/00573D/1277/1277-0.m3u8
+#EXTINF:-1,BBC 2
+http://81.23.58.184:8080/udp/0.0.0.0:20015?Vd?u#bt!25
+#EXTINF:-1,BBC 2
+http://81.23.58.184:8080/udp/0.0.0.0:20015
+#EXTINF:-1,ITV 1
+http://82.135.224.134:80/udp/239.100.3.6:1234
+#EXTINF:0,ITV 1 HD
+http://93.184.221.133/00573D/283/283-0.m3u8
+#EXTINF:-1,ITV Choice
+http://185.27.237.105:8082/TV0055
+#EXTINF:-1,ITV Encore
+http://93.184.221.133/00573D/1451/1451-0.m3u8
+#EXTINF:-1,CHANNEL 4
+http://93.184.221.133/00573D/292/292-0.m3u8
+#EXTINF:-1,FILM 4
+http://78.129.175.72/live/film4/film4.m3u8
+#EXTINF:0,DAVE
+http://93.184.221.133/00573D/290/290-0.m3u8
+#EXTINF:-1,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+#EXTINF:0,British Eurosport
+http://93.184.221.133/00573D/1210/1210-0.m3u8
+#EXTINF:0,British Eurosport 2
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+#EXTINF:0,BBC Sport
+http://93.184.221.133/00573D/1104/1104-0.m3u8
+#EXTINF:-1, Sport1 HD
+http://93.184.221.133/00573D/236/236-0.m3u8
+#EXTINF:-1, BOX NATION
+http://93.184.221.133/00573D/1222/1222-0.m3u8
+#EXTINF:0,TSN 1 720p
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+#EXTINF:0,TSN 2 720P
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+#EXTINF:0,TSN 3 720P
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+#EXTINF:-1,TSN 4 720P
+http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
+#EXTINF:-1,TSN 5 720P
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
+#EXTINF:-1,TSN 3 Backup
+http://alil.in/tsn3
+#EXTINF:-1,TSN 4 Backup
+http://alil.in/tsn4
+#EXTINF:-1,TSN 5 Backup
+http://alil.in/tsn5
+#EXTINF:-1,Nat Geo Wild (Eng/Rus)
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEOWILD/variant.m3u8
+#EXTINF:0,Sky Sports News
+http://93.184.221.133/00573D/183/183-0.m3u8
+#EXTINF:-1, BBCNews
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?Vd?u#bt!25
+#EXTINF:-1, CNN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:-1, CNBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:-1, ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+
+#EXTINF:0,FASHION HD
+rtmp://95.67.8.43:1935/live/fashionhd
+#EXTINF:-1, Fashion TV.
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8?husham.com
+#EXTINF:-1,C-MORE
+http://93.184.221.133/00573D/1460/1460-0.m3u8
+#EXTINF:-1,MOVIES 4 MEN
+http://93.184.221.133/00573D/311/311-0.m3u8
+#EXTINF:-1,CHANNEL 6
+http://93.184.221.133/00573D/231/231-0.m3u8
+#EXTINF:-1,CBS REALITY
+http://93.184.221.133/00573D/713/713-0.m3u8
+#EXTINF:-1,CBS DRAMA
+http://93.184.221.133/00573D/712/712-0.m3u8
+#EXTINF:-1,CBS ACTION
+http://93.184.221.133/00573D/711/711-0.m3u8
+#EXTINF:0,Fox 11 USA
+http://93.184.221.133/00573D/1093/1093-0.m3u8
+#EXTINF:0,ABC7 USA
+http://93.184.221.133/00573D/1086/1086-0.m3u8
+#EXTINF:0,CNBC USA
+http://93.184.221.133/00573D/1085/1085-0.m3u8
+#EXTINF:0,CBS 2 USA
+http://93.184.221.133/00573D/1084/1084-0.m3u8
+#EXTINF:-1,NBC US
+http://128.105.21.253:8080/udp/239.1.1.84:3084
+#EXTINF:-1,HBO HD
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+#EXTINF:-1,Cinemax
+http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
+#EXTINF:-1,Channel 6 - City of Austin
+rtmp://oflash.dfw.swagit.com/live/austintx/live-1?husham.com
+#EXTINF:-1,City of Boston TV English
+rtmp://streaming.cityofboston.gov/live/cable
+#EXTINF:-1,Options Action
+http://198.179.31.181:1935/vodlast/1173.low.m4v/playlist.m3u8
+#EXTINF:-1,AXN HD
+http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
+#EXTINF:-1,Press TV 
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/presstv/ls_fiber/b_,828,528,264,.m3u8
+#EXTINF:-1, HSN
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31?husham.com playpath=mp4:420p500kB31
+#EXTINF:-1,University of California TV
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800?husham.com
+#EXTINF:-1, Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1,RT Russia
+http://odna.octoshape.net/f3f5m2v4/cds/ch1_480p/chunklist.m3u8?Vd?u#bt!25
+#EXTINF:-1,RT America
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/blizznow.m3u8?husham.com
+#EXTINF:-1 , CCTV news
+http://77.36.61.45:8010/CCTVNews.m3u8?husham.com
+ 
+#EXTINF:-1, i24 News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8??husham.com
+ 
+#EXTINF:-1, NASA TV HD
+http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8?husham.com
+#EXTINF:-1,Vernnissage TV
+http://149.11.34.6:1935/live/vernissagetv.stream/hasbahca.m3u8
+
+
+
+#EXTINF:-1,PAC National 1280*720
+http://xrxs.net/video/live-p12netw-2328.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Arizona) 1280*720
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Bay Area) 1280*720
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Los Angeles) 1280*720
+http://xrxs.net/video/live-p12losa-2328.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Oregon) 1280*720
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Washington) 1280*720
+http://xrxs.net/video/live-p12wash-2328.m3u8
+
+
+#EXTINF:-1,Pac Mountain 1920*1080
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (Arizona) 1920*1080
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (Bay Area) 1920*1080
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (Oregon) 1920*1080
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (Washington) 1920*1080
+http://xrxs.net/video/live-p12wash-4728.m3u8
+
+‪#‎EXTINF‬:-1,Sky Movies Premiere
+http://91.109.20.227:8080/TV4251
+#EXTINF:-1,Sky Movies Premiere+
+http://91.109.20.227:8080/TV4252
+#EXTINF:-1,Sky Movies Select
+http://91.109.20.227:8080/TV4254
+#EXTINF:-1,Sky Movies Action & Adventure
+http://91.109.20.227:8080/TV4245
+#EXTINF:-1,Sky Movies Comedy
+http://91.109.20.227:8080/TV4246
+#EXTINF:-1,Sky Movies Disney
+http://91.109.20.227:8080/TV4247
+#EXTINF:-1,Sky Movies Family
+http://91.109.20.227:8080/TV4248
+#EXTINF:-1,Sky Movies SciFi
+http://185.56.30.123:8082/TV4249
+
+#EXTINF:-1 tvg-id="BBC 1 North Ireland" tvg-name="BBC_1_North_Ireland" group-title="Entertainment - בידור" tvg-logo="5cf46a35803c8b524985b57f69ea3181.png",BBC 1 North Ireland
+http://localhost:65007/?url=361&mode=1
+
+#EXTINF:-1 tvg-id="BBC 1 Scotland" tvg-name="BBC_1_Scotland" group-title="Entertainment - בידור" tvg-logo="15a6694dde19e525a4c2e4be7fc2780b.png",BBC 1 Scotland
+http://localhost:65007/?url=3166&mode=1
+
+#EXTINF:-1 tvg-id="BBC 1 Wales" tvg-name="BBC_1_Wales" group-title="Entertainment - בידור" tvg-logo="8230a23b3140b278e0bf9b8a498eb8ad.png",BBC 1 Wales
+http://localhost:65007/?url=3227&mode=1
+
+#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC_One" group-title="Entertainment - בידור" tvg-logo="a794d6401b78cd35ecb6ba3d861a755a.png",BBC One
+http://localhost:65007/?url=14&mode=1
+
+#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC_One" group-title="Entertainment - בידור" tvg-logo="a794d6401b78cd35ecb6ba3d861a755a.png",BBC One
+http://localhost:65007/?url=93;;bbcone&mode=6
+
+#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC_One" group-title="Entertainment - בידור" tvg-logo="7b464331ed2cf69b97c11ef654648ca9.png",BBC One
+http://localhost:65007/?url=204;;bbcsport&mode=6
+
+#EXTINF:-1 tvg-id="BBC Two" tvg-name="BBC_Two" group-title="Entertainment - בידור" tvg-logo="d07f99c35a467a6914d01c99956789c7.png",BBC Two
+http://localhost:65007/?url=25&mode=1
+
+#EXTINF:-1 tvg-id="BBC Two" tvg-name="BBC_Two" group-title="Entertainment - בידור" tvg-logo="d07f99c35a467a6914d01c99956789c7.png",BBC Two
+http://localhost:65007/?url=190&mode=6
+
+#EXTINF:-1 tvg-id="BBC Three" tvg-name="BBC_Three" group-title="Entertainment - בידור" tvg-logo="f59500705f185d0f478cea1dc5fc6f24.png",BBC Three
+http://localhost:65007/?url=113&mode=1
+
+#EXTINF:-1 tvg-id="BBC Three" tvg-name="BBC_Three" group-title="Entertainment - בידור" tvg-logo="f59500705f185d0f478cea1dc5fc6f24.png",BBC Three
+http://localhost:65007/?url=191&mode=6
+
+#EXTINF:-1 tvg-id="BBC Four" tvg-name="BBC_Four" group-title="Entertainment - בידור" tvg-logo="e63237be690f84168b26fb464bd1f915.png",BBC Four
+http://localhost:65007/?url=103&mode=1
+
+#EXTINF:-1 tvg-id="ITV1" tvg-name="ITV1" group-title="Entertainment - בידור" tvg-logo="fa8bf67acc45e4ff734d9bf1faece84c.png",ITV1
+http://localhost:65007/?url=11&mode=1
+
+#EXTINF:-1 tvg-id="ITV1" tvg-name="ITV1" group-title="Entertainment - בידור" tvg-logo="f6bab5e1f6de355b5abe5ce1e516377f.jpg",ITV1
+http://csm-e-usc1-9.cds1.yospace.com/csm/live/92981621.m3u8
+
+#EXTINF:-1 tvg-id="ITV2" tvg-name="ITV2" group-title="Entertainment - בידור" tvg-logo="2c44a206ff3b4890a5fd22ebcef0f562.png",ITV2
+http://localhost:65007/?url=67&mode=1
+
+#EXTINF:-1 tvg-id="ITV3" tvg-name="ITV3" group-title="Entertainment - בידור" tvg-logo="68e4991a86e8a284b0092d773049d7e0.png",ITV3
+http://localhost:65007/?url=26&mode=1
+
+#EXTINF:-1 tvg-id="ITV4" tvg-name="ITV4" group-title="Entertainment - בידור" tvg-logo="87bfe3af9ca4337cd0ac3e175fceffde.png",ITV4
+http://localhost:65007/?url=101&mode=1
+
+#EXTINF:-1 tvg-id="ITV1 +1" tvg-name="ITV1_+1" group-title="Entertainment - בידור" tvg-logo="f9a74c34db2bc9ed8df05255937083b6.png",ITV1 +1
+http://localhost:65007/?url=1817&mode=1
+
+#EXTINF:-1 tvg-id="ITV2 +1" tvg-name="ITV2_+1" group-title="Entertainment - בידור" tvg-logo="ba2e8aadd03eba72c896e858935df33a.png",ITV2 +1
+http://localhost:65007/?url=1820&mode=1
+
+#EXTINF:-1 tvg-id="ITV3 +1" tvg-name="ITV3_+1" group-title="Entertainment - בידור" tvg-logo="a4c8d817625411ccec2966c5bb37b218.png",ITV3 +1
+http://localhost:65007/?url=1823&mode=1
+
+#EXTINF:-1 tvg-id="ITV4 +1" tvg-name="ITV4_+1" group-title="Entertainment - בידור" tvg-logo="c7d2debd9050fa76fbe497d960658620.png",ITV4 +1
+http://localhost:65007/?url=1826&mode=1
+
+#EXTINF:-1 tvg-id="ITVBe" tvg-name="ITVBe" group-title="Entertainment - בידור" tvg-logo="ba2816e630feb5e15fe003a5b2c74907.png",ITVBe
+http://localhost:65007/?url=3211&mode=1
+
+#EXTINF:-1 tvg-id="London Live" tvg-name="London_Live" group-title="Entertainment - בידור" tvg-logo="7d19de0d62bd22e73d9e9461ddb5c131.jpg",London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+#EXTINF:-1 tvg-id="GINX" tvg-name="GINX" group-title="Entertainment - בידור" tvg-logo="cec1863a7c12aff0997166473f86789f.png",GINX
+http://maxtv.duckdns.org/Content/HLS/Live/Channel(ginx)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id="GINX (link 2)" tvg-name="GINX_(link_2)" group-title="Entertainment - בידור" tvg-logo="cec1863a7c12aff0997166473f86789f.png",GINX (link 2)
+rtmp://204.107.26.252:8086/live/796.high.stream
+
+#EXTINF:-1 tvg-id="Wealth TV" tvg-name="Wealth_TV" group-title="Entertainment - בידור" tvg-logo="82ffe93327e980af4d9846c9f46c120a.jpg",Wealth TV
+rtmp://204.107.26.252:8086/live/403.high.stream
+
+#EXTINF:-1 tvg-id="eScapes HD TV" tvg-name="eScapes_HD_TV" group-title="Entertainment - בידור" tvg-logo="fabaa4f2095533303bf2dbc7b969ad2e.png",eScapes HD TV
+rtmp://204.107.26.252:8086/live/341.high.stream
+
+#EXTINF:-1 tvg-id="ABC Australia" tvg-name="ABC_Australia" group-title="Entertainment - בידור" tvg-logo="628f77151987b4db3421d9388514e6b5.png",ABC Australia
+http://localhost:65007/?url=1007&mode=1
+
+#EXTINF:-1 tvg-id="Horror Channel" tvg-name="Horror_Channel" group-title="Entertainment - בידור" tvg-logo="df15897b4f09de43e4e67dd291c1c7c2.png",Horror Channel
+http://localhost:65007/?url=836&mode=1
+
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" group-title="Entertainment - בידור" tvg-logo="375e7117d15b5557bc9b8a855de1f558.png",Fox
+http://localhost:65007/?url=2635&mode=1&ignorefilmonguide=1&filmonmethod=1
+
+#EXTINF:-1 tvg-id="5USA" tvg-name="5USA" group-title="Entertainment - בידור" tvg-logo="93831f518c35d5aaee5b9ac2b0f8291c.png",5USA
+http://localhost:65007/?url=845&mode=1
+
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC" group-title="Entertainment - בידור" tvg-logo="ad7a18893820749a8c9a340879fff912.png",MBC
+http://localhost:65007/?url=367&mode=1&ignorefilmonguide=1
+
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC" group-title="Entertainment - בידור" tvg-logo="ad7a18893820749a8c9a340879fff912.png",MBC
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=fm&width=600&height=400
+
+#EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC_Action" group-title="Entertainment - בידור" tvg-logo="53311b597278304eb7a4d7a9718db24c.png",MBC Action
+http://localhost:65007/?url=369&mode=1&ignorefilmonguide=1
+
+#EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC_Action" group-title="Entertainment - בידור" tvg-logo="53311b597278304eb7a4d7a9718db24c.png",MBC Action
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcaction swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=fm&width=600&height=400
+
+#EXTINF:-1 tvg-id="MBC3" tvg-name="MBC3" group-title="Entertainment - בידור" tvg-logo="e6913fa80f2628fcf6566f04c8520cf4.jpg",MBC3
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc3 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=fm&width=600&height=400
+
+#EXTINF:-1 tvg-id="MBC4" tvg-name="MBC4" group-title="Entertainment - בידור" tvg-logo="3f9db0ef99af8511bdc915e954425a2a.jpg",MBC4
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc4 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=fm&width=600&height=400
+
+#EXTINF:-1 tvg-id="E4" tvg-name="E4" group-title="Entertainment - בידור" tvg-logo="2bb25cbb5645d682d48448e9be70dd09.png",E4
+http://localhost:65007/?url=65&mode=1
+
+#EXTINF:-1 tvg-id="Pick TV" tvg-name="Pick_TV" group-title="Entertainment - בידור" tvg-logo="2077277fb453b23d09601e2c55c06f00.png",Pick TV
+http://localhost:65007/?url=371&mode=1
+
+#EXTINF:-1 tvg-id="Dave" tvg-name="Dave" group-title="Entertainment - בידור" tvg-logo="8809f29d4e7f6dd295ffa0aa0a9b1108.png",Dave
+http://localhost:65007/?url=370&mode=1
+
+#EXTINF:-1 tvg-id="QUEST" tvg-name="QUEST" group-title="Entertainment - בידור" tvg-logo="b5d757ce0de5a6efe0cfc615e20d1d89.png",QUEST
+http://localhost:65007/?url=2707&mode=1
+
+#EXTINF:-1 tvg-id="Yesterday" tvg-name="Yesterday" group-title="Entertainment - בידור" tvg-logo="9d9bbe3414facb05fa27bceb8d9c0d1f.png",Yesterday
+http://localhost:65007/?url=1039&mode=1
+
+#EXTINF:-1 tvg-id="The Outdoor Cooking Channel" tvg-name="The_Outdoor_Cooking_Channel" group-title="Entertainment - בידור" tvg-logo="f70dce20284e8541f38876a3b650597b.png",The Outdoor Cooking Channel
+http://localhost:65007/?url=3062&mode=1
+
+#EXTINF:-1 tvg-id="Food Network (link2)" tvg-name="Food_Network_(link2)" group-title="Entertainment - בידור" tvg-logo="ada6ffe2a2007b81ffc8a30c6ac99110.jpg",Food Network (link2)
+http://maxtv.duckdns.org/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food_Network" group-title="Entertainment - בידור" tvg-logo="9fbdb28d65dbd06fc03634ba3bd44d1a.png",Food Network
+http://localhost:65007/?url=20&mode=1
+
+#EXTINF:-1 tvg-id="Food Network +1" tvg-name="Food_Network_+1" group-title="Entertainment - בידור" tvg-logo="eea4ddab38e6c05e2ddbe6eb8f3fb0cc.png",Food Network +1
+http://localhost:65007/?url=1829&mode=1
+
+#EXTINF:-1 tvg-id="Really" tvg-name="Really" group-title="Entertainment - בידור" tvg-logo="b445e0504d576fda47cc7970ac5948e5.png",Really
+http://localhost:65007/?url=372&mode=1
+
+#EXTINF:-1 tvg-id="Channel 4" tvg-name="Channel_4" group-title="Entertainment - בידור" tvg-logo="007fb6a027a1454dafb9228876b710d2.png",Channel 4
+http://localhost:65007/?url=2&mode=1
+
+#EXTINF:-1 tvg-id="More4" tvg-name="More4" group-title="Entertainment - בידור" tvg-logo="9aed16be99b41174bbc10867d27ee9c7.png",More4
+http://localhost:65007/?url=97&mode=1
+
+#EXTINF:-1 tvg-id="5*" tvg-name="5*" group-title="Entertainment - בידור" tvg-logo="c6e094bc334c5642a73f4162dc2e402a.png",5*
+http://localhost:65007/?url=851&mode=1&ignorefilmonguide=1
+
+#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel_5" group-title="Entertainment - בידור" tvg-logo="28ea550c032115c1d3d1cffaba053300.png",Channel 5
+http://localhost:65007/?url=22&mode=1
+
+#EXTINF:-1 tvg-id="Channel 5 +1" tvg-name="Channel_5_+1" group-title="Entertainment - בידור" tvg-logo="048efacdf050b590a8cd5a2f4798faac.png",Channel 5 +1
+http://localhost:65007/?url=857&ChName=Channel5+1&referrerCh=367&iconimage=http://static.filmon.com/couch/channels/857/extra_big_logo.png&mode=1&ignorefilmonguide=1
+
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva" group-title="Entertainment - בידור" tvg-logo="250a500a6488f6f52179073cbec5fe21.png",Viva
+http://localhost:65007/?url=8&mode=1
+
+#EXTINF:-1 tvg-id="4 Music" tvg-name="4_Music" group-title="Entertainment - בידור" tvg-logo="72bcf15c0bd2a1cb819220304a22a463.png",4 Music
+http://csm-e-usc1-9.cds1.yospace.com/csm/live/86550614.m3u8
+
+#EXTINF:-1 tvg-id="4 Music" tvg-name="4_Music" group-title="Entertainment - בידור" tvg-logo="72bcf15c0bd2a1cb819220304a22a463.png",4 Music
+http://localhost:65007/?url=95&mode=1
+
+#EXTINF:-1 tvg-id="Ibiza On TV Italy" tvg-name="Ibiza_On_TV_Italy" group-title="Entertainment - בידור" tvg-logo="95bd7acaa104d9ef0564e4793aa22a6d.jpg",Ibiza On TV Italy
+http://46.249.213.87/iPhone/broadcast/ibizaontv-tablet.3gp/ibizaontv-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
+
+#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE_Urban" group-title="Entertainment - בידור" tvg-logo="3e33e57f650bc7ed7bb6b77c272b535f.png",TRACE Urban
+http://46.249.213.87/iPhone/broadcast/tracetvurban-tablet.3gp/tracetvurban-tablet.3gp-mr647k.m3u8
+
+#EXTINF:-1 tvg-id="Pop Beat TV" tvg-name="Pop_Beat_TV" group-title="Entertainment - בידור" tvg-logo="1c30d3c1cb2f5b1c4949a455bf666fc6.png",Pop Beat TV
+http://46.249.213.93/iPhone/broadcast/popbeattv-tablet.3gp/popbeattv-tablet.3gp-mr396k.m3u8
+
+#EXTINF:-1 tvg-id="CBS Drama" tvg-name="CBS_Drama" group-title="Entertainment - בידור" tvg-logo="29a8ec57a80112d9c4c41df7285723d8.png",CBS Drama
+http://localhost:65007/?url=1805&mode=1
+
+#EXTINF:-1 tvg-id="CBS Reality (link2)" tvg-name="CBS_Reality_(link2)" group-title="Entertainment - בידור" tvg-logo="e666814de98967325f46a6c28088c084.png",CBS Reality (link2)
+http://maxtv.duckdns.org/Content/HLS/Live/Channel(cbs_reality)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS Reality" tvg-name="CBS_Reality" group-title="Entertainment - בידור" tvg-logo="e666814de98967325f46a6c28088c084.png",CBS Reality
+http://localhost:65007/?url=1808&mode=1
+
+#EXTINF:-1 tvg-id="CBS Reality +1" tvg-name="CBS_Reality_+1" group-title="Entertainment - בידור" tvg-logo="b69cd77821f87f6d137f93a83411b4d4.png",CBS Reality +1
+http://localhost:65007/?url=1811&mode=1
+
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion_TV" group-title="Entertainment - בידור" tvg-logo="ab5217dd56652cf566dc1cd179add4ed.png",Fashion TV
+http://localhost:65007/?url=21&mode=1&ignorefilmonguide=1
+
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion_TV" group-title="Entertainment - בידור" tvg-logo="ab5217dd56652cf566dc1cd179add4ed.png",Fashion TV
+http://maxtv.duckdns.org/Content/HLS/Live/Channel(fashion_tv)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion_TV" group-title="Entertainment - בידור" tvg-logo="ab5217dd56652cf566dc1cd179add4ed.png",Fashion TV
+http://46.249.213.87/iPhone/broadcast/fashiontv-tablet.3gp/fashiontv-tablet.3gp-mr648k.m3u8
+
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion_TV" group-title="Entertainment - בידור" tvg-logo="ab5217dd56652cf566dc1cd179add4ed.png",Fashion TV
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion_TV" group-title="Entertainment - בידור" tvg-logo="ab5217dd56652cf566dc1cd179add4ed.png",Fashion TV
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FASHIONTV/variant.m3u8
+
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion_TV" group-title="Entertainment - בידור" tvg-logo="ab5217dd56652cf566dc1cd179add4ed.png",Fashion TV
+http://edgeb.streaming.sk/fashiontv/fashiontv.stream/playlist_b125000_w304569164.m3u8
+
+#EXTINF:-1 tvg-id="Runway TV" tvg-name="Runway_TV" group-title="Entertainment - בידור" tvg-logo="a32a48cc6b192d59861702c94a713bef.png",Runway TV
+http://localhost:65007/?url=3116&mode=1
+
+#EXTINF:-1 tvg-id="World Fashion TV" tvg-name="World_Fashion_TV" group-title="Entertainment - בידור" tvg-logo="2e11c92122e995fe8454588bf6130f56.jpg",World Fashion TV
+http://46.249.213.93/iPhone/broadcast/worldfashionchannel-tablet.3gp/worldfashionchannel-tablet.3gp-mr648k.m3u8?trackingid=3791770000&os=desktop
+
+#EXTINF:-1 tvg-id="Fashion One" tvg-name="Fashion_One" group-title="Entertainment - בידור" tvg-logo="87175716514e6a60bb74148850c27a0a.jpg",Fashion One
+http://localhost:65007/?url=34&mode=6
+
+#EXTINF:-1 tvg-id="RetroTV" tvg-name="RetroTV" group-title="Entertainment - בידור" tvg-logo="21c959e86783f4192b5b18789b677691.png",RetroTV
+http://localhost:65007/?url=278&mode=6
+
+#EXTINF:-1 tvg-id="Urban Comedy" tvg-name="Urban_Comedy" group-title="Entertainment - בידור" tvg-logo="f0ead1fb36dd7562367b9ab23df5f588.png",Urban Comedy
+http://localhost:65007/?url=497&mode=1
+
+#EXTINF:-1 tvg-id="Popcorn TV" tvg-name="Popcorn_TV" group-title="Entertainment - בידור" tvg-logo="1c007ea5e8a42451d485d6befa7246c0.png",Popcorn TV
+http://localhost:65007/?url=716&mode=1
+
+#EXTINF:-1 tvg-id="ComedyTime TV" tvg-name="ComedyTime_TV" group-title="Entertainment - בידור" tvg-logo="e5afc662266e156a8ec387635b7f9562.png",ComedyTime TV
+http://localhost:65007/?url=344&mode=1
+
+#EXTINF:-1 tvg-id="DAYSTAR" tvg-name="DAYSTAR" group-title="Entertainment - בידור" tvg-logo="afc7e3b579b8c6e138c9d2fbb7135ae2.png",DAYSTAR
+http://localhost:65007/?url=833&mode=1&ignorefilmonguide=1
+
+#EXTINF:-1 tvg-id="DAYSTAR" tvg-name="DAYSTAR" group-title="Entertainment - בידור" tvg-logo="afc7e3b579b8c6e138c9d2fbb7135ae2.png",DAYSTAR
+http://localhost:65007/?url=109&mode=6
+
+#EXTINF:-1 tvg-id="TBN" tvg-name="TBN" group-title="Entertainment - בידור" tvg-logo="af50da7cf1b02523af2bce7c7f8bd6cd.png",TBN
+http://localhost:65007/?url=398&mode=1
+
+#EXTINF:-1 tvg-id="TBN" tvg-name="TBN" group-title="Entertainment - בידור" tvg-logo="af50da7cf1b02523af2bce7c7f8bd6cd.png",TBN
+http://localhost:65007/?url=http://acaooyalahd2-lh.akamaihd.net/z/TBN01_delivery@186239/manifest.f4m?hdcore=2.10.3&g=IAIMKXCGDRUM
+
+#EXTINF:-1 tvg-id="CBN" tvg-name="CBN" group-title="Entertainment - בידור" tvg-logo="e982addcb74bfd54c6639b814ad87098.jpg",CBN
+http://bcoveliveios-i.akamaihd.net/hls/live/201592/734546207001_1/master_Layer3.m3u8
+
+#EXTINF:-1 tvg-id="Angel TV" tvg-name="Angel_TV" group-title="Entertainment - בידור" tvg-logo="8fd69ca1278ca955428131555f65d208.jpg",Angel TV
+http://localhost:65007/?url=http://edge.purplestream.com/live/ind/angeltvindia600/manifest.f4m
+
+#EXTINF:-1 tvg-id="Angel TV" tvg-name="Angel_TV" group-title="Entertainment - בידור" tvg-logo="8fd69ca1278ca955428131555f65d208.jpg",Angel TV
+http://localhost:65007/?url=114&mode=6
+
+#EXTINF:-1 tvg-id="TV7 (Finland)" tvg-name="TV7_(Finland)" group-title="Entertainment - בידור" tvg-logo="ffa1980a3f2854870ad87e488df3d1b8.png",TV7 (Finland)
+rtmp://vod.tv7.fi/tv7-fi/mp4:tv7-fi.stream_360p
+
+#EXTINF:-1 tvg-id="CFRN CTV Edmonton" tvg-name="CFRN_CTV_Edmonton" group-title="Entertainment - בידור" tvg-logo="15334d0f42f6a0b44259ef8ee5e8ffb5.png",CFRN CTV Edmonton
+http://localhost:65007/?url=2053&mode=1&ignorefilmonguide=1
+
+#EXTINF:-1 tvg-id="CKCK CTV Regina" tvg-name="CKCK_CTV_Regina" group-title="Entertainment - בידור" tvg-logo="883310c2703a2c621b8094f72424a444.png",CKCK CTV Regina
+http://localhost:65007/?url=2056&mode=1&ignorefilmonguide=1
+
+#EXTINF:-1 tvg-id="CFCN-5 CTV Lethbridge" tvg-name="CFCN-5_CTV_Lethbridge" group-title="Entertainment - בידור" tvg-logo="3867ff88a69983806d53942bc8a29fb8.png",CFCN-5 CTV Lethbridge
+http://localhost:65007/?url=2059&mode=1&ignorefilmonguide=1
+
+#EXTINF:-1 tvg-id="CICC CTV Yorkton" tvg-name="CICC_CTV_Yorkton" group-title="Entertainment - בידור" tvg-logo="5c467a8f7403ac67809d272cb082fde0.png",CICC CTV Yorkton
+http://localhost:65007/?url=2062&mode=1&ignorefilmonguide=1
+
+#EXTINF:-1 tvg-id="Levant TV" tvg-name="Levant_TV" group-title="Entertainment - בידור" tvg-logo="4fe488b19a5e6b49695b3b0279c83ea9.png",Levant TV
+http://localhost:65007/?url=3178&mode=1
+
+#EXTINF:-1 tvg-id="Jewish Life TV" tvg-name="Jewish_Life_TV" group-title="Entertainment - בידור" tvg-logo="95786a0d6846d01a0aae4273fa0e5b61.png",Jewish Life TV
+http://50.112.241.187:1935/rtplive/smil:jltv.smil/chunklist_w750534876_b819000.m3u8
+
+#EXTINF:-1 tvg-id="RTE 1" tvg-name="RTE_1" group-title="Entertainment - בידור" tvg-logo="b05f7cc0653f99575479c7e435d6bc4c.jpg",RTE 1
+http://localhost:65007/?url=http://www.rte.ie/manifests/rte1.f4m
+
+#EXTINF:-1 tvg-id="RTE 2" tvg-name="RTE_2" group-title="Entertainment - בידור" tvg-logo="d5973e4b080d555440605c891dbc1061.jpg",RTE 2
+http://localhost:65007/?url=http://www.rte.ie/manifests/rte2.f4m
+
+#EXTINF:-1 tvg-id="Psychic Today" tvg-name="Psychic_Today" group-title="Entertainment - בידור" tvg-logo="f897f323f73f06defab727aebf6d8096.png",Psychic Today
+http://localhost:65007/?url=1711&mode=1
+
+#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS_World" group-title="Entertainment - בידור" tvg-logo="dd220d10d73dd4e0dca99423acb6d95f.jpg",KBS World
+http://localhost:65007/?url=http://www.youtube.com/watch?v=eRcfW2KekaM
+
+#EXTINF:-1 tvg-id="ICN English" tvg-name="ICN_English" group-title="Entertainment - בידור" tvg-logo="06ae735d1ea66536367e896121e11827.png",ICN English
+http://localhost:65007/?url=1958&mode=1
+
+#EXTINF:-1 tvg-id="Wonderful Living TV" tvg-name="Wonderful_Living_TV" group-title="Entertainment - בידור" tvg-logo="9b14ea22040701504d1b4dfb55f84d82.png",Wonderful Living TV
+http://localhost:65007/?url=2990&mode=1
+
+#EXTINF:-1 tvg-id="vox africa" tvg-name="vox_africa" group-title="Entertainment - בידור" tvg-logo="aabda4e4c6c289fb226027fc7c163d67.jpg",vox africa
+http://localhost:65007/?url=81&mode=6
+
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" group-title="Entertainment - בידור" tvg-logo="e06aa9227f86fd6d588838ba6fbce5e2.jpg",RTL
+http://maxtv.duckdns.org/Content/HLS/Live/Channel(rtl_televizija)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id="RTL2" tvg-name="RTL2" group-title="Entertainment - בידור" tvg-logo="6cd4e5eab0f95a754136cf6158e8df0b.png",RTL2
+http://maxtv.duckdns.org/Content/HLS/Live/Channel(rtl_2)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id="RTL PLUS" tvg-name="RTL_PLUS" group-title="Entertainment - בידור" tvg-logo="a250805d04c7dba830cac9535be635e1.png",RTL PLUS
+http://maxtv.duckdns.org/Content/HLS/Live/Channel(rtlplus)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id="RTL KOCKICA" tvg-name="RTL_KOCKICA" group-title="Entertainment - בידור" tvg-logo="8cb146367ef06af13c50fc40d4f6f717.jpg",RTL KOCKICA
+http://maxtv.duckdns.org/Content/HLS/Live/Channel(rtl_kockica)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id="VOX" tvg-name="VOX" group-title="Entertainment - בידור" tvg-logo="6fcffa1b57e0cad1121fe630a9542fa8.jpg",VOX
+http://maxtv.duckdns.org/Content/HLS/Live/Channel(vox_tv)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id="kino tv" tvg-name="kino_tv" group-title="Entertainment - בידור" tvg-logo="8400e664c558a3e747a7980916a7e5d1.jpg",kino tv
+http://maxtv.duckdns.org/Content/HLS/Live/Channel(kino_tv)/Stream(03)/index.m3u8
+
+
+#EXTINF:-1,ESKA PARTY
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p
+#EXTINF:-1, ESKA PARTY HD
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+
+#EXTINF:0,KISS TV
+http://csm-e.cds1.yospace.com/csm/live/86561716.m3u8
+
+#EXTINF:-1, TLC
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?
+#EXTINF:-1, WORLD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
+#EXTINF:-1, ANIMAL PLANET
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
+#EXTINF:-1, LIFETIME
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?
+
+#EXTINF:-1, PROYECTO 40
+http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?
+#EXTINF:-1, FOX 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+#EXTINF:-1, FOX ACTION HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+#EXTINF:-1, FOX MOVIES HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:-1, CINECANAL +
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?
+#EXTINF:-1, TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?
+#EXTINF:-1, GOLDEN HD
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?
+#EXTINF:-1, FILM ZONE HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+#EXTINF:-1, DE PELICULA HD
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?
+#EXTINF:-1, AMC ( Not English all the time)
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?
+#EXTINF:-1, SPACE HD ( Not English all the time)
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?
+
+#EXTINF:-1, ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+#EXTINF:-1, FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+#EXTINF:-1, FOX SPORTS 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+#EXTINF:-1, AZTECA 7
+http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?
+#EXTINF:-1, MTV LIVE
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
+
+#EXTINF:-1, VH1
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
+
+#EXTINF:-1, MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
+
+#EXTINF:-1, BANDAMAX
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?
+
+#EXTINF:-1, A AND E
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
+
+#EXTINF:-1, AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
+
+#EXTINF:-1, COMEDY CENTRAL
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
+
+#EXTINF:-1, FOX
+http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?
+
+#EXTINF:-1, BBC
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
+
+#EXTINF:-1, E
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
+
+#EXTINF:-1, UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?
+
+#EXTINF:-1, SYFY
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?
+
+#EXTINF:-1, FX
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
+
+#EXTINF:-1, INF
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?
+
+#EXTINF:-1, GOURMET
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?
+
+#EXTINF:-1, GLITZ
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?
+
+#EXTINF:-1, FOX LIFE
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?
+
+#EXTINF:-1, DISTRITO COMEDIA
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?
+
+#EXTINF:-1, TBS
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?
+
+
+#EXTINF:-1, DISCOVERY KIDS
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
+
+#EXTINF:-1, CBEEBIES
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
+
+#EXTINF:-1, DISNEY JR
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
+
+#EXTINF:-1, NICK JR
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
+
+#EXTINF:-1, DISNEY CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
+
+#EXTINF:-1, NICK HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+
+#EXTINF:-1, NICK
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?
+
+#EXTINF:-1, CARTOON NETWORK
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+
+#EXTINF:-1, DISNEY XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
+
+#EXTINF:-1, BOOMERANG
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
+
+#EXTINF:-1, TOONCAST
+
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
+
+#EXTINF:-1, TIIN
+
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?
+
+
+#EXTINF:-1, FOX CINEMA
+
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+
+#EXTINF:-1, FOX FAMILY
+
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+
+#EXTINF:-1, FOX CLASSICS
+
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
+
+#EXTINF:-1, CINECANAL
+
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?
+
+#EXTINF:-1, TNT
+
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?
+
+#EXTINF:-1, GOLDEN EDGE
+
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?
+
+#EXTINF:-1, AMC
+
+http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8?
+
+#EXTINF:-1, STUDIO UNIVERSAL
+
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?
+
+#EXTINF:-1, TCM
+
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?
+
+#EXTINF:-1,ESPN BaseBall Today
+http://198.179.31.181:1935/vodlast/1147.low.m4v/playlist.m3u8
+
+#EXTINF:-1,ESPN Football Today
+http://198.179.31.181:1935/vodlast/1469.low.m4v/playlist.m3u8
+
+#EXTINF:-1,SportsNet Now
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+
+#EXTINF:-1,AT THE RACES
+rtmp://31.220.0.195:80/live/atraccex pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=atracessa?wspe3?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://flashtv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv token=%Zrey(nKa@#Z pageUrl=http://reytv.co/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
+
+
+#EXTINF:-1,Bein Sports HD
+rtmp://65.111.174.111/iptv/beinsports2.stream
+#EXTINF:-1,BeinSports HD Backup
+http://65.111.174.111:1935/iptv/beinsports2.stream/playlist.m3u8?husham.com
+
+
+#EXTINF:-1,Euro Sport
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
+#EXTINF:-1 , Big Ten Network HD (720)
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+
+
+#EXTINF:-1,Sport Time TV1 HD Ddeutchland
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+
+#EXTINF:-1,Sport Time TV2 HD Deutchland
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+
+#EXTINF:-1,Sport Time TV3 HQ Deutchland
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
+
+#EXTINF:-1,Sport Time TV4 HD Deutchland
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800
+
+#EXTINF:-1,Sport Time TV5 HD Deutchland
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
+
+#EXTINF:-1,Sport Time TV 6 HD Deuchland
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
+
+#EXTINF:-1,Sport Time TV 7 HD Deutchland
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
+
+
+#EXTINF:-1,IRAK Iraqiya Sport 
+http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
+#EXTINF:-1,AD Sports 1 (UAE)
+http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8
+#EXTINF:-1,AD Sports 2 (UAE)
+http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8
+#EXTINF:-1,Dubai Sport
+http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/playlist.m3u8
+#EXTINF:-1,Dubai Sports 3 (UAE)
+http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/HasBahCa.m3u8
+#EXTINF:-1,Dubai Racing (UAE)
+http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/playlist.m3u8
+#EXTINF:-1,ARABIC-BAHRAIN SPORTS
+rtmp://alayam.netromedia.net/btv3/btv3
+#EXTINF:-1,ARABIC-Dubai Racing
+http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/HasBahCa.m3u8
+#EXTINF:-1,ARABIC-Dubai Sports 3
+http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/HasBahCa.m3u8
+#EXTINF:-1,ARABIC-KTV Sport Extra
+rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
+#EXTINF:-1,ARABIC-KTV Sport Plus
+rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
+
+#EXTINF:-1,PORSCHE CHANNEL mms
+mms://100automoto.tv/channel_porsche
+
+#EXTINF:-1,AutoSport TV mms
+mms://100automoto.tv/100livesport
+#EXTINF:-1,BMW CHANNEL Italia mms
+mms://100automoto.tv/bmw
+
+#EXTINF:-1,Motors TV
+rtmp://mi2.gv.filmon.com:8086/live/262.high.stream
+#EXTINF:-1,Motorsport 7 Channel Australia
+http://motorsport.hopto.org:8080/
+#EXTINF:-1,MOTORS
+http://live305.edge.filmon.com/live/262.low.stream/playlist.m3u8?id=0ad5aac39bb13fbed23ce613640bd027ecf89bc25f2d99f39f15b50ec50e7a029431108390789e025d255e0731eacee80432960ae4f3980b589ca70c99de647890552fffc27c06ebdeba80ad361e46107cde5857966758f18e8150616bab36f2951232b90f813e8bea896f38cc2024ebe29427ba8d77ac3e009df366ba2b15bc6dc22758c0736b8e97789014f49a636da58e22c60c1cac53
+
+#EXTINF:-1,ENG-Classic Goals (Low Quality)
+rtsp://46.249.213.93/broadcast/classicgoals-tablet.3gp
+#EXTINF:-1,ENG-Climb On (Low Quality)
+rtsp://46.249.213.93/broadcast/climbon-tablet.3gp
+#EXTINF:-1,ENG-Ghetto Kid(Low Quality)
+rtsp://46.249.213.93/broadcast/ghettokid-tablet.3gp
+#EXTINF:-1,ENG-MMA BAY TV(Low Quality)
+rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
+
+#EXTINF:-1,MMA(Low Quality)
+rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
+
+#EXTINF:-1,GREEK-TILESPORT (low quality)
+http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
+
+#EXTM3U
+#EXTINF:-1,[COLOR yellow]by tutorial-iptv-xbmc.blogspot.com[/COLOR]
+
+#EXTINF: 0 horrible HD
+
+http://46.61.226.18/hls/CH_C01_STRASHNOEHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Channel HD
+
+http://46.61.226.18/hls/CH_C06_1TVHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Russia HD
+
+http://hls.svc.moyo.tv/hls/CH_RUSSIAHD/bw3378000/variant.m3u8?version=2
+
+#EXTINF: 0, Russia HD
+
+http://46.61.226.18/hls/CH_C05_RUSSIA1HD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, TV Comedy HD 1000
+
+http://46.61.226.18/hls/CH_C03_TV1000COMEDYHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, TV Megahit HD 1000
+
+http://46.61.226.18/hls/CH_C03_TV1000MEGAHITHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, TV 1000 Premium HD
+
+http://46.61.226.18/hls/CH_C05_TV1000PREMIUMHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, AMEDIA 1 HD
+
+http://46.61.226.18/hls/CH_C01_HDAMEDIA/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Amedia Premium HD
+
+http://46.61.226.18/hls/CH_C05_HDAMEDIAPREMIUM/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Animal Planet HD
+
+http://46.61.226.18/hls/CH_C03_ANIMALPLANETHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Discovery Channel HD
+
+http://46.61.226.18/hls/CH_C05_DISCOVERYCHANNELHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Discovery Science HD
+
+http://46.61.226.18/hls/CH_C05_DISCOVERYSCIENCEHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Eurosport HD
+
+http://46.61.226.18/hls/CH_C02_EUROSPORTHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Sport 1 HD
+
+http://hls.svc.moyo.tv/hls/CH_SPORT1HD/bw3378000/variant.m3u8?version=2
+
+#EXTINF: 0, Sport 1 HD
+
+http://46.61.226.18/hls/CH_C04_SPORT1HD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, FOX HD
+
+http://46.61.226.18/hls/CH_C02_FOXHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Fashion One HD
+
+http://46.61.226.18/hls/CH_C04_FASHIONONEHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Fox Life HD
+
+http://46.61.226.18/hls/CH_C04_FOXLIFEHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, History HD
+
+http://46.61.226.18/hls/CH_C05_HDHISTORY/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Mezzo Live HD
+
+http://46.61.226.18/hls/CH_C05_MEZZOLIVEHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, My Zen TV HD
+
+http://46.61.226.18/hls/CH_C05_MYZENTVHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Nat Geo Wild HD
+
+http://46.61.226.18/hls/CH_C03_NATGEOWILDHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, National Geographic HD
+
+http://46.61.226.18/hls/CH_C04_NGCHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Nickelodeon HD
+
+http://46.61.226.18/hls/CH_C01_NICKELODEONHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Outdoor Channel HD
+
+http://46.61.226.18/hls/CH_C01_OUTDOORCHANNELHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Paramount Channel HD
+
+http://46.61.226.18/hls/CH_C02_PARAMOUNTCHANNELHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Paramount Comedy HD
+
+http://46.61.226.18/hls/CH_C03_PARAMOUNTCOMEDYHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, RTTV HD
+
+http://46.61.226.18/hls/CH_C04_RTTVHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, SET HD
+
+http://46.61.226.18/hls/CH_C02_SETHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, TLC HD
+
+http://46.61.226.18/hls/CH_C04_TLCHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Travel and Adventure HD
+
+http://46.61.226.18/hls/CH_C02_TRAVELCHANNELHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, CHL HD
+
+http://46.61.226.18/hls/CH_C02_KHLHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Our Football HD
+
+http://46.61.226.18/hls/CH_C06_NASHFOOTBALLHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, 1 Football HD
+
+http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Football 2 HD
+
+http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Football 3 HD
+
+http://46.61.226.18/hls/CH_FUTBALL3HD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Viasat Golf HD
+
+http://46.61.226.18/hls/CH_C06_VIASATGOLFHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Viasat Nature / History HD
+
+http://46.61.226.18/hls/CH_C03_VIASATNATUREHISTORYHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Viasat Sport HD
+
+http://46.61.226.18/hls/CH_C06_VIASATSPORTHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, Food Network HD
+
+http://46.61.226.18/hls/CH_C05_FOODHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0, MTV Live HD
+
+http://46.61.226.18/hls/CH_C03_MTVLIVEHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF: 0 Trophy HD
+
+http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&id=2
+
+#EXTINF: 0 HD Movie Menu
+
+http://93.95.99.231:1935/live/km/playlist.m3u8
+
+#EXTINF: 0, Nasa HD (ENG)
+
+http://media.infozen.cshls.lldns.net/infozen/media/media/media_1000.m3u8
+
+#EXTINF: 0, Nasa HD (ENG)
+
+http://public.infozen.cshls.lldns.net/infozen/public/public/public_1000.m3u8
+
+#EXTINF: 0, IQ HD
+
+http://hls.svc.moyo.tv/hls/CH_IQHD/bw3378000/variant.m3u8?version=2
+
+#EXTINF: 0, Channel HD
+
+http://hls.svc.moyo.tv/hls/CH_1TVHD/bw3378000/variant.m3u8?version=2
+
+#EXTINF: 0,24 Dock
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_24DOC/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0,2×2
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_2X2/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0,5 channel
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_5TV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0,8 channel
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_8CHANNEL/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, A-one
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_AONE/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Amedia1
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_AMEDIA/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Amazing Life
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_AMAZINGLIFE/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Animal Planet
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ANIMALPLANET/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, BBC World News
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_BBCWORLDNEWS/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Baby TV
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_BABYTV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Boomerang
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BOOMERANG/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Bridge TV
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_BRIDGETV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Cartoon Network
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_CN/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Discovery Science
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_DISCOVERYSCIENCE/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Discovery World
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_DISCOVERYWORLD/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, E! Entertainment
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_EENTERTEMENT/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, EUROPA PLUS TV
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_EUROPAPLUSTV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, English club TV
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ENGLISHCLUB/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Euronews
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_EURONEWS/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Eurosport
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORT/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Eurosport 2
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Eurosport News
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORTNEWS/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Extreme Sports
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_EXTREMESPORTS/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, FOX
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_FOX/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Fashion TV
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FASHIONTV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Fox Life
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_FOXLIFE/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, France 24
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_FRANCE24/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Gulli
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_GULLI/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, History
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_HISTORY/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Investigation Discovery
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_DISCOVERYINVESTIGATION/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, JimJam
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_JIMJAM/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Lifenews
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_LIFENEWS/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, MCM TOP
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_MCMTOP/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, MGM
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_MGM/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, MTV Russia
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, MTV Dance
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, MTV Hits
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_MTVHITS/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, MTV Rocks
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_MTVROCKS/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, MusicBox TV
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_MUSICBOXTV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Mezzo
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MEZZO/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Motors TV
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_MOTORSTV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, NAT Geo Wild
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEOWILD/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, NHK World TV
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_NHK/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, National Geographic
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_NATGEO/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Nick Jr
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_NICKJUNIOR/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Nickelodeon
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_NICKELODEON/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Ocean TV
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_OCEANTV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Outdoor Channel
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OUTDOOR/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Paramount Channel
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_PARAMOUNTCHANNEL/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Paramount Comedy
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_PARAMOUNTCOMEDY/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, RU.TV
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUTV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, RUSONG TV
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_RUSONGTV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, MusicBox RU
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MUSICBOXRU/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Russia Today
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_RT/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Sony Sci-Fi
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_SONYSCIFI/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Sony Turbo
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_SONYTURBO/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, TLC
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_TLC/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, TV1000
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_TV1000/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, TV1000 Action
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_TV1000ACTION/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, TV1000 Russian cinema
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_TV1000RUS/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, TV XXI
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_TVXXI/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, TiJi
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_TIJI/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Travel + Adventure
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_TRAVELCHANNEL/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Universal Channel
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_UNIVERSAL/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, VH1 Classic
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, VH1 European
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1EUROPEAN/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Viasat Explore
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATEXPLORER/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Viasat History
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATHISTORY/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Viasat Nature CEE
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_VIASATNATURE/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Viasat Sport
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_VIASATSPORT/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Zee-TV
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_ZEETV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Zoopark
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_ZOOPARK/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Auto Plus
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_AUTOPLUS/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Fighter
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOETZ/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Fight Club
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_FIGHTCLUB/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Questions and Answers
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_VOPROSIOTVET/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Children
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_DETSKIJ/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Detsky Mir + Teleclub
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_DETSKIJMIR/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Drive
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_DRIVE/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Evrokino
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_EUROKINO/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, LIVE!
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_JIVI/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Star
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_ZVEZDA/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Healthy TV
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_ZDOROVOETV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Illusion +
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_ULLUSIONPLUS/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Inva Media TV
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_INVAMEDIATV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, History
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_ISTORIYA/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 MOVIES TV
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_KINOTV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, CHL
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_KHL/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Disney Channel
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Carousel
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_KARUSEL/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 KinoSoyuz
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_NTVPLUSKINOSOYUZ/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Comedy TV
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_COMEDYTV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Who is Who
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_KTOESTKTO/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 in A minor
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_AMOLL/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 World
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_MIR/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 World 24
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_MIR24/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 My Planet
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_MYPLANET/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, MUZ-TV
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_MUZTV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Cartoon
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_MULT/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, really scary Television
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_NSTV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, NTV
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, NTV-Plus Basketball
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_NTVPLUSBASKETBOL/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, NTV-Plus Movie Plus
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTVPLUSKINO/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Our cinema
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_NTVPLUSNASHEKINO/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, NTV Plus Sport Plus
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTVPLUSPORT/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Science 2.0
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_NAUKA20/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Our football
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_NASHFUTBOL/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Our new movies
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_NTVPLUSNOVOEKINO/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Nostalgia
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_NOSTALGIYA/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Russian Public Television
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_OTR/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Weapons
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_WEAPON/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Hunting and Fishing
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OHOTAIRYBALKS/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Amusement Park
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_PARKRAZVLECHENIJ/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 First
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_1TV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, First Education
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_PERVYJOBRAZOVATELNYJ/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Pepper
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_PERETZ/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Enlightenment
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_PROSVESCHENIE/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Friday
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_PYATNIZZA/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, RBC
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_BRC/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, REN TV
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_RENTV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, My Joy
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_RADOSTMOYA/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Time TV
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_RAZTV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Russia 1
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_RUSSIA1/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Russia 2
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_RUSSIA2/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Russia 24
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA24/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Culture
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_RUSSIAK/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Russian Bestseller
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANBESTSELLER/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Russian Illusion
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_RUSSIANILLUSION/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Russian novel
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_RUSSINAROMAN/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Russian extreme
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_RUSSIANEXTREAM/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Dress
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_C01_SARAFAN/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Union
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_SOYUZ/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Sports
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPORT/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Sports
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPORT/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Sport 1
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Country
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_STRANA/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 TV Center
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_TVC/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, TV3
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_TV3/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Techno 24
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_24TEHNO/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, TNT
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_TNT/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, TPO
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_TRO/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Homestead
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_USADBA/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Success
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_USPEH/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Phoenix Cinema +
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_GENIKSPLUSKINO/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Football
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_FUTBALL/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Chanson-TB
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SHANSONTV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, S
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_U/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Humor Box
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_HUMORTV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, AB Moteurs
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_ABMOTEURS/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, CBS Drama
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_CBSDRAMA/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Discovery Channel
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_DISCOVERYCHANNEL/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Pets
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_DOMASHNIEZHIVOTNYE/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Multimania
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_MULTIMANIA/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Amedia Premium
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_AMEDIAPREMIUMSD/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Russian detective
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_C04_RUSSIANDETECTIVE/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, CDS Reality
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_CBSREALITY/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Spas
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_SPAS/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, RETRO
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_RETROTV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 Conference TV
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_KONFERENTSIYATV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, MA
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MATIDITYA/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, TOGETHER-RF
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SOVETFEDERATSII/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, All TV
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_VSETV/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Shop24
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_C04_SHOP24/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Shopping Live
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_SHOPPINGLIFE/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Sony Entertainment Television
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SET/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Food Network
+
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_C05_FOOD/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, DW-TV
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_DEUTSCHEWELLE/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Da Vinci learning
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_DAVINCILEARNING/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0, Nautical Channel
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_NAUTICALCHANNEL/bw480000/variant.m3u8?version=2
+
+#EXTINF: 0 PSIHOLOGIYA21
+
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_PSIHOLOGIYA21/bw480000/variant.m3u8?version=2
+
+#EXTINF:0,BBC Sport
+http://93.184.221.133/00573D/1104/1104-0.m3u8
+#EXTINF:0,British Eurosport
+http://93.184.221.133/00573D/1210/1210-0.m3u8
+#EXTINF:0,British Eurosport 2
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+#EXTINF:0,Sky Sports News
+http://93.184.221.133/00573D/183/183-0.m3u8
+#EXTINF:0,Viasat Golf (2)
+http://93.184.221.133/00573D/911/911-0.m3u8
+#EXTINF:0,Fox 11 USA
+http://93.184.221.133/00573D/1093/1093-0.m3u8
+#EXTINF:0,ABC7 USA
+http://93.184.221.133/00573D/1086/1086-0.m3u8
+#EXTINF:0,CNBC USA
+http://93.184.221.133/00573D/1085/1085-0.m3u8
+#EXTINF:0,CBS 2 USA
+http://93.184.221.133/00573D/1084/1084-0.m3u8
+#EXTINF:0,BOXNATION
+http://93.184.221.133/00573D/1222/1222-0.m3u8
+#EXTINF:0,EURONEWS
+http://93.184.221.133/00573D/346/346-0.m3u8
+#EXTINF:0,DRAMA CHANNEL
+http://93.184.221.133/00573D/1348/1348-0.m3u8
+#EXTINF:0,DISCOVERY EUROPE
+http://93.184.221.133/00573D/1347/1347-0.m3u8
+#EXTINF:0,DISCOVERY HISTORY
+http://93.184.221.133/00573D/1348/1348-0.m3u8
+#EXTINF:0,DAVE
+http://93.184.221.133/00573D/290/290-0.m3u8
+#EXTINF:0,SKY INFO
+http://93.184.221.133/00573D/1451/1451-0.m3u8
+#EXTINF:0,RTE 1
+http://93.184.221.133/00573D/345/345-0.m3u8
+#EXTINF:0,C-MORE
+http://93.184.221.133/00573D/1460/1460-0.m3u8
+#EXTINF:0,NAT GEO
+http://93.184.221.133/00573D/338/338-0.m3u8
+#EXTINF:0,MTV
+http://93.184.221.133/00573D/1345/1345-0.m3u8
+#EXTINF:0,MOVIES 4
+http://93.184.221.133/00573D/311/311-0.m3u8
+#EXTINF:0,Kanal 6
+http://93.184.221.133/00573D/231/231-0.m3u8
+#EXTINF:0,CHANNEL 4
+http://93.184.221.133/00573D/292/292-0.m3u8
