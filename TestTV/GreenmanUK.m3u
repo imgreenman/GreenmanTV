@@ -1,0 +1,96 @@
+#EXTM3U
+
+#EXTINF:-1, At The Races
+http://llnw.live.simplestream.com/coder1/coder.channels.channel2/hls/1/playlist.m3u8
+#EXTINF:-1, BBC 1
+http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
+#EXTINF:-1, BBC 2
+http://llnw.live.simplestream.com/mediaexcel01/channel02/3/prog_index.m3u8
+#EXTINF:-1, BBC 3
+http://llnw.live.simplestream.com/mediaexcel01/channel06/3/prog_index.m3u8
+#EXTINF:-1, BBC 4
+http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8
+#EXTINF:-1, BBC Sport
+http://llnw.live.simplestream.com/coder2/coder.channels.channel5/hls/3/playlist.m3u8
+#EXTINF:-1, BBC World News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:-1, Boxnation
+http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8
+#EXTINF:-1, Channel 4
+http://llnw.live.simplestream.com/mediaexcel01/channel04/3/prog_index.m3u8
+#EXTINF:-1, 5
+http://llnw.live.simplestream.com/mediaexcel01/channel05/3/prog_index.m3u8
+#EXTINF:-1, Dave
+http://live308.edge.filmon.com/live/370.low.stream/chunklist_w2116852538.m3u8?id=0ad5aac39bb13fbeb3e05f82c00e8e5e187777d1fe49de01af1e453f02ed318683b95751e03dfc4f28ef70d90d49a082506a3ba24bc599a60b4a680bb924197e33218d723071de1a2610cc38eda232017472792e328c8ba63b75e35957ccb78a9323ca84fb11032b9c2f287efad016a0fb0733e41e53588deab5653eee940b384a4b871803cd468e52f2c6182379a1407b5af11709b25707
+#EXTINF:-1, E4
+http://llnw.live.simplestream.com/coder10/coder.channels.channel21/hls/3/22619.ts
+#EXTINF:-1, Fashion TV
+http://46.249.213.87/iPhone/HLS_TS/broadcast/fashiontv-tablet.3gp/fashiontv-tablet.3gp-mr648k/9201.ts?trackingid=3181420000&os=mobi1&os=mobi1
+#EXTINF:-1, Flava
+http://ipm.iphone-tv.eu:1345/Live/Auth:11e88166ce076fe9975354890e0c9e89bda734fab34ddda57d197eca55713b1c/Channel:flava/Stream:g3-1041_WIFIHD-d293emFzZXNzaW9uaWQ9MTUyNTYzNzA1NSZFPXhycnp6Jk42PU1MS1A1RTYmRj0tdXV2ck5MTE1PdXJ0eXVzendMd3hQT3p1eXF1dXZ5TCZNU0s9dHJ1ZSZOSE09dnlxcXFxcXl0eXImNkhNPVRMT1dVSGFJQkNMYUI4NlBFeSZOSE02PXkmSj15dnhxd3p0dXpyeHp2Jjc2PXg=/chunklist.m3u8
+#EXTINF:-1, iConcerts
+http://ipm.iphone-tv.eu:1345/Live/Auth:a6b6a7148dd07949329d7f66945595892d9b4e61ea2fd8b8a06df0b4fd934461/Channel:iconcerts/Stream:g3-6305_WIFIHD-d293emFzZXNzaW9uaWQ9MTc4OTkzODA4NCZFPXhycnp6Jk42PU1MS1A1RTYmRj12UHZ1T3FxTk50S3VQekxQTE5PdE1zeE5xT0tLc3F2dCZNU0s9dHJ1ZSZOSE09dnlxcXFxcXl4enEmNkhNPVRMT1dVSGFJQkNMYUI4NlBFeSZOSE02PXkmSj15dnhxd3p0dXR2c3J1Jjc2PXg=/chunklist.m3u8
+#EXTINF:-1, ITV 1
+http://llnw.live.simplestream.com/mediaexcel01/channel03/3/prog_index.m3u8
+#EXTINF:-1, ITV 2
+http://llnw.live.simplestream.com/coder12/coder.channels.channel8/hls/3/217893.ts
+#EXTINF:-1, ITV 3
+http://llnw.live.simplestream.com/coder12/coder.channels.channel10/hls/3/playlist.m3u8
+#EXTINF:-1, ITV 4
+http://llnw.live.simplestream.com/coder12/coder.channels.channel12/hls/3/playlist.m3u8
+#EXTINF:-1, Motors TV
+http://46.61.226.18/hls/CH_MOTORSTV/bw1500000/playlist.m3u8?version=2&utcstart=1429306716.7062016
+#EXTINF:-1, MTV Dance
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/bw1500000/playlist.m3u8?utcstart=1429306798.3739233
+#EXTINF:-1, MTV Hits
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_MTVHITS/bw1500000/playlist.m3u8?version=2&utcstart=1429306830.5834854
+#EXTINF:-1, MTV Rocks
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_MTVROCKS/bw1500000/playlist.m3u8?version=2&utcstart=1429306882.51196
+#EXTINF:-1, Planet Pop
+http://ipm.iphone-tv.eu:1345/Live/Auth:58d1af4bf2077d734f9a9044e1c41eab09c48816d2f3bac5d9f65c9cfc28f85f/Channel:planetpop/Stream:g4-2215_WIFIHD-d293emFzZXNzaW9uaWQ9MzY4NzczMDMxJkU9eHJyenomTjY9TUxLUDVFNiZGPXVyTHp4c3FxTkxPUE90c3F0c05Lc3dPenZ2dHpNeXR0Jk1TSz10cnVlJk5ITT12eXFxcXFxdXN3eCY2SE09VExPV1VIYUlCQ0xhQjg2UEV5Jk5ITTY9eSZKPXl2eHF3enRxcnd4eXkmNzY9eA==/chunklist.m3u8
+#EXTINF:-1, Premier Sports
+rtmp://live1.greenlie.org/live?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDk6NDM6MzggUE0maGFzaF92YWx1ZT12MU9TZVBXU2JIQlhVRHl1NU40Y2NBPT0mdmFsaWRtaW51dGVzPTIw//premiersports-hq
+#EXTINF:-1, Sky News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+#EXTINF:-1, The Box
+http://ipm.iphone-tv.eu:1345/Live/Auth:dd02d43bd3b4d826aacb87f0608615a710880a98c76938fd13da98d509e2790d/Channel:the_box/Stream:g3-2704_WIFIHD-d293emFzZXNzaW9uaWQ9MTgxOTAzNTc0NyZFPXhycnp6Jk42PU1MS1A1RTYmRj15dHlxT3V6UHRzd09PTHhzdE1NcnlLdnJNdE5LS1BzTyZNU0s9dHJ1ZSZOSE09dnlxcXFxcXVxenomNkhNPVRMT1dVSGFJQkNMYUI4NlBFeSZOSE02PXkmSj15dnhxd3pzdnVzd3Z1Jjc2PXg=/chunklist.m3u8
+#EXTINF:-1, VH1
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/bw1500000/playlist.m3u8?version=2&utcstart=1429307454.8580167
+#EXTINF:0,RTE ONE
+http://212.250.46.35:4252/bysid/9601
+#EXTINF:0,RTE 2
+http://212.250.46.35:4252/bysid/9602
+#EXTINF:0,RTEjr
+http://212.250.46.35:4252/bysid/9606
+#EXTINF:65535, FILM 4
+http://78.129.175.72/live/film4/film4.m3u8
+#EXTINF:65535,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:65535, MTV MUSİC TELEVISION
+http://93.184.221.133/00573D/1345/1345-0.m3u8
+#EXTINF:65535, Animal planet
+http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028
+#EXTINF:0,TSN 1 720p
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+#EXTINF:0,TSN 2 720P
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+#EXTINF:0,TSN 3 720P
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+#EXTINF:65535,TSN 4 720P
+http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
+#EXTINF:65535,TSN 5 720P
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
+#EXTINF:65535,No name
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:65535,Vevo2 HD 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:65535,Vevo3 HD 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:65535,Now Music
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:65535,VirginTV Radio
+rtmp://fms.105.net:1935/live/virgin1
+#EXTINF:65535,Rouge TV 
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
+#EXTINF:65535,HipHop Music 
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8
