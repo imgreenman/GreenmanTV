@@ -98,7 +98,7 @@ http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8
 http://cctv-lh.akamaihd.net/i/hoadisneyxd_live@125114/index_1080p_av-p.m3u8
 
 #EXTINF:-1,Cartoon Network
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_CN/bw480000/variant.m3u8?version=2
+http://hls.svc.moyo.tv/hls/CH_CARTOON/variant.m3u8?version=2
 
 #EXTINF:-1,Nickelodeon
 http://cctv2-lh.akamaihd.net/i/hoanick_live@125188/index_1080p_av-p.m3u8?sd=10&rebase=on
