@@ -2631,3 +2631,459 @@ http://93.184.221.133/00573D/311/311-0.m3u8
 http://93.184.221.133/00573D/231/231-0.m3u8
 #EXTINF:0,CHANNEL 4
 http://93.184.221.133/00573D/292/292-0.m3u8
+Sky sports F1
+http://sportztv.net/live/SportsTv/Appss/6.ts?.1234
+
+Sky movies
+http://sportztv.net/live/SportsTv/Appss/7.ts?.1234
+
+Setanta
+http://sportztv.net/live/SportsTv/Appss/8.ts?.1234
+
+Setanta 1
+http://sportztv.net/live/SportsTv/Appss/9.ts?.1234
+
+BT Sport 1
+http://sportztv.net/live/SportsTv/Appss/10.ts?.1234
+
+BT Sport 2
+http://sportztv.net/live/SportsTv/Appss/11.ts?.1234
+
+Eurosport
+http://sportztv.net/live/SportsTv/Appss/12.ts?.1234
+
+Eurosport 2
+http://sportztv.net/live/SportsTv/Appss/13.ts?.1234
+
+ESPN
+http://sportztv.net/live/SportsTv/Appss/14.ts?.1234
+
+Box Nation
+http://sportztv.net/live/SportsTv/Appss/15.ts?.1234
+
+TSN 1
+http://sportztv.net/live/SportsTv/Appss/34.ts?.1234
+
+Sky bundesliga 1 HD
+http://sportztv.net/live/SportsTv/Appss/38.ts?.1234
+
+ 
+#EXTINF:-1,Beinsport1HD
+rtmp://sbox.cdnss.com:1935/live/bein01?user=86p14s&pass=ktv07k
+
+#EXTINF:-1,Beinsport2HD
+rtmp://sbox.cdnss.com:1935/live/bein02?user=86p14s&pass=ktv07k
+
+#EXTINF:-1,Beinsport3HD
+rtmp://sbox.cdnss.com:1935/live/bein03?user=86p14s&pass=ktv07k
+
+#EXTINF:-1,Beinsport4HD
+rtmp://sbox.cdnss.com:1935/live/bein04?user=86p14s&pass=ktv07k
+
+#EXTINF:-1,Beinsport5HD
+rtmp://sbox.cdnss.com:1935/live/bein05?user=86p14s&pass=ktv07k
+
+#EXTINF:-1,Beinsport6HD
+rtmp://sbox.cdnss.com:1935/live/bein06?user=86p14s&pass=ktv07k
+
+#EXTINF:-1,Beinsport7HD
+rtmp://sbox.cdnss.com:1935/live/bein07?user=86p14s&pass=ktv07k
+
+#EXTINF:-1,Beinsport8HD
+rtmp://sbox.cdnss.com:1935/live/bein08?user=86p14s&pass=ktv07k
+
+#EXTINF:-1,Beinsport9HD
+rtmp://sbox.cdnss.com:1935/live/bein09?user=86p14s&pass=ktv07k
+
+#EXTINF:-1,Beinsport10HD
+rtmp://sbox.cdnss.com:1935/live/bein10?user=86p14s&pass=ktv07k
+
+#EXTINF:-1,B
+http://185.56.30.127:8082/TV4246
+#EXTINF:-1,O
+http://185.56.30.127:8082/TV4249
+#EXTINF:-1,B
+http://185.56.30.127:8082/TV4324
+#EXTINF:-1,I
+http://185.56.30.127:8082/TV4251
+#EXTINF:-1,STB
+http://185.56.30.127:8082/TV4320
+#EXTINF:-1,SKYSPORT 1
+http://185.56.30.127:8082/TV4284
+#EXTINF:-1,SKY ARTS 2
+http://185.56.30.127:8082/TV4250
+#EXTINF:-1,ART
+http://185.56.30.127:8082/TV4307
+EXTINF:0,Sky Movies Premiere
+http://185.56.30.123:8082/TV4251
+#EXTINF:0,Sky Movies Premiere+
+http://185.56.30.123:8082/TV4252
+#EXTINF:0,Sky Sky Movies Select
+http://185.56.30.123:8082/TV4254
+#EXTINF:0,Sky Movies Action & Adventure
+http://185.56.30.123:8082/TV4245
+#EXTINF:0,Sky Movies Comedy
+http://185.56.30.123:8082/TV4246
+#EXTINF:0,Sky Movies Disney
+http://185.56.30.123:8082/TV4247
+#EXTINF:0,Sky Movies Family
+http://185.56.30.123:8082/TV4248
+#EXTINF:0,Sky Movies SciFi
+http://185.56.30.123:8082/TV4249
+
+Natgeo 
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEO/variant.m3u8
+Natgeo wild
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEOWILD/variant.m3u8
+Animal Planet
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_ANIMALPLANET/variant.m3u8
+History
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_HISTORY/variant.m3u8
+
+#‎EXTINF‬:-SKY SPORTS 1 HD
+http://192.99.24.176:8080/Skyy1/Sk01ky1/index.m3u8
+SKY SPORTS 2
+http://192.99.24.176:8080/skKiK2lo0W...pk2/index.m3u8
+SKY SPORTS 3HD
+http://192.99.24.176:8080/skkY3/sk3Kp03/index.m3u8
+SKY SPORTS 5
+http://192.99.24.176:8080/skY5/skoK5/index.m3u8
+Sky F1
+http://192.99.24.176:8080/skfF1/skPfF1/index.m3u8
+
+#EXTINF:0,Euro Sport 1 - Euro Sport 1
+http://netiptv.dyndns.tv:80/live?channelId=75&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Euro Sport 2 - Euro Sport 2
+http://netiptv.dyndns.tv:80/live?channelId=76&uid=6&deviceUser=dreamsat&devicePass=pro001
+
+ PB
+ http://myplace.dnsalias.com:6262/live/pt/gratis/203.ts
+
+PB
+http://myplace.dnsalias.com:6262/live/pt/gratis/201.ts
+
+
+HOT 
+http://myplace.dnsalias.com:6262/live/pt/gratis/200.ts#EXTINF:0,HOT KLUB 1 - HOT KLUB 1
+http://netiptv.dyndns.tv:80/live?channelId=78&uid=6&deviceUser=dreamsat&devicePass=pro001
+
+#EXTINF:0,HOT KLUB 2 - HOT KLUB 2
+http://netiptv.dyndns.tv:80/live?channelId=79&uid=6&deviceUser=dreamsat&devicePass=pro001
+
+EXTM3U
+#EXTINF:0,3sat - 3sat
+http://netiptv.dyndns.tv:80/live?channelId=67&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,A1 Balkan - A1 Balkan
+http://netiptv.dyndns.tv:80/live?channelId=37&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Al Jazeera Balkans - Al Jazeera Balkans
+http://netiptv.dyndns.tv:80/live?channelId=34&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Animal Planet - Animal Planet
+http://netiptv.dyndns.tv:80/live?channelId=35&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,ARD - ARD
+http://netiptv.dyndns.tv:80/live?channelId=61&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Arena Sport 1 - Arena Sport 1
+http://netiptv.dyndns.tv:80/live?channelId=39&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Arena Sport 2 - Arena Sport 2
+http://netiptv.dyndns.tv:80/live?channelId=40&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Arena Sport 3 - Arena Sport 3
+http://netiptv.dyndns.tv:80/live?channelId=41&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Arena Sport 4 - Arena Sport 4
+http://netiptv.dyndns.tv:80/live?channelId=80&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,ATV BiH - ATV BiH
+http://netiptv.dyndns.tv:80/live?channelId=7&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,B92 - B92
+http://netiptv.dyndns.tv:80/live?channelId=16&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,BHT 1 - BHT 1
+http://netiptv.dyndns.tv:80/live?channelId=1&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,BN Music - BN Music
+http://netiptv.dyndns.tv:80/live?channelId=13&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,BN Sat - BN Sat
+http://netiptv.dyndns.tv:80/live?channelId=12&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Bosna TV1 - Bosna TV1
+http://netiptv.dyndns.tv:80/live?channelId=21&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Cinemax 1 - Cinemax 1
+http://netiptv.dyndns.tv:80/live?channelId=25&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Cinemax 2 - Cinemax 2
+http://netiptv.dyndns.tv:80/live?channelId=26&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Cinestar Premiere 1 - Cinestar Premiere 1
+http://netiptv.dyndns.tv:80/live?channelId=23&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Cinestar Premiere 2 - Cinestar Premiere 2
+http://netiptv.dyndns.tv:80/live?channelId=24&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Deluxe  Music - Deluxe Music
+http://netiptv.dyndns.tv:80/live?channelId=70&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Discovery Channel - Discovery Channel
+http://netiptv.dyndns.tv:80/live?channelId=36&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Disney Channel - Disney Channel
+http://netiptv.dyndns.tv:80/live?channelId=66&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,DM Sat - DM Sat
+http://netiptv.dyndns.tv:80/live?channelId=11&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Doma TV - Doma TV
+http://netiptv.dyndns.tv:80/live?channelId=50&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Euro Sport 1 - Euro Sport 1
+http://netiptv.dyndns.tv:80/live?channelId=75&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Euro Sport 2 - Euro Sport 2
+http://netiptv.dyndns.tv:80/live?channelId=76&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Face TV - Face TV
+http://netiptv.dyndns.tv:80/live?channelId=77&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,FTV - FTV
+http://netiptv.dyndns.tv:80/live?channelId=2&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Grand TV - Grand TV
+http://netiptv.dyndns.tv:80/live?channelId=59&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Happy - Happy
+http://netiptv.dyndns.tv:80/live?channelId=17&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Hayat BiH - Hayat BiH
+http://netiptv.dyndns.tv:80/live?channelId=3&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Hayat Folk - Hayat Folk
+http://netiptv.dyndns.tv:80/live?channelId=64&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Hayat Plus - Hayat Plus
+http://netiptv.dyndns.tv:80/live?channelId=4&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,HOT KLUB 1 - HOT KLUB 1
+http://netiptv.dyndns.tv:80/live?channelId=78&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,HOT KLUB 2 - HOT KLUB 2
+http://netiptv.dyndns.tv:80/live?channelId=79&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,HRT 1 - HRT 1
+http://netiptv.dyndns.tv:80/live?channelId=28&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,HRT 2 - HRT 2
+http://netiptv.dyndns.tv:80/live?channelId=29&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Klasik TV - Klasik TV
+http://netiptv.dyndns.tv:80/live?channelId=27&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Lov i Ribolov - Lov i Ribolov
+http://netiptv.dyndns.tv:80/live?channelId=38&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,MTV Igman - MTV Igman
+http://netiptv.dyndns.tv:80/live?channelId=65&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,NDR - NDR
+http://netiptv.dyndns.tv:80/live?channelId=45&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Nova RS - Nova RS
+http://netiptv.dyndns.tv:80/live?channelId=51&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,NOVA TV - NOVA TV
+http://netiptv.dyndns.tv:80/live?channelId=30&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,OBN - OBN
+http://netiptv.dyndns.tv:80/live?channelId=6&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,OTV Valentino - OTV Valentino
+http://netiptv.dyndns.tv:80/live?channelId=10&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Pink - Pink
+http://netiptv.dyndns.tv:80/live?channelId=53&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Pink BH - Pink BH
+http://netiptv.dyndns.tv:80/live?channelId=54&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Pink Comedy - Pink Comedy
+http://netiptv.dyndns.tv:80/live?channelId=56&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Pink Film - Pink Film
+http://netiptv.dyndns.tv:80/live?channelId=52&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Pink Premium - Pink Premium
+http://netiptv.dyndns.tv:80/live?channelId=57&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Pink Western - Pink Western
+http://netiptv.dyndns.tv:80/live?channelId=58&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Pro 7 - Pro 7
+http://netiptv.dyndns.tv:80/live?channelId=22&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Prva Plus - Prva Plus
+http://netiptv.dyndns.tv:80/live?channelId=15&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Prva TV - Prva TV
+http://netiptv.dyndns.tv:80/live?channelId=14&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,RTL 2 HR - RTL 2 HR
+http://netiptv.dyndns.tv:80/live?channelId=32&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,RTL DE - RTL DE
+http://netiptv.dyndns.tv:80/live?channelId=72&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,RTL HR - RTL HR
+http://netiptv.dyndns.tv:80/live?channelId=31&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,RTRS - RTRS
+http://netiptv.dyndns.tv:80/live?channelId=49&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,RTS 1 - RTS 1
+http://netiptv.dyndns.tv:80/live?channelId=18&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,RTS 2 - RTS 2
+http://netiptv.dyndns.tv:80/live?channelId=19&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,RTV Slon - RTV Slon
+http://netiptv.dyndns.tv:80/live?channelId=9&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,SERVUS TV - SERVUS TV
+http://netiptv.dyndns.tv:80/live?channelId=46&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Sport Klub 1 - Sport Klub 1
+http://netiptv.dyndns.tv:80/live?channelId=81&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Sport Klub 2 - Sport Klub 2
+http://netiptv.dyndns.tv:80/live?channelId=42&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,Sport Klub 3 - Sport Klub 3
+http://netiptv.dyndns.tv:80/live?channelId=43&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,TK Tuzla - TK Tuzla
+http://netiptv.dyndns.tv:80/live?channelId=8&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,TV 1 - TV 1
+http://netiptv.dyndns.tv:80/live?channelId=5&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,VOX DE - VOX DE
+http://netiptv.dyndns.tv:80/live?channelId=73&uid=6&deviceUser=dreamsat&devicePass=pro001
+#EXTINF:0,WDR - WDR
+http://netiptv.dyndns.tv:80/live?channelId=47&uid=6&deviceUser=dreamsat&devicePass=pro001
+
+#EXTINF:-1,†DELUXE‡ MUSIC
+
+http://94.198.255.211:5555/pl.m3u8?channel=17
+
+#EXTINF:-1,Disney Channel
+
+http://94.198.255.211:5555/pl.m3u8?channel=16
+
+#EXTINF:-1,DMAX
+
+http://94.198.255.211:5555/pl.m3u8?channel=18
+
+#EXTINF:-1,Nickelodeon
+
+http://94.198.255.211:5555/pl.m3u8?channel=35
+
+#EXTINF:-1,NICKELODEON AT
+
+http://94.198.255.211:5555/pl.m3u8?channel=36
+
+#EXTINF:-1,Comedy Central/VIVA
+
+http://94.198.255.211:5555/pl.m3u8?channel=61
+
+#EXTINF:-1,Comedy Central / VIVA AT
+
+http://94.198.255.211:5555/pl.m3u8?channel=62
+
+#EXTINF:-1,ITV3
+
+http://94.198.255.211:5555/pl.m3u8?channel=91
+
+#EXTINF:-1,ITV4
+
+http://94.198.255.211:5555/pl.m3u8?channel=92
+
+#EXTINF:-1,E4
+
+http://94.198.255.211:5555/pl.m3u8?channel=93
+
+#EXTINF:-1,More4
+
+http://94.198.255.211:5555/pl.m3u8?channel=94
+
+#EXTINF:-1,Film4
+
+http://94.198.255.211:5555/pl.m3u8?channel=95
+
+#EXTINF:-1,Channel 4
+
+http://94.198.255.211:5555/pl.m3u8?channel=96
+
+#EXTINF:-1,BBC One Lon
+
+http://94.198.255.211:5555/pl.m3u8?channel=141
+
+#EXTINF:-1,BBC Two Eng
+
+http://94.198.255.211:5555/pl.m3u8?channel=142
+
+#EXTINF:-1,BBC Entertainment Europe
+
+http://94.198.255.211:5555/pl.m3u8?channel=143
+
+#EXTINF:-1,BBC World
+
+http://94.198.255.211:5555/pl.m3u8?channel=144
+
+#EXTINF:-1,BBC One NI
+
+http://94.198.255.211:5555/pl.m3u8?channel=145
+
+#EXTINF:-1,CBBC
+
+http://94.198.255.211:5555/pl.m3u8?channel=146
+
+#EXTINF:-1,Horse & Country
+
+http://94.198.255.211:5555/pl.m3u8?channel=301
+
+#EXTINF:-1,UTV
+
+http://94.198.255.211:5555/pl.m3u8?channel=302
+
+#EXTINF:-1,CITV
+
+http://94.198.255.211:5555/pl.m3u8?channel=304
+
+#EXTINF:-1,ITV
+
+http://94.198.255.211:5555/pl.m3u8?channel=305
+
+#EXTINF:-1,movies4men
+
+http://94.198.255.211:5555/pl.m3u8?channel=306
+
+#EXTINF:-1,m>movies+1
+
+http://94.198.255.211:5555/pl.m3u8?channel=307
+
+#EXTINF:-1,Fashion Television
+
+http://94.198.255.211:5555/pl.m3u8?channel=313
+
+#EXTINF:-1,BBC NEWS
+
+http://94.198.255.211:5555/pl.m3u8?channel=314
+
+#EXTINF:-1,LA TV
+
+http://94.198.255.211:5555/pl.m3u8?channel=504
+
+#EXTINF:-1,MTV
+
+http://94.198.255.211:5555/pl.m3u8?channel=507
+
+#EXTINF:-1,Cartoonito
+
+http://94.198.255.211:5555/pl.m3u8?channel=512
+
+#EXTINF:-1,MTV MUSIC
+
+http://94.198.255.211:5555/pl.m3u8?channel=516
+
+#EXTINF:0, Movies
+
+http://sportztv.net/live/SportsTv/Appss/98.ts
+
+#EXTINF:0, bbc Four
+
+http://sportztv.net/live/SportsTv/Appss/99.ts
+
+#EXTINF:0, BBC Three
+
+http://sportztv.net/live/SportsTv/Appss/100.ts
+
+#EXTINF:0, itv
+
+http://sportztv.net/live/SportsTv/Appss/101.ts
+
+#EXTINF:0, itv 4
+
+http://sportztv.net/live/SportsTv/Appss/102.ts
+
+#EXTINF:0, itv 3
+
+http://sportztv.net/live/SportsTv/Appss/105.ts
+
+#EXTINF:0, MotoGP
+
+http://sportztv.net/live/SportsTv/Appss/106.ts
+
+#EXTINF:0, uk movies
+
+http://sportztv.net/live/SportsTv/Appss/108.ts
+
+#EXTINF:0,SPORT TV 1
+
+http://myplace.dnsalias.com:6262/live/pt/gratis/11.ts
+
+#EXTINF:0,SPORT TV 2
+
+http://myplace.dnsalias.com:6262/live/pt/gratis/12.ts
+
+#EXTINF:0,SPORT TV 3
+
+http://myplace.dnsalias.com:6262/live/pt/gratis/13.ts
+
+#EXTINF:0,SPORT TV 4
+
+http://myplace.dnsalias.com:6262/live/pt/gratis/14.ts
+
+#EXTINF:0,SPORT TV 5
+
+http://myplace.dnsalias.com:6262/live/pt/gratis/15.ts
+
+http://acabsw.doiptv.com/sky_setanta_ireland/playlist.m3u8
