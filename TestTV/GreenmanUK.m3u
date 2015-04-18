@@ -80,7 +80,7 @@ http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8
 http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
 #EXTINF:65535,TSN 5 720P
 http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
-#EXTINF:65535,No name
+#EXTINF:65535,Vevo3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 #EXTINF:65535,Vevo2 HD 
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
