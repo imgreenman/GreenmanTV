@@ -61,20 +61,20 @@ http://50.7.69.186:1935/edge/_definst_/tuc280rbycwnsvs/manifest.m3u8?wowzasessio
 http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
 #EXTINF:-1, BEin Sport
 http://50.7.69.186:1935/edge/_definst_/dhpj1xgov72x4br/manifest.m3u8?wowzasessionid=1426958694
-#EXTINF:-1, BEin Sports
-http://50.7.69.186:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700
-#EXTINF:-1, ESPN
-http://50.7.69.186:1935/edge/_definst_/d2z1vc4ahrl6x26/chunklist.m3u8?wowzasessionid=1420207062
-#EXTINF:-1, ESPN 2
-http://50.7.69.186:1935/edge/_definst_/fzasab6vz02yuf7/chunklist.m3u8?wowzasessionid=1419914830
 #EXTINF:-1, Bravo 
 http://50.7.69.186:1935/edge/_definst_/uw433ikqnrj501l/playlist.m3u8?wowzasessionid=1419872183
 #EXTINF:-1, Bravo 
 http://50.7.69.186:1935/edge/_definst_/1341ujtliqndod8/playlist.m3u8?wowzasessionid=1419874712
 #EXTINF:-1, CP24
 http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/cp24Open8.m3u8
+#EXTINF:-1, ESPN 2
+http://50.7.69.186:1935/edge/_definst_/fzasab6vz02yuf7/chunklist.m3u8?wowzasessionid=1419914830
 #EXTINF:-1, FX
 http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/163.m3u8
+#EXTINF:-1, History Channel
+http://50.7.69.186:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700
+#EXTINF:-1, MTV
+http://50.7.69.186:1935/edge/_definst_/d2z1vc4ahrl6x26/chunklist.m3u8?wowzasessionid=1420207062
 #EXTINF:-1, NBC
 http://50.7.69.186:1935/edge/_definst_/s5whw37nl7weedp/chunklist.m3u8?wowzasessionid=1420160473
 #EXTINF:-1, NBC Sports Network
