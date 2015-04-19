@@ -485,6 +485,11 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 http://146.158.123.198:4022/udp/239.72.6.50:1234
 #EXTINF:-1, Eurosport 2
 http://146.158.123.198:4022/udp/239.72.6.51:1234
+#EXTINF:-1,Bein Sports 1
+rtmp://180.250.29.12:1935/jhos/beib1_3
+#EXTINF:-1,Bein Sports 2
+rtmp://180.250.29.12:1935/jhos/beib2_3
+
 #EXTINF:-1,BeinSports 2 Eng
 http://65.111.174.111:1935/iptv/beinsports2.stream/playlist.m3u8?
 #EXTINF:65535,BTN Network
@@ -501,6 +506,8 @@ http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
 http://103.242.13.66:5000/nn_live.ts?id=starsport-m-h
 #EXTINF:-1,Fox Sport News
 http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_2128_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Fox Sport News
+http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/master.m3u8
 #EXTINF:65535,PORSCHE CHANNEL mms
 mms://100automoto.tv/channel_porsche
 #EXTINF:65535,AutoSport TV mms
