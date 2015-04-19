@@ -428,8 +428,23 @@ http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028
 #EXTINF:-1, History
 http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/171.m3u8
 
-#EXTINF:-1,Sky Sports 4
+
+
+
+#EXTINF:-1,SKY SPORTS 1
+http://178.62.148.20:8080/skysports1/sKtV/index.m3u8
+#EXTINF:-1,SKY SPORTS 2
+http://178.62.148.20:8080/SkY2/SkdfY2/index.m3u8
+#EXTINF:-1,SKY SPORTS 3
+http://178.62.148.20:8080/skyxe3/sKYoo3/index.m3u8
+#EXTINF:-1,SKY SPORTS 4
+http://178.62.148.20:8080/sky4/sko4/index.m3u8
+#EXTINF:-1,SKY SPORTS 4
 http://50.7.69.186:1935/edge/_definst_/21ajqprn56aebp3/chunklist_w442557998.m3u8?wowzasessionid=1419879754
+#EXTINF:-1,SKY SPORTS 5
+http://178.62.148.20:8080/sky5/sKgy5/index.m3u8
+
+
 #EXTINF:-1,NBA TV
 http://50.7.69.186:1935/edge/_definst_/fzasab6vz02yuf7/chunklist.m3u8?wowzasessionid=1419914830
 #EXTINF:-1,OMN Sports1 HD
