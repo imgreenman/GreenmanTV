@@ -168,7 +168,7 @@ http://185.56.30.123:8082/TV4254
 http://91.109.20.227:8080/TV4245
 #EXTINF:0,Sky Movies Action & Adventure LINK DOWN
 http://185.56.30.123:8082/TV4245
-#EXTINF:-1, Sky Movies Comedy LINK DOWN
+#EXTINF:-1, Sky Movies Comedy
 http://91.109.20.227:8080/TV4246 
 #EXTINF:0,Sky Movies Comedy LINK DOWN
 http://185.56.30.123:8082/TV4246
@@ -283,6 +283,8 @@ http://185.27.237.105:8082/TV0093
 http://93.184.221.133/00573D/1345/1345-0.m3u8
 #EXTINF:65535, MTV MUSİC TELEVISION
 http://93.184.221.133/00573D/1345/1345-0.m3u8
+#EXTINF:-1, MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
 #EXTINF:-1, MTV Dance
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/bw480000/variant.m3u8?version=2
 #EXTINF:-1, MTV Hits
@@ -387,6 +389,8 @@ http://csm-e.cds1.yospace.com/csm/live/86561609.m3u8
 rtmp://fms.105.net:1935/live/virgin1
 #EXTINF:-1,Jazz TV
 http://149.11.34.78:1935/live/jazztv.stream/hasbahca.m3u8
+#EXTINF:-1,EXA TV
+http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8
 
 
 #EXTINF:-1,.
