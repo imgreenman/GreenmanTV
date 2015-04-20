@@ -174,13 +174,13 @@ http://91.109.20.227:8080/TV4246
 http://185.56.30.123:8082/TV4246
 #EXTINF:-1, Sky Movies Disney LINK DOWN
 http://91.109.20.227:8080/TV4247
-#EXTINF:0,Sky Movies Disney LINK DOWN
+#EXTINF:0,Sky Movies Disney
 http://185.56.30.123:8082/TV4247
 #EXTINF:-1, Sky Movies Family LINK DOWN
 http://91.109.20.227:8080/TV4248
 #EXTINF:0,Sky Movies Family LINK DOWN
 http://185.56.30.123:8082/TV4248
-#EXTINF:-1, Sky Movies SciFi LINK DOWN
+#EXTINF:-1, Sky Movies SciFi
 http://91.109.20.227:8080/TV4249
 #EXTINF:0,Sky Movies SciFi LINK DOWN
 http://185.56.30.123:8082/TV4249
@@ -457,18 +457,18 @@ http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/171.m3u8
 
 #EXTINF:-1,.
 #EXTINF:-1,SPORT CHANNELS
-#EXTINF:-1,SKY SPORTS 1 LINK DOWN
-http://178.62.148.20:8080/skysports1/sKtV/index.m3u8
-#EXTINF:-1,SKY SPORTS 2 LINK DOWN
-http://178.62.148.20:8080/SkY2/SkdfY2/index.m3u8
-#EXTINF:-1,SKY SPORTS 3 LINK DOWN
-http://178.62.148.20:8080/skyxe3/sKYoo3/index.m3u8
-#EXTINF:-1,SKY SPORTS 4 LINK DOWN
+#EXTINF:-1,SKY SPORTS 1
+http://209.95.39.184:1935/live/skysports1lsh/playlist.m3u8
+#EXTINF:-1,SKY SPORTS 2
+http://178.62.148.20:8080/SkY2/SkDdfY2/index.m3u8
+#EXTINF:-1,SKY SPORTS 3
+http://178.62.148.20:8080/skYyxe3/sKYoo3/index.m3u8
+#EXTINF:-1,SKY SPORTS 4
 http://178.62.148.20:8080/sky4/sko4/index.m3u8
 #EXTINF:-1,SKY SPORTS 4 
 http://50.7.69.186:1935/edge/_definst_/21ajqprn56aebp3/chunklist_w442557998.m3u8?wowzasessionid=1419879754
-#EXTINF:-1,SKY SPORTS 5 LINK DOWN
-http://178.62.148.20:8080/sky5/sKgy5/index.m3u8
+#EXTINF:-1,SKY SPORTS 5
+http://178.62.148.20:8080/sky5/sKkgy5/index.m3u8
 
 #EXTINF:-1,ESPN SD
 http://50.7.69.186:1935/edge/_definst_/erooxo5dcvk05zk/chunklist.m3u8?wowzasessionid=1426891013
