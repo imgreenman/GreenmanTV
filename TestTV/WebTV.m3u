@@ -1,5 +1,24 @@
 #EXTM3U
 
+
+#EXTINF:-1,.
+#EXTINF:-1,IRISH CHANNELS
+#EXTINF:0,RTE ONE
+http://212.250.46.35:4252/bysid/9601
+#EXTINF:0,RTE 2
+http://212.250.46.35:4252/bysid/9602
+#EXTINF:0,RTEjr
+http://212.250.46.35:4252/bysid/9606
+#EXTINF:0,UTV
+
+#EXTINF:-1,DAIL EIREANN
+rtsp://wms.servers.heanet.ie/Dail
+#EXTINF:-1,SEANAD EIREANN
+rtsp://wms.servers.heanet.ie/Seanad
+
+
+#EXTINF:-1,.
+#EXTINF:-1,UK CHANNELS
 #EXTINF:-1, BBC 1
 http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
 #EXTINF:-1, BBC 2
@@ -32,10 +51,12 @@ http://llnw.live.simplestream.com/mediaexcel01/channel04/3/prog_index.m3u8
 http://llnw.live.simplestream.com/coder8/coder.channels.channel6/hls/3/playlist.m3u8
 #EXTINF:-1, More 4
 http://llnw.live.simplestream.com/coder8/coder.channels.channel2/hls/3/playlist.m3u8
+#EXTINF:65535, FILM 4
+http://78.129.175.72/live/film4/film4.m3u8
+#EXTINF:-1, Film4
+http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
 #EXTINF:-1, E4
-http://llnw.live.simplestream.com/coder10/coder.channels.channel21/hls/3/22619.ts
-#EXTINF:-1, E4
-http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=85.5.87.218
+http://llnw.live.simplestream.com/coder10/coder.channels.channel21/hls/3/playlist.m3u8
 #EXTINF:-1, 5
 http://llnw.live.simplestream.com/mediaexcel01/channel05/3/prog_index.m3u8
 #EXTINF:-1, 5 +24
@@ -44,6 +65,8 @@ http://llnw.live.simplestream.com/coder8/coder.channels.channel12/hls/3/playlist
 http://llnw.live.simplestream.com/coder8/coder.channels.channel8/hls/3/playlist.m3u8
 #EXTINF:-1, 5 USA
 http://llnw.live.simplestream.com/coder8/coder.channels.channel14/hls/3/playlist.m3u8
+#EXTINF:65535,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 #EXTINF:-1, Food Network (UK)
 http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
 #EXTINF:-1, Food Network +1 (UK)
@@ -52,25 +75,58 @@ http://llnw.live.simplestream.com/coder2/coder.channels.channel8/hls/3/playlist.
 http://llnw.live.simplestream.com/coder3/coder.channels.channel5/hls/3/playlist.m3u8
 #EXTINF:-1, Community Channel
 http://llnw.live.simplestream.com/coder10/coder.channels.channel16/hls/3/playlist.m3u8
-#EXTINF:-1, Dave
-http://live308.edge.filmon.com/live/370.low.stream/chunklist_w2116852538.m3u8?id=0ad5aac39bb13fbeb3e05f82c00e8e5e187777d1fe49de01af1e453f02ed318683b95751e03dfc4f28ef70d90d49a082506a3ba24bc599a60b4a680bb924197e33218d723071de1a2610cc38eda232017472792e328c8ba63b75e35957ccb78a9323ca84fb11032b9c2f287efad016a0fb0733e41e53588deab5653eee940b384a4b871803cd468e52f2c6182379a1407b5af11709b25707
 #EXTINF:-1, UK Gold
 http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/116.m3u8
+#EXTINF:-1, 24/7
+http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=6141044 
 
 
-#EXTINF:-1,ABC FAMILY
-http://50.7.69.186:1935/edge/_definst_/vx63a0c7mxk2jt8/manifest.m3u8?wowzasessionid=1426899363
-#EXTINF:-1,A&E
+#EXTINF:-1,.
+#EXTINF:-1,USA CHANNELS
+#EXTINF:-1,A&E Network
 http://50.7.69.186:1935/edge/_definst_/tuc280rbycwnsvs/manifest.m3u8?wowzasessionid=1426231480
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
+#EXTINF:-1,AXN HD
+http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
+#EXTINF:-1, BEin Sport
+http://50.7.69.186:1935/edge/_definst_/dhpj1xgov72x4br/manifest.m3u8?wowzasessionid=1426958694
+#EXTINF:-1, Bravo 
+http://50.7.69.186:1935/edge/_definst_/uw433ikqnrj501l/playlist.m3u8?wowzasessionid=1419872183
+#EXTINF:-1, Bravo 
+http://50.7.69.186:1935/edge/_definst_/1341ujtliqndod8/playlist.m3u8?wowzasessionid=1419874712
+#EXTINF:-1, CP24
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/cp24Open8.m3u8
+#EXTINF:-1, FX
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/163.m3u8
+#EXTINF:-1, History Channel
+http://50.7.69.186:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700
+#EXTINF:-1, MTV
+http://50.7.69.186:1935/edge/_definst_/d2z1vc4ahrl6x26/chunklist.m3u8?wowzasessionid=1420207062
+#EXTINF:-1, NBA TV
+http://50.7.69.186:1935/edge/_definst_/fzasab6vz02yuf7/chunklist.m3u8?wowzasessionid=1419914830
+#EXTINF:-1, NBC
+http://50.7.69.186:1935/edge/_definst_/s5whw37nl7weedp/chunklist.m3u8?wowzasessionid=1420160473
+#EXTINF:-1, NBC Sports Network
+http://50.7.69.186:1935/edge/_definst_/0fm1lstybe4a0j4/playlist.m3u8?wowzasessionid=1419879018
+#EXTINF:-1, NBC Sports Network
+http://50.7.69.186:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183
+#EXTINF:-1,Showtime
+http://50.7.69.186:1935/edge/_definst_/bwbop58ixz281wv/manifest.m3u8?wowzasessionid=1419875151
+#EXTINF:-1, Spike
+http://50.7.69.186:1935/edge/_definst_/7pctmre0zfwsc24/chunklist.m3u8?wowzasessionid=1426234496
+#EXTINF:-1, Spike
+http://50.7.69.186:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529
+#EXTINF:-1, TNT
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/172.m3u8
+#EXTINF:-1, USA Network
+http://209.95.34.86/live2/105-USANet.stream/playlist.m3u8
+#EXTINF:-1,AdULT SWIM
+http://adultswim-lh.akamaihd.net/i/adultswim_12@156963/index_ultra_av-b.m3u8?sd=10&rebase=on
 
 
-#EXTINF:65535,London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1,.
+#EXTINF:-1,LIFESTYLE
+#EXTINF:-1,E Entertainment HD Subtitles
+http://185.27.237.105:8082/TV0060
 #EXTINF:-1, Travel Channel (UK)
 http://llnw.live.simplestream.com/coder6/coder.channels.channel12/hls/3/playlist.m3u8
 #EXTINF:-1, Travel Channel +1 (UK)
@@ -89,51 +145,48 @@ http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
 http://212.70.155.243:40665/udp/237.100.0.189:4000
 #EXTINF:-1,True Drama
 http://212.70.155.243:40665/udp/237.100.0.190:4000
-#EXTINF:-1,AdULT SWIM
-http://adultswim-lh.akamaihd.net/i/adultswim_12@156963/index_ultra_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:0,RTE ONE
-http://212.250.46.35:4252/bysid/9601
-#EXTINF:0,RTE 2
-http://212.250.46.35:4252/bysid/9602
-#EXTINF:0,RTEjr
-http://212.250.46.35:4252/bysid/9606
-#EXTINF:0,UTV
-http://94.198.255.211:5555/pl.m3u8?channel=302
-#EXTINF:-1,DAIL EIREANN
-rtsp://wms.servers.heanet.ie/Dail
-#EXTINF:-1,SEANAD EIREANN
-rtsp://wms.servers.heanet.ie/Seanad
-
-
 #‎EXTINF‬:-1, Sky Arts 2
 http://91.109.20.227:8080/TV4250
+#EXTINF:0,Sky Arts 2
+http://185.56.30.123:8082/TV4250
+
+#EXTINF:-1,.
+#EXTINF:-1,MOVIE CHANNELS
 #‎EXTINF‬:-1, Sky Movies Premiere
 http://91.109.20.227:8080/TV4251
+#EXTINF:0,Sky Movies Premiere
+http://185.56.30.123:8082/TV4251
 #EXTINF:-1, Sky Movies Premiere+
 http://91.109.20.227:8080/TV4252
+#EXTINF:0,Sky Movies Premiere+
+http://185.56.30.123:8082/TV4252
 #EXTINF:-1, Sky Movies Select
 http://91.109.20.227:8080/TV4254
+#EXTINF:0,Sky Sky Movies Select
+http://185.56.30.123:8082/TV4254
 #EXTINF:-1, Sky Movies Action & Adventure
 http://91.109.20.227:8080/TV4245
+#EXTINF:0,Sky Movies Action & Adventure
+http://185.56.30.123:8082/TV4245
 #EXTINF:-1, Sky Movies Comedy
 http://91.109.20.227:8080/TV4246
+#EXTINF:0,Sky Movies Comedy
+http://185.56.30.123:8082/TV4246
 #EXTINF:-1, Sky Movies Disney
 http://91.109.20.227:8080/TV4247
+#EXTINF:0,Sky Movies Disney
+http://185.56.30.123:8082/TV4247
 #EXTINF:-1, Sky Movies Family
 http://91.109.20.227:8080/TV4248
+#EXTINF:0,Sky Movies Family
+http://185.56.30.123:8082/TV4248
 #EXTINF:-1, Sky Movies SciFi
+http://91.109.20.227:8080/TV4249
+#EXTINF:0,Sky Movies SciFi
 http://185.56.30.123:8082/TV4249
-#EXTINF:65535, FILM 4
-http://78.129.175.72/live/film4/film4.m3u8
-#EXTINF:-1, Film4
-http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
-#EXTINF:-1, movies4men
-http://94.198.255.211:5555/pl.m3u8?channel=306
-#EXTINF:-1, m>movies+1
-http://94.198.255.211:5555/pl.m3u8?channel=307
-#EXTINF:-1 tvg-logo="tbs.png",TBS
-http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?
+#EXTINF:-1,Sky Movies Greats
+http://185.27.237.105:8082/TV4240
+
 #EXTINF:-1, 
 #EXTINF:-1, FOX Movies Premium HD
 http://103.242.13.67:5000/nn_live.ts?id=foxmovies-m-h
@@ -159,6 +212,8 @@ http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
 #EXTINF:-1, HBO
 http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+#EXTINF:-1, HBO SD
+http://50.7.69.186:1935/edge/_definst_/qzbbu26gcvjxksz/chunklist.m3u8?wowzasessionid=1419847602
 #EXTINF:-1,HBO Comedy
 http://50.7.69.186:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335
 
@@ -168,14 +223,19 @@ http://llnw.live.simplestream.com/coder4/coder.channels.channel8/hls/3/playlist.
 http://llnw.live.simplestream.com/coder4/coder.channels.channel10/hls/3/playlist.m3u8
 #EXTINF:-1, Horror Channel
 http://llnw.live.simplestream.com/coder4/coder.channels.channel6/hls/3/playlist.m3u8
-#EXTINF:-1,AXN HD
-http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
-#EXTINF:-1,Showtime
-http://50.7.69.186:1935/edge/_definst_/bwbop58ixz281wv/manifest.m3u8?wowzasessionid=1419875151
+#EXTINF:-1,MBC 2 Subtitles
+rtmp://63.237.48.8/live//MBC2
+#EXTINF:-1,MBC 3 Subtitles
+rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream
+#EXTINF:-1,MBC 4 Subtitles
+rtmp://63.237.48.8:1935/live/MBC_4 
+#EXTINF:-1,mbc_max
+rtmp://63.237.48.23/live//MBC_MAX 
+#EXTINF:-1,MBC_ACTION 
+rtmp://63.237.48.3/live//MBC_ACTION
 
-
-#EXTINF:-1,E Entertainment HD Subtitles
-http://185.27.237.105:8082/TV0060
+#EXTINF:-1,.
+#EXTINF:-1,OSN CHANNELS
 #EXTINF:-1,OMN First HD Subtitles
 http://185.27.237.105:8082/TV0062
 #EXTINF:-1,OMN FIRST HD
@@ -216,18 +276,9 @@ http://185.27.237.105:8082/TV0084
 http://185.27.237.105:8082/TV0086
 #EXTINF:-1,CI
 http://185.27.237.105:8082/TV0093
-#EXTINF:-1,MBC 2 Subtitles
-rtmp://63.237.48.8/live//MBC2
-#EXTINF:-1,MBC 3 Subtitles
-rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream
-#EXTINF:-1,MBC 4 Subtitles
-rtmp://63.237.48.8:1935/live/MBC_4 
-#EXTINF:-1,mbc_max
-rtmp://63.237.48.23/live//MBC_MAX 
-#EXTINF:-1,MBC_ACTION 
-rtmp://63.237.48.3/live//MBC_ACTION
 
-
+#EXTINF:-1,.
+#EXTINF:-1,MUSIC CHANNELS
 #EXTINF:0,MTV
 http://93.184.221.133/00573D/1345/1345-0.m3u8
 #EXTINF:65535, MTV MUSİC TELEVISION
@@ -316,6 +367,8 @@ http://llnw.live.simplestream.com/coder7/coder.channels.channel8/hls/3/playlist.
 http://212.70.155.243:40665/udp/237.100.0.176:4000
 #EXTINF:-1,Scuzz
 http://212.70.155.243:40665/udp/237.100.0.175:4000
+#EXTINF:-1, Kerrang
+http://llnw.live.simplestream.com/coder11/coder.channels.channel4/hls/3/playlist.m3u8
 #EXTINF:-1, Heart TV
 http://llnw.live.simplestream.com/coder7/coder.channels.channel10/hls/3/playlist.m3u8
 #EXTINF:-1, Channel AKA
@@ -335,6 +388,9 @@ rtmp://fms.105.net:1935/live/virgin1
 #EXTINF:-1,Jazz TV
 http://149.11.34.78:1935/live/jazztv.stream/hasbahca.m3u8
 
+
+#EXTINF:-1,.
+#EXTINF:-1,NEW STATIONS
 #EXTINF:-1, BBC World News
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
 #EXTINF:-1, CNN
@@ -361,6 +417,10 @@ http://llnw.live.simplestream.com/coder7/coder.channels.channel14/hls/3/playlist
 http://llnw.live.simplestream.com/coder1/coder.channels.channel11/hls/3/playlist.m3u8
 
 
+#EXTINF:-1,.
+#EXTINF:-1,DOCUMENTART CHANNELS
+#EXTINF:-1,National Geographic Channel HD
+http://103.242.13.67:5000/nn_live.ts?id=nationalgeographic-m-h
 #EXTINF:-1,Nat Geo Wild (Eng Track 2)
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEOWILD/variant.m3u8
 #EXTINF:65535, Animal planet
@@ -391,8 +451,31 @@ http://185.27.237.105:8082/TV0092
 http://193.23.58.156:8888/udp/234.1.20.17:1234 
 #EXTINF:-1,Discovery
 http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028
+#EXTINF:-1, History Channel
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/171.m3u8
 
 
+#EXTINF:-1,.
+#EXTINF:-1,SPORT CHANNELS
+#EXTINF:-1,SKY SPORTS 1 
+
+#EXTINF:-1,SKY SPORTS 2
+
+#EXTINF:-1,SKY SPORTS 3
+
+#EXTINF:-1,SKY SPORTS 4
+
+#EXTINF:-1,SKY SPORTS 4
+
+#EXTINF:-1,SKY SPORTS 5
+
+#EXTINF:-1,ESPN SD
+http://50.7.69.186:1935/edge/_definst_/erooxo5dcvk05zk/chunklist.m3u8?wowzasessionid=1426891013
+#EXTINF:-1,ESPN 2 SD
+http://50.7.69.186:1935/edge/_definst_/5hd19kwxef5b59o/chunklist.m3u8?wowzasessionid=1420159722
+
+#EXTINF:-1,NBA TV
+http://50.7.69.186:1935/edge/_definst_/fzasab6vz02yuf7/chunklist.m3u8?wowzasessionid=1419914830
 #EXTINF:-1,OMN Sports1 HD
 http://185.27.237.105:8082/TV0104
 #EXTINF:-1, At The Races
@@ -414,7 +497,7 @@ http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/HasBahC
 #EXTINF:-1, ESPN HD Eng/Spn
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
 #EXTINF:-1, Motors TV
-http://46.61.226.18/hls/CH_MOTORSTV/bw1500000/playlist.m3u8?version=2&utcstart=1429306716.7062016
+http://195.154.71.207:8080/callback23/motorstv.m3u8
 #EXTINF:-1, Premier Sports
 rtmp://live1.greenlie.org/live?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDk6NDM6MzggUE0maGFzaF92YWx1ZT12MU9TZVBXU2JIQlhVRHl1NU40Y2NBPT0mdmFsaWRtaW51dGVzPTIw//premiersports-hq
 #EXTINF:65535,Pac-12 Network
@@ -431,6 +514,11 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 http://146.158.123.198:4022/udp/239.72.6.50:1234
 #EXTINF:-1, Eurosport 2
 http://146.158.123.198:4022/udp/239.72.6.51:1234
+#EXTINF:-1,Bein Sports 1
+rtmp://180.250.29.12:1935/jhos/beib1_3
+#EXTINF:-1,Bein Sports 2
+rtmp://180.250.29.12:1935/jhos/beib2_3
+
 #EXTINF:-1,BeinSports 2 Eng
 http://65.111.174.111:1935/iptv/beinsports2.stream/playlist.m3u8?
 #EXTINF:65535,BTN Network
@@ -447,6 +535,8 @@ http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
 http://103.242.13.66:5000/nn_live.ts?id=starsport-m-h
 #EXTINF:-1,Fox Sport News
 http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_2128_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Fox Sport News
+http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/master.m3u8
 #EXTINF:65535,PORSCHE CHANNEL mms
 mms://100automoto.tv/channel_porsche
 #EXTINF:65535,AutoSport TV mms
@@ -457,10 +547,13 @@ mms://100automoto.tv/bmw
 http://motorsport.hopto.org:8080/
 #EXTINF:0,SportsNet360
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:-1,WWE
+rtmp://rtmp.popeoftheplayers.eu:1935/redirect playpath=49 swfUrl=http://popeoftheplayers.eu/atdedead.swf token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ live=1 timeout=15 swfVfy=true flashver=WIN\2013,0,0,214
 
-
+#EXTINF:-1,.
+#EXTINF:-1,KIDS CHANNELS
 #EXTINF:-1,Disney XD
-http://cctv-lh.akamaihd.net/i/hoadisneyxd_live@125114/index_1080p_av-p.m3u8
+http://cctv2-lh.akamaihd.net/i/hoadisneyxd_live@125187/index_1080p_av-p.m3u8
 #EXTINF:-1,Cartoon network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 #EXTINF:-1,Cartoon Network HD
@@ -582,17 +675,11 @@ http://archive.org/download/VintageCartoonsSet2MP4/090755dvdSpeedyGonzalesMm_1.m
 #EXTINF:-1,digiquest.forumo.de:The Unmentionables
 http://archive.org/download/VintageCartoonsSet2MP4/090763TheUnmentionablesMm_1.mp4
 
-
+#EXTINF:-1,.
+#EXTINF:-1,RELIGION CHANNELS
 #EXTINF:-1, GOD Channel
 http://llnw.live.simplestream.com/coder10/coder.channels.channel23/hls/3/playlist.m3u8
 #EXTINF:-1, Revelation TV
 http://llnw.live.simplestream.com/coder5/coder.channels.channel11/hls/3/playlist.m3u8
 #EXTINF:-1, Unknown Religious Channel
 http://llnw.live.simplestream.com/coder4/coder.channels.channel4/hls/3/playlist.m3u8
-
-
-#EXTINF:-1, NBC
-http://50.7.69.186:1935/edge/_definst_/s5whw37nl7weedp/chunklist.m3u8?wowzasessionid=1420160473
-
-#EXTINF:-0,Hustler [COLOR red] 18+[/COLOR]
-http://cdn-02.sdn.si/hustler/hustler.m3u8
