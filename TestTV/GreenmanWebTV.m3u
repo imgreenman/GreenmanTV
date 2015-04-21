@@ -77,9 +77,6 @@ http://llnw.live.simplestream.com/coder3/coder.channels.channel5/hls/3/playlist.
 http://llnw.live.simplestream.com/coder10/coder.channels.channel16/hls/3/playlist.m3u8
 #EXTINF:-1, UK Gold
 http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/116.m3u8
-#EXTINF:-1, 24/7
-http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=6141044 
-
 
 #EXTINF:-1,.
 #EXTINF:-1,USA CHANNELS
@@ -91,7 +88,7 @@ http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
 http://50.7.69.186:1935/edge/_definst_/dhpj1xgov72x4br/manifest.m3u8?wowzasessionid=1426958694
 #EXTINF:-1, Bravo 
 http://50.7.69.186:1935/edge/_definst_/uw433ikqnrj501l/playlist.m3u8?wowzasessionid=1419872183
-#EXTINF:-1, Bravo 
+#EXTINF:-1, MSNBC 
 http://50.7.69.186:1935/edge/_definst_/1341ujtliqndod8/playlist.m3u8?wowzasessionid=1419874712
 #EXTINF:-1, CP24
 http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/cp24Open8.m3u8
@@ -105,6 +102,7 @@ http://50.7.69.186:1935/edge/_definst_/d2z1vc4ahrl6x26/chunklist.m3u8?wowzasessi
 http://50.7.69.186:1935/edge/_definst_/fzasab6vz02yuf7/chunklist.m3u8?wowzasessionid=1419914830
 #EXTINF:-1, NBC
 http://50.7.69.186:1935/edge/_definst_/s5whw37nl7weedp/chunklist.m3u8?wowzasessionid=1420160473
+
 #EXTINF:-1, NBC Sports Network
 http://50.7.69.186:1935/edge/_definst_/0fm1lstybe4a0j4/playlist.m3u8?wowzasessionid=1419879018
 #EXTINF:-1, NBC Sports Network
@@ -453,6 +451,20 @@ http://162.219.0.235:8000/udp/162.219.0.235:15140
 http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/4.ts
 #EXTINF:-1,British Eurosports 2 UK
 http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/5.ts
+#EXTINF:0,Bein Sports 1HD
+rtmp://180.250.29.12:1935/jhos/beib1_5
+#EXTINF:0,Bein Sports 2HD
+rtmp://180.250.29.12:1935/jhos/beib2_5
+#EXTINF:0,Bein Sports 3HD
+rtmp://180.250.29.12:1935/jhos/beib3_5
+#EXTINF:-1,Bein Sports 1
+rtmp://180.250.29.12:1935/jhos/beib1_3
+#EXTINF:-1,Bein Sports 2
+rtmp://180.250.29.12:1935/jhos/beib2_3
+#EXTINF:-1,Bein Sports 3
+rtmp://180.250.29.12:1935/jhos/beib3_5
+#EXTINF:-1,BeinSports 2 Eng
+http://65.111.174.111:1935/iptv/beinsports2.stream/playlist.m3u8?
 #EXTINF:-1,ESPN SD
 http://50.7.69.186:1935/edge/_definst_/erooxo5dcvk05zk/chunklist.m3u8?wowzasessionid=1426891013
 #EXTINF:-1,ESPN 2 SD
@@ -498,13 +510,6 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 http://146.158.123.198:4022/udp/239.72.6.50:1234
 #EXTINF:-1, Eurosport 2
 http://146.158.123.198:4022/udp/239.72.6.51:1234
-#EXTINF:-1,Bein Sports 1
-rtmp://180.250.29.12:1935/jhos/beib1_3
-#EXTINF:-1,Bein Sports 2
-rtmp://180.250.29.12:1935/jhos/beib2_3
-
-#EXTINF:-1,BeinSports 2 Eng
-http://65.111.174.111:1935/iptv/beinsports2.stream/playlist.m3u8?
 #EXTINF:65535,BTN Network
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 #EXTINF:-1,NBC Sports Golf 720p [COLOR yellow]Seems Down for some? Will be back ASAP[/COLOR]
@@ -545,7 +550,6 @@ http://hls.svc.moyo.tv/hls/CH_CARTOON/variant.m3u8?version=2
 #EXTINF:-1, Cartoon Network
 http://113.160.49.34/lives/origin03/cartoonsd.isml/cartoonsd-1096k.m3u8
 #EXTINF:-1,Nickelodeon
-http://cctv2-lh.akamaihd.net/i/hoanick_live@125188/index_1080p_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, CBBC
 http://llnw.live.simplestream.com/coder2/coder.channels.channel5/hls/3/playlist.m3u8
 #EXTINF:-1, CBeebies
@@ -731,3 +735,4 @@ http://llnw.live.simplestream.com/coder10/coder.channels.channel23/hls/3/playlis
 http://llnw.live.simplestream.com/coder5/coder.channels.channel11/hls/3/playlist.m3u8
 #EXTINF:-1, Unknown Religious Channel
 http://llnw.live.simplestream.com/coder4/coder.channels.channel4/hls/3/playlist.m3u8
+
