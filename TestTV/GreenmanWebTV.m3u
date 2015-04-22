@@ -7,6 +7,10 @@
 http://212.250.46.35:4252/bysid/9601
 #EXTINF:0,RTE 2
 http://212.250.46.35:4252/bysid/9602
+#EXTINF:-1,TV3
+http://212.250.46.35:4252/bysid/9605
+#EXTINF:-1,TG4
+http://212.250.46.35:4252/bysid/9603
 #EXTINF:0,RTEjr
 http://212.250.46.35:4252/bysid/9606
 #EXTINF:0,UTV
@@ -37,20 +41,32 @@ http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8
 http://llnw.live.simplestream.com/mediaexcel01/channel03/3/prog_index.m3u8
 #EXTINF:-1,ITV 1
 http://82.135.224.134:80/udp/239.100.3.6:1234
+#EXTINF:-1,ITV1
+http://78.129.175.72/live/itv/itv.m3u8
 #EXTINF:-1, ITV 2
-http://llnw.live.simplestream.com/coder12/coder.channels.channel8/hls/3/217893.ts
+http://llnw.live.simplestream.com/coder12/coder.channels.channel8/hls/3/playlist.m3u8
+#EXTINF:-1,ITV 2
+http://78.129.175.72/live/itv2/itv2.m3u8
 #EXTINF:-1, ITV 3
 http://llnw.live.simplestream.com/coder12/coder.channels.channel10/hls/3/playlist.m3u8
 #EXTINF:-1, ITV 4
 http://llnw.live.simplestream.com/coder12/coder.channels.channel12/hls/3/playlist.m3u8
+#EXTINF:-1,ITV 4
+http://78.129.175.72/live/itv4/itv4.m3u8 
+#EXTINF:-1,ITV be
+http://78.129.175.72/live/itvbe/itvbe.m3u8
 #EXTINF:-1,Itv choice
 http://185.27.237.105:8082/TV0055
 #EXTINF:-1, Channel 4
 http://llnw.live.simplestream.com/mediaexcel01/channel04/3/prog_index.m3u8
+#EXTINF:-1,Channel 4
+http://78.129.175.72/live/channel4/channel4.m3u8
 #EXTINF:-1, 4 Seven
 http://llnw.live.simplestream.com/coder8/coder.channels.channel6/hls/3/playlist.m3u8
 #EXTINF:-1, More 4
 http://llnw.live.simplestream.com/coder8/coder.channels.channel2/hls/3/playlist.m3u8
+#EXTINF:-1, More 4
+http://78.129.175.72/live/more4/more4.m3u8
 #EXTINF:65535, FILM 4
 http://78.129.175.72/live/film4/film4.m3u8
 #EXTINF:-1, Film4
@@ -59,12 +75,16 @@ http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=8
 http://llnw.live.simplestream.com/coder10/coder.channels.channel21/hls/3/playlist.m3u8
 #EXTINF:-1, 5
 http://llnw.live.simplestream.com/mediaexcel01/channel05/3/prog_index.m3u8
+#EXTINF:-1, 5
+http://78.129.175.72/live/channel5/channel5.m3u8
 #EXTINF:-1, 5 +24
 http://llnw.live.simplestream.com/coder8/coder.channels.channel12/hls/3/playlist.m3u8
 #EXTINF:-1, 5 Star
 http://llnw.live.simplestream.com/coder8/coder.channels.channel8/hls/3/playlist.m3u8
 #EXTINF:-1, 5 USA
 http://llnw.live.simplestream.com/coder8/coder.channels.channel14/hls/3/playlist.m3u8
+#EXTINF:-1,5 USA
+http://78.129.175.72/live/5usa/5usa.m3u8
 #EXTINF:65535,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 #EXTINF:-1, Food Network (UK)
