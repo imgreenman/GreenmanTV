@@ -436,6 +436,18 @@ http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/171.m3u8
 
 #EXTINF:-1,.
 #EXTINF:-1,SPORT CHANNELS
+#EXTINF:-1, Sky Sports F1
+http://apniapps.ddns.net:8080/f1/f1/index.m3u8
+#EXTINF:-1, Sky Sports 1
+http://apniapps.ddns.net:8080/sp1/sp1/index.m3u8
+#EXTINF:-1, Sky Sports 2
+http://apniapps.ddns.net:8080/sp2/sp2/index.m3u8
+#EXTINF:-1, Sky Sports 3
+http://apniapps.ddns.net:8080/sp3/sp3/index.m3u8
+#EXTINF:-1, Sky Sports 4
+http://apniapps.ddns.net:8080/sp4/sp4/index.m3u8
+#EXTINF:-1, Sky Sports 5
+http://apniapps.ddns.net:8080/sp5/sp5/index.m3u8
 #EXTINF:-1,SKY SPORTS 1
 http://178.62.148.20:8080/skysSpoRts1/sKYytV/index.m3u8
 #EXTINF:-1,SKY SPORTS 2
