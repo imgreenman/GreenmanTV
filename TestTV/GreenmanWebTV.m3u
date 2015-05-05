@@ -27,6 +27,19 @@ rtsp://wms.servers.heanet.ie/Seanad
 
 #EXTINF:-1,.
 #EXTINF:-1,UK CHANNELS
+
+#EXTINF:1,bbc1
+http://5.189.144.85:1935/live/bbc1/playlist.m3u8?auth=test
+#EXTINF:1,bbc2
+http://5.189.144.85:1935/live/bbc2/playlist.m3u8?auth=test
+#EXTINF:1,bbc3
+http://5.189.144.85:1935/live/bbc3/playlist.m3u8?auth=test
+#EXTINF:1,bbc4
+http://5.189.144.85:1935/live/bbc4/playlist.m3u8?auth=test
+#EXTINF:1,channel4
+http://5.189.144.85:1935/live/channel4/playlist.m3u8?auth=test
+#EXTINF:1,itv1_hd
+http://5.189.144.85:1935/live/itv1_hd/playlist.m3u8?auth=test
 #EXTINF:-1, BBC 1
 http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
 #EXTINF:-1, BBC 2

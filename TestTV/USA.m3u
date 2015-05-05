@@ -1,0 +1,273 @@
+#EXTM3U
+#EXTINF:-1,AMC (RU/EN Audio)
+http://31.130.9.158:81/udp/238.1.2.44:1234
+#EXTINF:-1,BBC America HD
+http://31.220.41.111:80/LiveEdge/BBCAmericaHD/chunklist_w1773661470_b1000000.m3u8?token=
+#EXTINF:-1,Animal Planet
+http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028
+#EXTINF:0,RT Documentary HD
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
+#EXTINF:-1,ABC FAMILY
+rtmpe://rtmp.zerocast.tv/goLive/NyRerYqWuhRWGCsmb3f3 swfUrl=http://cdn.zerocast.tv/player/aaaaa.swf pageUrl=http://zerocast.in/embed.php?a=1 token=OOG17t.x#K9Vh#|
+#EXTINF:-1,ABC Family (stream 2)
+rtmpe://192.99.38.90:1935/goLive playpath=NyRerYqWuhRWGCsmb3f3 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
+#EXTINF:-1,A and E
+rtmpe://rtmp.zerocast.tv/goLive/kbMD64czDshAmjDd4kxQ swfurl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://zerocast.tv/embed.php?a=511 token=OOG17t.x#K9Vh#|
+#EXTINF:-1,Bravo
+rtmpe://rtmp.zerocast.tv/goLive/bpVhPyJw4wqZW7W61yV76 swfUrl=http://cdn.zerocast.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.in/embed.php?a=5 token=OOG17t.x#K9Vh#|
+#EXTINF:-1, Bravo (stream 2)
+rtmpe://192.99.38.90:1935/goLive playpath=bpVhPyJw4wqZW7W61yV76 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+#EXTINF:-1,ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1,TBS
+rtmp://rtmp.zerocast.tv/goLive/RhMi9RdAAt7fpq8H3qZh swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 pageUrl=http://zerocast.tv/embed token=OOG17t.x#K9Vh#|
+#EXTINF:-1,USA
+rtmpe://167.114.157.67:1935/goLive/jvZXQUYQmlsPirfiVK1G swfurl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://zerocast.tv/embed.php?a=19 token=OOG17t.x#K9Vh#|
+#EXTINF:-1,CBS
+http://lv7.oedg.ustvnow.com/dvrtest/mp4:F5C92WHP0USTVNOW1/chunklist.m3u8?f1a2823da53acb9b9d726286229af87fbcd59eb5f07a66b2467f5744f152c88fc1b91e3a446eb65810823b3fde58d0c480adb914a99223ba14d94734a587
+#EXTINF:-1,CNBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
+#EXTINF:-1,CNN International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1,MSNBC
+rtmp://198.255.0.18:443/live?DmDvtZbWkrLVCvguUA208sT0U5yiXYlQ/live_breakingnewsnow
+#EXTINF:-1,NASA
+http://public.infozen.cshls.lldns.net/infozen/public/public/public_1000.m3u8
+#EXTINF:-1,HSN
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
+#EXTINF:-1,HSN 2
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpath=mp4:468p500kB31
+#EXTINF:-1, FX
+rtmpe://192.99.38.90:1935/goLive playpath=VCV8SViFVBv2nX5RQwKI swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+#EXTINF:-1, MTV
+rtmpe://192.99.38.90:1935/goLive playpath=7U8HX14EnQVGCFy swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+#EXTINF:-1, Tom and Jerry
+rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
+#EXTINF:-1, NICKELODEON
+rtmpe://192.99.38.90:1935/goLive playpath=fCqfhb14WwwFbAsDbV3Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+#EXTVLCOPT:audio-track=1
+#EXTINF:-1,Cartoon (RU/EN Audio)
+http://hls.svc.moyo.tv/hls/CH_CARTOON/variant.m3u8?version=2
+#EXTINF:-1, Showtime
+rtmpe://192.99.38.90:1935/goLive playpath=kbMD64czDshAmjDd4kxQ swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+#EXTINF:-1,RoswellLive US
+mms://roswell.ecstreams.com/RoswellLive
+#EXTINF:-1,The Florida Channel
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+#EXTINF:-1,University of California TV
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+#EXTINF:-1,SyFy
+rtmpe://rtmp.zerocast.tv/goLive/tPjsURqsVo4NSe23EhJP swfUrl=http://cdn.zerocast.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.in/embed.php?a=16 token=OOG17t.x#K9Vh#|
+#EXTINF:-1,TCM USA
+http://31.220.41.102/LiveEdge/TCMUS/chunklist_w2047265790_b1000000.m3u8?token=
+#EXTINF:-1, HBO
+rtmpe://192.99.38.90:1935/goLive playpath=qKmzUdRhBM73njBBDFyL swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+#EXTINF:-1, HBO East
+http://31.220.41.111:80/LiveEdge/HBOEastUS/chunklist_w1634307971_b1000000.m3u8?token=
+#EXTINF:-1, HBO West
+http://31.220.2.221:80/LiveEdge/HBOWestUS/chunklist_w1108801454_b1000000.m3u8?token=
+#EXTINF:-1,HBO 2
+http://31.220.41.111:80/LiveEdge/HBO2WestHD/chunklist_w390747982_b1000000.m3u8?token=
+#EXTINF:-1,HBO 2 (stream 2)
+rtmp://89.248.168.57:1935/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/HBO token=#ed%h0#w18623jsda6523lDGDve
+#EXTINF:-1,HBO Comedy East
+http://31.220.2.220:80/LiveEdge/HBOComedyEastUS/chunklist_w935175443_b1000000.m3u8?token=
+#EXTINF:-1,HBO 2 West
+http://31.220.41.111:80/LiveEdge/HBO2WestUS/chunklist_w691497406_b1000000.m3u8?token=
+#EXTINF:-1,HBO Zone
+http://31.220.40.108:80/LiveEdge/HBOZoneUS/chunklist_w320493732_b1000000.m3u8?token=
+#EXTINF:-1,CineMax East
+http://31.220.41.111/LiveEdge/CinemaxEastUS/chunklist_w1861841138_b1000000.m3u8?token=
+#EXTINF:-1,ThrillerMax East
+http://31.220.41.110:80/LiveEdge/ThrillerMaxEasUS/chunklist_w887093571_b1000000.m3u8?token=
+#EXTINF:-1,Showtime West
+http://31.220.41.103:80/LiveEdge/ShowtimeWestUS/chunklist_w514349824_b1000000.m3u8?token=
+#EXTINF:-1,Showtime Showcase East
+http://31.220.41.107:80/LiveEdge/ShowtimeShowcaseEastUS/chunklist_w558093061_b1000000.m3u8?token=
+#EXTINF:-1,Showtime Extreme East
+http://31.220.41.103:80/LiveEdge/ShowtimeExtremeEastUS/chunklist_w597992924_b1000000.m3u8?token=
+#EXTINF:-1,Showtime Beyond East
+http://31.220.41.107/LiveEdge/ShowtimeBeyondEastUS/chunklist_w1863492743_b1000000.m3u8?token=
+#EXTINF:-1,Showtime Next
+http://31.220.2.220:80/LiveEdge/ShowtimeNextUS/chunklist_w973847094_b1000000.m3u8?token=
+#EXTINF:-1,The Movie Channel East
+http://31.220.40.108/LiveEdge/TheMovieChannelEastHD/chunklist_w67402912_b1000000.m3u8?token=
+#EXTINF:-1,The Movie Channel Xtra East
+http://31.220.41.107:80/LiveEdge/TheMovieChannelXtraEastUS/chunklist_w393745351_b1000000.m3u8?token=
+#EXTINF:-1,Encore East
+http://31.220.41.110:80/LiveEdge/EncoreEastHD/chunklist_w278428019_b1000000.m3u8?token=
+#EXTINF:-1,Starz East
+http://31.220.40.108:80/LiveEdge/StarzEastHD/chunklist_w2022301216_b1000000.m3u8?token=
+#EXTINF:-1,Starz West
+http://31.220.40.108:80/LiveEdge/StarzWestUS/chunklist_w180614607_b1000000.m3u8?token=
+#EXTINF:-1,Starz Cinema East
+http://31.220.2.221/LiveEdge/StarzCinemaEastUS/chunklist_w728228150_b1000000.m3u8?token=
+#EXTINF:-1,Starz in Black East
+http://31.220.41.103/LiveEdge/StarzInBlackEastUS/chunklist_w2087048984_b1000000.m3u8?token=
+#EXTINF:-1,Starz Kids & Family East
+http://31.220.41.102:80/LiveEdge/StarzKidsFamilyEastUS/chunklist_w1565892697_b1000000.m3u8?token=
+#EXTINF:-1,Sony Movie Channel USA
+http://31.220.2.221:80/LiveEdge/SonyMovieChannelUS/chunklist_w2109190971_b1000000.m3u8?token=
+#EXTINF:-1,Hallmark Movie Channel HD
+http://31.220.41.110:80/LiveEdge/HallmarkMovieChannelUS/chunklist_w1274236983_b1000000.m3u8?token=
+#EXTINF:0, Sports Net 360
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/62.m3u8
+#EXTINF:-1, MLB Network
+http://31.220.41.103:80/LiveEdge/MLBNetworkHD/chunklist_w120707322_b1000000.m3u8?token=
+#EXTINF:-1, NFL Network
+http://31.220.2.221:80/LiveEdge/NFLNetworkUS/chunklist_w291124137_b1000000.m3u8?token=
+#EXTINF:-1, NBA TV
+http://31.220.41.103:80/LiveEdge/NBATVUS/chunklist_w1420794353_b1000000.m3u8?token=
+#EXTINF:-1, UFC (latino)
+http://31.220.2.220:80/LiveEdge/UFCNetworkLA/chunklist_w519816327_b1000000.m3u8?token=
+#EXTINF:-1, CBS Sports Network
+http://31.220.41.103:80/LiveEdge/CBSSportsNetworkUS/chunklist_w2063228985_b1000000.m3u8?token=
+#EXTINF:-1, WWE Network SD
+rtmp://94.102.49.126:443/liverepeater/wwee pageUrl=http://xxxxxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=49?32?34 pageUrl=http://popeoftheplayers.eu/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1page/playpath=42?finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
+#EXTINF:-1, ESPN US
+http://31.220.41.107:80/LiveEdge/ESPNUS/chunklist_w689312563_b1000000.m3u8?token=
+#EXTINF:-1, ESPN 2 US
+http://31.220.40.105:80/LiveEdge/ESPN2US/chunklist_w1420543787_b1000000.m3u8?token=
+#EXTINF:-1, Fox Sports 1 US
+http://31.220.40.100:80/LiveEdge/FoxSports1HD/chunklist_w231183099_b1000000.m3u8?token=
+#EXTINF:-1, Fox Sports 2 US
+http://31.220.2.221:80/LiveEdge/FoxSports2US/chunklist_w286577617_b1000000.m3u8?token=
+#EXTINF:-1,FOX SPORTS NEWS HD
+http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_2128_av-p.m3u8
+#EXTINF:-1, NBC GOLF SD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1, NBC GOLF 720p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1, NBC GOLF 1080p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NBC Sports Network 720P
+rtmp://w3.vmnode.pw:2195/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
+#EXTINF:-1,NBC Sports Network 1080P
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,USA Live TV Big Ten Network
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:0,PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8?
+#EXTINF:0,PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+#EXTINF:0,PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8?
+#EXTINF:0,PAC-12 Net. (Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8?
+#EXTINF:0,PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8?
+#EXTINF:0,PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8?
+#EXTINF:-1,USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Washington)
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1, CNBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:1,CNN USA
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1, Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+#EXTINF:-1, RT America
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_720p/chunklist.m3u8
+#EXTINF:-1,News 12 Long Island(Stream 1)
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000
+#EXTINF:-1,News Bronx(Stream 1)
+rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
+#EXTINF:-1,News Bronx(Weather)
+rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
+#EXTINF:-1,News Brooklyn(Stream 1)
+rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000
+#EXTINF:-1,News Connecticut(Stream 1)
+rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000
+#EXTINF:-1,News Connecticut(Weather)
+rtmp://fs-b6e3010000000000.id.cdn.cv.net/vxedge/fs-b6e3010000000000/fs-b6e3010000000000
+#EXTINF:-1,News Hudson Valley(Stream 1)
+rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000
+#EXTINF:-1,News Hudson Valley(Weather)
+rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
+#EXTINF:-1,News Long Island(Stream 2)
+rtmp://fs-b94e110000000000.id.cdn.cv.net/vxedge/fs-b94e110000000000/fs-b94e110000000000
+#EXTINF:-1,News Long Island(Weather)
+rtmp://fs-aee3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000/fs-aee3010000000000
+#EXTINF:-1,News New Jersey(Stream 1)
+rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
+#EXTINF:-1,News New Jersey(Weather)
+rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e3010000000000
+#EXTINF:-1,News Westchester(Stream 1)
+rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
+
+
+
+
+
+
+
+ #EXTINF:-1 tvg-id=”-ABC-2″ tvg-logo=”abc.png” group-title=”U.S.A”,[COLOR steelblue][I][B] ABC7 [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://178.18.31.59:443/liverepeater playpath=191903 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+   #EXTINF:-1 tvg-logo=”amc.png” tvg-id=”AMC” group-title=”U.S.A”,[COLOR steelblue][I][B] AMC [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://178.18.31.59:443/liverepeater playpath=191904 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+ #EXTINF:-1 tvg-logo=”bravo.png” tvg-id=”Bravo” group-title=”U.S.A”,[COLOR skyblue][I][B] Bravo [/B][/I][/COLOR]
+   rtmp://$OPT:rtmp-raw= rtmp://178.18.31.59:443/liverepeater playpath=191905 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+#EXTINF:-1 tvg-id=”Comedy Central(USA)” tvg-logo=”comedychannel.png” group-title=”U.S.A”,[B][I][COLOR steelblue] Comedy Central [/B][/I][/COLOR]
+   rtmp://$OPT:rtmp-raw=rtmp://178.18.31.59:443/liverepeater playpath=191907 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$Z
+ #EXTINF:-1 tvg-logo=”cbs22.png” tvg-id=”CBS-7″ group-title=”U.S.A”,[COLOR skyblue][I][B] CBS2 NY [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://178.18.31.59:443/liverepeater playpath=191906 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+#EXTINF:-1 tvg-id=”NBC-7″ tvg-logo=”nbc.png” group-title=”U.S.A”,[COLOR steelblue][I][B] NBC4 NY [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://178.18.31.59:443/liverepeater playpath=191914 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+    #EXTINF:-1 tvg-id=”NBC-7″ tvg-logo=”nbc.png” group-title=”U.S.A”,[COLOR skyblue][I][B] NBC4 [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://178.18.31.59:443/liverepeater playpath=191915 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+   #EXTINF:-1 tvg-logo=”hbo.png” tvg-id=”HBO” group-title=”U.S.A”,[COLOR skyblue][I][B] HBO [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://178.18.31.59:443/liverepeater playpath=191881 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+#EXTINF:-1 tvg-logo=”fox11.png” tvg-id=”(Mountain)FOX” group-title=”U.S.A”,[COLOR steelblue][I][B] FOX5 [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://178.18.31.59:443/liverepeater playpath=191910 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+  #EXTINF:-1 tvg-id=”Fox News Channel” tvg-logo=”foxnews.png” group-title=”U.S.A”, [B][I][COLOR skyblue] FOX News [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://178.18.31.59:443/liverepeater playpath=191911 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$
+ #EXTINF:-1 tvg-logo=”fxhd.png” tvg-id=”FX” group-title=”U.S.A”,[COLOR skyblue][I][B]FX-HQ[/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://178.18.31.59:443/liverepeater playpath=191913 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+ #EXTINF:-1 tvg-logo=”tnt.png” tvg-name=”TNT” group-title=”U.S.A”,[COLOR steelblue][I][B] TNT East [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://178.18.31.59:443/liverepeater playpath=191917 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+  #EXTINF:-1 tvg-logo=”tbs.png” tvg-name=”TBS” group-title=”U.S.A”,[COLOR skyblue][I][B] TBS [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://178.18.31.59:443/liverepeater playpath=191916 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+    #EXTINF:-1 tvg-shift=-1 tvg-id=”SONY MAX” tvg-logo=”sonymax.png” group-title=”MOVIES”, [B][I][COLOR skyblue] Sony MAX [/I][/B][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://178.18.31.59:443/liverepeater playpath=191912 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+    #EXTINF:-1 tvg-shift=-1 tvg-id=”Racing UK” tvg-logo=”racinguk.png”group-title=”SPORTS”,[COLOR skyblue][I][B] Racing UK [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://rrbalancer.broadcast.tneg.de:1935/pw/ruk/ playpath=ruk swfUrl=http://pferdewetten.broadcast.tneg.de/jwplayer/player.swf live=1 pageUrl=http://pferdewetten.broadcast.tneg.de/jwplayer/player.php?type=live&stream=ruk1&token=ccf6c54e62bc5bd667661d5af5d61e8664c75b11
+#EXTINF:-1 tvg-shift=-1 tvg-id=”beIN Sports” tvg-logo=”bein.png” group-title=”SPORTS”,[COLOR skyblue][I][B] BeIN Sports [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://cdn.cast-tv.us/stream playpath=z00031.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1
+#EXTINF:-1 tvg-shift=-1 tvg-id=”British Eurosport HD” tvg-logo=”britisheurosports1.png” group-title=”SPORTS”,[COLOR skyblue][I][B] British EuroSports 1 [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=28 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=22&width=600&height=450 token=#atd%#$ZH
+    #EXTINF:-1 tvg-shift=-1 tvg-id=”British Eurosport 2″ tvg-logo=”britisheurosports2.png” group-title=”SPORTS”,[COLOR skyblue][I][B] British EuroSports 2 [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://80.82.78.26:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=620&height=490 token=#atd%#$ZH
+#EXTINF:-1 tvg-logo=”wwe.png” tvg-name=”” group-title=”U.S.A”,[COLOR skyblue][I][B] WWE Tv [/B][/I][/COLOR]’
+    rtmp://$OPT:rtmp-raw=rtmp://178.18.31.59:443/liverepeater playpath=191918 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+#EXTINF:-1 tvg-id=”Discovery.pt” tvg-logo=”discoverypt.png” group-title=”ENTERTAINMENT”,[B][I][COLOR steelblue] DISCOVERY [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://50.22.223.42/youcloud/ playpath=discovery5e1r?keys=QNM48GIqRNlW0XPfEeW52A&keyt=1424715176 swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=1 swfVfy=1 pageUrl=http://youcloud.tv/player?streamname=discovery5e1r&width=555&height=435 timeout=15
+     #EXTINF:-1 group-title=”ENTERTAINMENT” tvg-logo=”History.png” tvg-id=”history”,[B][I][COLOR steelblue] Historia [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://173.193.216.172/youcloud/historia8wdy?keys=nYPDs127dA3aVrXMcQEVvA&keyt=1426677769 swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://youcloud.tv/player?streamname=historia8wdy
+    #EXTINF:-1 group-title=”ENTERTAINMENT” tvg-logo=”axnwh.png” tvg-id=””,[B][I][COLOR steelblue] AXN White [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://184.173.146.4/youcloud/axnblank2er?keys=hxxhuW5zTFXNHJmTO0uL0A&keyt=1426418995 swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://youcloud.tv/player?streamname=axnblank2er
+    #EXTINF:-1 group-title=”ENTERTAINMENT” tvg-logo=”FOX.png” tvg-id=”FOXHD.pt”,[B][I][COLOR steelblue] FOX [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://159.253.149.21/youcloud/fox20disx?keys=4tRxE_VGe0ukFwujvlov8w&keyt=1426418998 swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://youcloud.tv/player?streamname=fox20disx
+    #EXTINF:-1 group-title=”ENTERTAINMENT” tvg-logo=”holhd.png” tvg-id=”HOLLYHD.pt”,[B][I][COLOR steelblue] Hollywood [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://149.255.39.2/youcloud/hollywood93u?keys=epbXxbQNw4ZxBDNQO35IKQ&keyt=1424695544 swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://youcloud.tv/player?streamname=hollywood93u
+    #EXTINF:-1 group-title=”ENTERTAINMENT” tvg-logo=”syfy.jpg” tvg-id=”SYFYHD.pt”,[B][I][COLOR steelblue] Syfy [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://50.22.223.42/youcloud/syfiles934r?keys=HR5VwoZWiEObWBlZtAWIjA&keyt=1426419012 swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://youcloud.tv/player?streamname=syfiles934r
+ #EXTINF:-1 tvg-id=”sicmulher.pt” tvg-logo=”sicm-ver3.png” group-title=”ENTERTAINMENTâ€,[B][I][COLOR steelblue] SIC MULHER [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://50.22.223.47/youcloud/ playpath=sicmulher8f2d?keys=QOrXfhNzLkbvbGrwD7excg&keyt=1423589347 conn=S:OK swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=true pageUrl=pageUrl=http://youcloud.tv/player?streamname=sicmulher8f2d&width=555&height=435 timeout=15
+    #EXTINF:-1 tvg-logo=”.png” tvg-name=”” group-title=”U.S.A”,[COLOR steelblue][I][B] HBO [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://l.xuscacamusca.se/r playPath=foxcrime82fy769 swfUrl=http://xuscacamusca.se/ODEwZjJiMjY0ODNiNTEyMGJhNjRmYTI0/jwplayer.flash.swf live=true timeout=15 swfVfy=1 pageUrl=http://mybeststream.xyz/?id=27031&PageSpeed=noscript token=#atd%#$ZH
+    #EXTINF:-1 tvg-logo=”axn.png” tvg-id=”AXN(Portugal)” group-title=”U.S.A”,[COLOR steelblue][I][B] AXN [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://37.220.36.71:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH live=N.SAT
+   #EXTINF:-1 tvg-shift=-1 tvg-id=”VH1(UK)” tvg-logo=”VH1.png” group-title=”MUSIC”,[COLOR teal][B][I] VH1 UK [/B][/I][/COLOR]
+    rtmp://$OPT:rtmp-raw=rtmp://edge03-03.az.myvideo.az/dvrh264/vh1/ playpath=mp4:vh1 swfUrl=http://www.myvideo.az/stml/dvr/dvrH.swf?v=1.2 live=1 pageUrl=http://www.myvideo.az/r.ates/
