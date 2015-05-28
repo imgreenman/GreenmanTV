@@ -4,41 +4,76 @@
 #EXTINF:-1,.
 
 #EXTM3U 
-#EXTINF:-1,4 Music http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=22 
-#EXTINF:-1,4 Seven http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=13 
-#EXTINF:-1,4 Seven Link 2 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=47 
-#EXTINF:-1,5 Star http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=24 
-#EXTINF:-1,5 USA http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=25 
-#EXTINF:-1,Amazing Facts TV http://bglive-w.bitgravity.com/amazingfacts/live/feed01 
-#EXTINF:-1,BBC 1 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=0 
-#EXTINF:-1,BBC 1 Link 2 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=41 
-#EXTINF:-1,BBC 2 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=1 
-#EXTINF:-1,BBC News http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?Vd?u#bt!25 
-#EXTINF:-1,BBC News Link 2 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=51 
-#EXTINF:-1,BBC WORLD NEWS http://93.184.221.133/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8 
-#EXTINF:-1,CBS Action http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=28 
-#EXTINF:-1,CBS Reality http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=27 
-#EXTINF:-1,Channel 4 +1 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=50 
-#EXTINF:-1,Channel 4 +1 Link 2 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=54 
-7#EXTINF:-1,Channel 4 Link 2 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=44 
-#EXTINF:-1,Channel 5 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=4 
-#EXTINF:-1,Channel 5 +1 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=55 
-#EXTINF:-1,cnn m3u8 http://pebbles105-lh.akamaihd.net/i/cnn_1@97501/master.m3u8 
-#EXTINF:-1,DAIL EIREANN rtsp rtsp://wms.servers.heanet.ie/Dail 
-#EXTINF:-1,Dave http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=11 
-7#EXTINF:-1,Dave Ja Vu http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=60 
-#EXTINF:-1,Drama http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=19 
-#EXTINF:-1,E4 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=16 
-#EXTINF:-1,Film Four http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=14 
-#EXTINF:-1,Film Four +1 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=58 
-#EXTINF:-1,Florida-CarolCablesTV mms mms://207.7.154.95/G0937_002?wmcache=0 
-#EXTINF:-1,Food Network http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=32 
-#EXTINF:-1,Horror Channel http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=29 
-#EXTINF:-1,ITV 1 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=2 
-#EXTINF:-1,ITV 3 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=8 
-#EXTINF:-1,ITV 4 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=9 
-#EXTINF:-1,ITV Be http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=35 
-#EXTINF:-1,JCTV http://nstream.trinetsolutions.com/wmedia-live/tbn/8032/300_tbn-jctv_050222.asx 
+#EXTINF:-1,4 Music 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=22 
+#EXTINF:-1,4 Seven 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=13 
+#EXTINF:-1,4 Seven Link 2 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=47 
+#EXTINF:-1,5 Star 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=24 
+#EXTINF:-1,5 USA 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=25 
+#EXTINF:-1,Amazing Facts TV 
+http://bglive-w.bitgravity.com/amazingfacts/live/feed01 
+#EXTINF:-1,BBC 1 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=0 
+#EXTINF:-1,BBC 1 Link 2 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=41 
+#EXTINF:-1,BBC 2 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=1 
+#EXTINF:-1,BBC News 
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?Vd?u#bt!25 
+#EXTINF:-1,BBC News Link 2 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=51 
+#EXTINF:-1,BBC WORLD NEWS 
+http://93.184.221.133/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8 
+#EXTINF:-1,CBS Action 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=28 
+#EXTINF:-1,CBS Reality 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=27 
+#EXTINF:-1,Channel 4 +1 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=50 
+#EXTINF:-1,Channel 4 +1 Link 2 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=54 
+7#EXTINF:-1,Channel 4 Link 2 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=44 
+#EXTINF:-1,Channel 5 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=4 
+#EXTINF:-1,Channel 5 +1 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=55 
+#EXTINF:-1,cnn m3u8 
+http://pebbles105-lh.akamaihd.net/i/cnn_1@97501/master.m3u8 
+#EXTINF:-1,DAIL EIREANN rtsp 
+rtsp://wms.servers.heanet.ie/Dail 
+#EXTINF:-1,Dave 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=11 
+7#EXTINF:-1,Dave Ja Vu 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=60 
+#EXTINF:-1,Drama 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=19 
+#EXTINF:-1,E4 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=16 
+#EXTINF:-1,Film Four 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=14 
+#EXTINF:-1,Film Four +1 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=58 
+#EXTINF:-1,Florida-CarolCablesTV mms 
+mms://207.7.154.95/G0937_002?wmcache=0 
+#EXTINF:-1,Food Network 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=32 
+#EXTINF:-1,Horror Channel 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=29 
+#EXTINF:-1,ITV 1 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=2 
+#EXTINF:-1,ITV 3 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=8 
+#EXTINF:-1,ITV 4 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=9 
+#EXTINF:-1,ITV Be 
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=35 
+#EXTINF:-1,JCTV 
+http://nstream.trinetsolutions.com/wmedia-live/tbn/8032/300_tbn-jctv_050222.asx 
 #EXTINF:-1,JCTV Music, Mobile, Music Blender, Others US http://www.jctv.org/watchlive/jc-tv200.asx 
 #EXTINF:-1,Knob Ch1 mms mms://streams.tvknob.com/tvloops/Ch1/tvknob.wsx 
 #EXTINF:-1,More 4 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=15 
@@ -109,19 +144,32 @@ EXTINF:-1,News Connecticut(Stream 1) rtmp://fs-bbe3010000000000.id.cdn.cv.net/vx
 #EXTINF:-1,PAC-12 Net. (Bay Area) 1280*720 http://xrxs.net/video/live-p12baya-2328.m3u8 
 #EXTINF:-1,PAC-12 Net. (Los Angeles) http://xrxs.net/video/live-p12losa-4728.m3u8? 
 #EXTINF:-1,PAC-12 Net. (Moutain) http://xrxs.net/video/live-p12moun-4728.m3u8? 
-#EXTINF:-1,PAC-12 Net. (Oregon) http://xrxs.net/video/live-p12oreg-4728.m3u8? 
-#EXTINF:-1,PAC-12 Net. (Oregon) 1280*720 http://xrxs.net/video/live-p12oreg-2328.m3u8 
-#EXTINF:-1,PAC-12 Net. (Oregon) 640*360 http://xrxs.net/video/live-p12oreg-1164.m3u8 
-#EXTINF:-1,PAC-12 Net. (Washington) http://xrxs.net/video/live-p12wash-4728.m3u8? 
-#EXTINF:-1,RT Documentary HD http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8 
-#EXTINF:-1,SPORTES 7 HD http://xrxs.net/video/live-p12oreg-4728.m3u8 
-#EXTINF:-1,The Florida Channel rtmp://webcasting.thefloridachannel.org/live/tvweb1 
-#EXTINF:-1,University of California TV rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800 
-#EXTINF:-1,USA Live TV Big Ten Network http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8 
-#EXTINF:-1,USA-BASKET UNI.(Arizona) http://xrxs.net/video/live-p12ariz-1164.m3u8 
-#EXTINF:-1,USA-BASKET UNI.(Los Angeles) http://xrxs.net/video/live-p12losa-1164.m3u8 
-#EXTINF:-1,USA-BASKET UNI.(Moutain) http://xrxs.net/video/live-p12moun-1164.m3u8 
-#EXTINF:-1,USA-BASKET UNI.(Oregon) http://xrxs.net/video/live-p12oreg-1164.m3u8 - See more at: http://www.iptvsharing.com/2015/05/streaming-channels-uk-usa-iptv-26-05.html#sthash.NxvM5wgK.dpuf
+#EXTINF:-1,PAC-12 Net. (Oregon) 
+http://xrxs.net/video/live-p12oreg-4728.m3u8? 
+#EXTINF:-1,PAC-12 Net. (Oregon) 1280*720 
+http://xrxs.net/video/live-p12oreg-2328.m3u8 
+#EXTINF:-1,PAC-12 Net. (Oregon) 640*360 
+http://xrxs.net/video/live-p12oreg-1164.m3u8 
+#EXTINF:-1,PAC-12 Net. (Washington)
+ http://xrxs.net/video/live-p12wash-4728.m3u8? 
+#EXTINF:-1,RT Documentary HD 
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8 
+#EXTINF:-1,SPORTES 7 HD 
+http://xrxs.net/video/live-p12oreg-4728.m3u8 
+#EXTINF:-1,The Florida Channel 
+rtmp://webcasting.thefloridachannel.org/live/tvweb1 
+#EXTINF:-1,University of California TV 
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800 
+#EXTINF:-1,USA Live TV Big Ten Network 
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8 
+#EXTINF:-1,USA-BASKET UNI.(Arizona) 
+http://xrxs.net/video/live-p12ariz-1164.m3u8 
+#EXTINF:-1,USA-BASKET UNI.(Los Angeles) 
+http://xrxs.net/video/live-p12losa-1164.m3u8 
+#EXTINF:-1,USA-BASKET UNI.(Moutain) 
+http://xrxs.net/video/live-p12moun-1164.m3u8 
+#EXTINF:-1,USA-BASKET UNI.(Oregon) 
+http://xrxs.net/video/live-p12oreg-1164.m3u8 - See more at: http://www.iptvsharing.com/2015/05/streaming-channels-uk-usa-iptv-26-05.html#sthash.NxvM5wgK.dpuf
 
 
 #EXTINF:0, [COLOR green] --MY INTERNET IS CURRENTLY DOWN--[/COLOR]
