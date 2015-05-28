@@ -1,0 +1,208 @@
+#EXTM3U
+#EXTINF:-1 group-title=”UK Freeview Channels”, 4 Music
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=22
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, 4 Seven Link 1
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=13
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, 4 Seven Link 2
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=47
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, 5 Star
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=24
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, 5 USA
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=25
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, BBC 1 Link 1
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=0
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, BBC 1 Link 2
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=41
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, BBC 2 Link 1
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=1
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, BBC 2 Link 2
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=42
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, BBC 3
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=48
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, BBC 4
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=36
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, BBC News Link 1
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=40
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, BBC News Link 2
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=51
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, CBS Action
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=28
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, CBS Reality
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=27
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Challenge
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=18
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Channel 4 Link 1
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=3
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Channel 5 Link 2
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=44
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Channel 4 +1 Link 1
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=50
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Channel 4 +1 Link 2
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=54
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Channel 5
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=4
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Channel 5 +1
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=55
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Channel 5 +24
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=64
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Dave
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=11
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Dave Ja Vu
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=60
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Drama
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=19
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, E4
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=16
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, E4 +1
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=59
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Film Four
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=14
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Film Four +1
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=58
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Food Network
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=32
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Horror Channel
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=29
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, ITV 1 Link 1
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=2
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, ITV 1 Link 2
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=43
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, ITV 1 +1
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=52
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, ITV 2
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=5
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, ITV 2 +1
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=53
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, ITV 3
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=8
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, ITV 4
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=9
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, ITV Be
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=35
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, More 4
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=15
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Motors TV
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=31
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, MovieMix
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=30
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Movies4Men
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=33
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Pick TV
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=10
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Quest
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=17
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Quest +1
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=62
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Really
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=21
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Spike UK
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=26
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, True Entertainment
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=20
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, TruTV UK
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=34
+
+#EXTINF:-1 group-title=”UK Freeview Channels”, Yesterday
+
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=12
