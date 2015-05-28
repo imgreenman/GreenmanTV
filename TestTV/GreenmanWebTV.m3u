@@ -11,7 +11,8 @@ http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
 http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
 #EXTINF:-1,Bein Sports 3
 http://streamindo.ddns.net/jhos/beib3_3/streamindo/playlist.m3u8
-#EXTINF:-1,
+#EXTINF:-1, skp 1/playlist
+rtmp://$OPT:rtmp-raw=rtmp://137.63.71.18:443/liverepeater playpath=24 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=24amp;width=620amp;height=450 token=#atd%#$ZH
 #EXTM3U 
 #EXTINF:-1,4 Music 
 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=22 
