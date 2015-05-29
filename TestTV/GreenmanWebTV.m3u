@@ -11,8 +11,34 @@ http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
 http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
 #EXTINF:-1,Bein Sports 3
 http://streamindo.ddns.net/jhos/beib3_3/streamindo/playlist.m3u8
-#EXTINF:-1, skp 1/playlist
-rtmp://$OPT:rtmp-raw=rtmp://137.63.71.18:443/liverepeater playpath=24 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=24amp;width=620amp;height=450 token=#atd%#$ZH
+#EXTINF:-1, Sky Sports 1
+http://185.56.30.127:8082/TV4284
+#EXTINF:1,Sky SPORTS 1HD
+http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
+#EXTINF:1,Sky SPORTS 2HD
+http://195.154.227.38:1935/live/skysports2lsh/playlist.m3u8
+#EXTINF:1,Sky SPORTS 3HD
+http://195.154.227.38:1935/live/skysports3lsh/playlist.m3u8
+#EXTINF:1,Sky SPORTS 4HD
+http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8
+#EXTINF:1,Sky SPORTS 5HD
+http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8
+#EXTINF:-1, Sky Movies Premiere
+http://185.56.30.127:8082/TV4251
+#EXTINF:-1, Sky Movies Premiere+
+http://185.56.30.127:8082/TV4252
+#EXTINF:-1, Sky Sky Movies Select
+http://185.56.30.127:8082/TV4254
+#EXTINF:-1, Sky Movies Action & Adventure
+http://185.56.30.127:8082/TV4245
+#EXTINF:-1, Sky Movies Comedy
+http://185.56.30.127:8082/TV4246
+#EXTINF:-1, Sky Movies Disney
+http://185.56.30.127:8082/TV4247
+#EXTINF:-1, Sky Movies Family
+http://185.56.30.127:8082/TV4248
+#EXTINF:-1, Sky Movies SciFi
+http://185.56.30.127:8082/TV4249
 #EXTM3U 
 #EXTINF:-1,4 Music 
 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=22 
