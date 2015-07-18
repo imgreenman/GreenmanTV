@@ -1,9 +1,9 @@
 <?xml version="1.0.1" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.ruya" name="Ruya Addon Repository" version="1.4.3" provider-name="Greenman">
 	<extension point="xbmc.addon.repository" name="Ruya Addon Repository">
-		<info compressed="false">http://raw.github.com/metalkettle/MetalKettles-Addon-Repository/master/addons.xml</info>
-		<checksum>http://raw.github.com/metalkettle/MetalKettles-Addon-Repository/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/metalkettle/MetalKettles-Addon-Repository/master/zips</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/imgreenman/GreenmanTV/master/addon.xml</info>
+		<checksum>https://raw.githubusercontent.com/imgreenman/GreenmanTV/master/addon.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/imgreenman/GreenmanTV/master/repository.ruya/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Install my Addons</summary>
