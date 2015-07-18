@@ -1,7 +1,7 @@
 <?xml version="1.0.1" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.ruya" name="Ruya Addon Repository" version="1.4.3" provider-name="Greenman">
 	<extension point="xbmc.addon.repository" name="Ruya Addon Repository">
-		<info compressed="false">https://raw.githubusercontent.com/imgreenman/GreenmanTV/master/addon.xml</info>
+		<info compressed="true">https://raw.githubusercontent.com/imgreenman/GreenmanTV/master/addon.xml</info>
 		<checksum>https://raw.githubusercontent.com/imgreenman/GreenmanTV/master/addon.xml.md5</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/imgreenman/GreenmanTV/master/repository.ruya/</datadir>
 	</extension>
