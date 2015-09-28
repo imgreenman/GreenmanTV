@@ -392,3 +392,708 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/197.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/198.m3u8
 #EXTINF:-1, 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/199.m3u8
+#EXTINF:-1,Al Kass;Sports;QA;Arabic;
+http://38.99.146.36:7777/AlDawriAlKassSport_HD.m3u8
+#EXTINF:-1,Alnahar Sport;Sports;EG;Arabic;
+http://38.99.146.36:7777/AlNaharSport_HD.m3u8
+#EXTINF:-1,Big Ten Network ;Sports;US;English;
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:-1,Bein 1 SD;Sports;UK;English;
+http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
+#EXTINF:-1,Bein 2 SD;Sports;UK;English;
+http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
+#EXTINF:-1,Bein 3 SD;Sports;UK;English;
+http://180.250.29.12/jhos/beib3_3/1421536739/playlist.m3u8
+#EXTINF:-1,Bein Sports 1 HD ;Sports;FR;French;
+http://edge.ultracast.me:1935/live/1beinR3BMD/playlist.m3u8?Token
+#EXTINF:-1,Bein Sports 1 SD ;Sports;US;English;
+http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
+#EXTINF:-1,Bein Sports 2 ;Sports;US;English;
+http://lihattv.toh.info/jhos/beib2.m3u8
+#EXTINF:-1,Bein Sports 3 SD;Sports;US;English;
+http://180.250.29.12/jhos/beib3_3/1421536739/playlist.m3u8
+#EXTINF:-1,Bein Sports;Sports;UK;English;
+http://tv-tikitikilive-hls-live.hls.adaptive.level3.net/hls2/62.m3u8
+#EXTINF:-1,Box Nation ;Sports;UK;English;
+http://pub.yocast.tv:1935/live/box/playlist.m3u8
+#EXTINF:-1,British Eurosport 1 ;Sports;UK;English;
+http://31.220.40.118:80/LiveEdge/eurosp1.stream/chunklist_w1793759280_b1000000.m3u8?token=57cc29c6ffac2df17babaad24168ecbf
+#EXTINF:-1,British Eurosport 2 ;Sports;UK;English;
+http://31.220.41.102:80/LiveEdge/eurosp2.stream/chunklist_w1878277573_b1000000.m3u8?token=9f72acff87cd69566e075f3f008b06c7
+#EXTINF:-1,CDN SPORTSMAX;Sports;ES;Spanish;
+http://ip-tv.zz.mu/live.php?kanal=261&user=velimirbl&pass=200200
+#EXTINF:-1,COPA;Sports;UK;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/101.m3u8
+#EXTINF:-1,CTH Stadium 2 ;Sports;TH;Thai;
+http://103.7.56.114/vit2/stadium2new.stream/playlist.m3u8
+#EXTINF:-1,Champions League Live;Sports;UK;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/128.m3u8
+#EXTINF:-1,Chelsea TV ;Sports;UK;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/100.m3u8
+#EXTINF:-1,DIGI SPORT 1;Sports;RO;Romanian;
+http://ip-tv.zz.mu/live.php?kanal=637&user=velimirbl&pass=200200
+#EXTINF:-1,DXTV Sport ;Sports;SP;Spanish;
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+#EXTINF:-1,Dubai Racing ;Sports;UE;Arabic;
+http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1300000.m3u8
+#EXTINF:-1,Dubai Sport 2;Sports;UE;Arabic;
+http://38.99.146.36:7777/DubaiSport2_HD.m3u8
+#EXTINF:-1,Dubai Sport 3;Sports;UE;Arabic;
+http://38.99.146.36:7777/DubaiSports_HD.m3u8
+#EXTINF:-1,Euro 1;Sports;UK;English;
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1,EuroSport HD ;Sports;UK;English;
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1,Eurosport HD ;Sports;EU;French;
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+#EXTINF:-1,Eurosport2;Sports;RU;Russian/English;
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C04_EUROSPORT2/variant.m3u8?version=2
+#EXTINF:-1,Eurosport News;Sports;RU;Russian/English;
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C06_EURONEWS/variant.m3u8?version=2
+#EXTINF:-1,FIFA TV;Sports;UK;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/113.m3u8
+#EXTINF:-1,FOX Sports;Sports;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/66.m3u8
+#EXTINF:-1,FSC HD;Sports;Unk;English;
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1,Fight Network ;Sports;US;English;
+http://178.253.194.68:1935/liveloworigin/fightnetwork.stream/playlist.m3u8
+#EXTINF:-1,Fight Network;Sports;UK;English;
+http://178.253.194.68:1935/liveloworigin/fightnetwork.stream/playlist.m3u8
+#EXTINF:-1,Fight Sports ;Sports;US;English;
+http://lihattv.wha.la/jhos/fight/-/playlist.m3u8
+#EXTINF:-1,Fox Sports ;Sports;EU;Spanish;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/75.m3u8
+#EXTINF:-1,Jordan Sport;Sports;JO;Arabic;
+http://38.99.146.36:7777/JordanSport_HD.m3u8
+#EXTINF:-1,KTV 3;Sports;KW;Arabic;
+http://38.99.146.36:7777/KTV3Plus_HD.m3u8
+#EXTINF:-1,LIGA BBVA;Sports;SP;Spanish;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/119.m3u8
+#EXTINF:-1,LIGUE;Sports;FR;FRENCH;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/120.m3u8
+#EXTINF:-1,Liverpool TV;Sports;UK;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/121.m3u8
+#EXTINF:-1,MCTV;Sports;UK;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/122.m3u8
+#EXTINF:-1,MLB;Sports;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/40.m3u8
+#EXTINF:-1,MLS Soccer;Sports;UNK;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/68.m3u8
+#EXTINF:-1,MOTORSPORT ;Sports;AU;English;
+http://ip-tv.zz.mu/live.php?kanal=259&user=velimirbl&pass=200200
+#EXTINF:-1,Motors TV;Sports;UK;English;
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C06_MOTORSTV/variant.m3u8?version=2
+#EXTINF:-1,NASCAR;Sports;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/69.m3u8
+#EXTINF:-1,NBA ;Sports;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/70.m3u8
+#EXTINF:-1,NBC Golf;Sports;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/67.m3u8
+#EXTINF:-1,NBC Sports;Sports;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/71.m3u8
+#EXTINF:-1,NBC Sports Network ;Sports;US;English;
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8
+#EXTINF:-1,NFL Network 2;Sports;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/72.m3u8
+#EXTINF:-1,NFL Network ;Sports;US;English;
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
+#EXTINF:-1,NFL Network;Sports;UK;English;
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
+#EXTINF:-1,NFL Now;Sports;US;English;
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+#EXTINF:-1,Nas Car;Sports;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/69.m3u8
+#EXTINF:-1,Nile Sport;Sports;EG;Arabic;
+http://38.99.146.36:7777/NileSport_HD.m3u8
+#EXTINF:-1,Outdoor Channel ;Sports;RU;English;
+http://j.mp/ZCH_C01_OUTDOORCHANNELHD_sly
+#EXTINF:-1,PAC 12 Arizona;Sports;US;English;
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1,PAC 12 Bay Area;Sports;US;English;
+http://xrxs.net/video/live-p12baya-1164.m3u8
+#EXTINF:-1,PAC 12 Los Angeles;Sports;US;English;
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1,PAC 12 Mountain;Sports;US;English;
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1,PAC 12 Network;Sports;US;English;
+http://xrxs.net/video/live-p12netw-1164.m3u8
+#EXTINF:-1,PAC 12 Oregon;Sports;US;English;
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1,PAC 12 Washington;Sports;US;English;
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1,REAL MADRID;Sports;ES;Spanish;
+http://ip-tv.zz.mu/live.php?kanal=396&user=velimirbl&pass=200200
+#EXTINF:-1,Rai Sports 2;Sports;IT;Italian;
+http://origin2.live.web.tv.streamprovider.net/streams/84553722f218dda44aab91b4ae0c2d42/index.m3u8
+#EXTINF:-1,Rai Sports;Sports;IT;Italian;
+http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
+#EXTINF:-1,Real Madrid TV;Sports;US;Spanish;
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Russian Sports;Sports;RU;Russian;
+http://euro.online.hls.cn.ru/streaming/sport/126/tvrec/playlist.m3u8
+#EXTINF:-1,STV2 Slovakia;Sports;US;English;
+http://88.212.10.27:81/streams/stv2.m3u8
+#EXTINF:-1,Setanta Sports ;Sports;UK;English;
+http://portal.rapidiptv.com:8080/live/belkhirabdou1/belkhirabdou1/3583.m3u8
+#EXTINF:-1,Sky Bundesliga;Sports;DE;German;
+http://edge.ultracast.me:1935/live/sky1buINVcp/playlist.m3u8?Token
+#EXTINF:-1,Sky Sports 1 ;Sports;UK;English;
+http://5.196.14.179/sipragezabava.com/sky1.m3u8
+#EXTINF:-1,Sky Sports 1;Sports;UK;English;
+http://01s2.vp9.tv/chn/sks1/v.m3u8
+#EXTINF:-1,Sky Sports 2 ;Sports;UK;English;
+http://5.196.14.179/sipragezabava.com/sky2.m3u8
+#EXTINF:-1,Sky Sports 3 ;Sports;UK;English;
+http://5.196.14.179/sipragezabava.com/sky3.m3u8
+#EXTINF:-1,Sky Sports 4 ;Sports;UK;English;
+http://5.196.14.179/sipragezabava.com/sky4.m3u8
+#EXTINF:-1,Sky Sports 5 ;Sports;UK;English;
+http://edge.ultracast.me:1935/live/sky5sdUntfG/playlist.m3u8?Token
+#EXTINF:-1,Sky TG24;Sports;IT;Italian;
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+#EXTINF:-1,Sports 1 RU;Sports;RU;Russian;
+http://hls.cn.ru/streaming/sport1/16/tvrec/playlist.m3u8
+#EXTINF:-1,Sports Klub 1;Sports;RU;Russian;
+http://77.76.140.251/prgr.m3u8
+#EXTINF:-1,Sports Klub 2;Sports;RU;Russian;
+http://77.76.140.251/prgs.m3u8
+#EXTINF:-1,Sports Klub 3;Sports;RU;Russian;
+http://77.76.140.251/prgt.m3u8
+#EXTINF:-1,ports Max;Sports;AU;English;
+http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
+#EXTINF:-1,Super Sports 2;Sports;SA;Mixed;
+http://tring-amd-live.tring.tv/out/u/86_101.m3u8
+#EXTINF:-1,Super Sports 3;Sports;SA;Mixed;
+http://tring-amd-live.tring.tv/out/u/87_95.m3u8
+#EXTINF:-1,Super Sports News;Sports;SA;Afrikaan;
+http://80.80.160.201/http_livestr.m3u8?id=ssnews
+#EXTINF:-1,TSN 1;Sports;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/68.m3u8
+#EXTINF:-1,TVJ SPORTS NETWORK 1 Jamaica;Sports;JM;Jamaica;
+http://univ-i.akamaihd.net/hls/live/222635/group1/playlist.m3u8
+#EXTINF:-1,TVJ SPORTS NETWORK 2 Jamaica;Sports;JM;Jamaica;
+http://univ-i.akamaihd.net/hls/live/222636/group2/playlist.m3u8
+#EXTINF:-1,UFC Fight Pass;Sports;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/75.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Arizona);Sports;US;English;
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Los Angeles);Sports;US;English;
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Moutain);Sports;US;English;
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Oregon);Sports;US;English;
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Washington);Sports;US;English;
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:-1,WWE ;Sports;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/138.m3u8
+#EXTINF:-1,World Fishing Network;Sports;CA;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/17.m3u8
+
+
+#EXTINF:-1, Adulto 1 18+;Adult;US;English;
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8||
+#EXTINF:-1, Babe Spotting 18+;Adult;US;English;
+http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8||
+#EXTINF:-1, Brazzers 18+;Adult;US;English;
+http://46.182.25.34:1935/tv/1420/playlist.m3u8||
+#EXTINF:-1, Brazzers TV  18+;Adult;EU;English;
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers||
+#EXTINF:-1, Erotic 2 18+;Adult;US;English;
+http://178.253.194.68:1935/liveloworigin/pinkerotic2.stream/playlist.m3u8||
+#EXTINF:-1, Erotic 3 18+;Adult;US;English;
+http://178.253.194.68:1935/liveloworigin/pinkerotic3.stream/playlist.m3u8||
+#EXTINF:-1, Erotic 4 18+;Adult;US;English;
+http://178.253.194.68:1935/liveloworigin/pinkerotic4.stream/playlist.m3u8||
+#EXTINF:-1, Erotic 5 18+;Adult;US;English;
+http://178.253.194.68:1935/liveloworigin/pinkerotic5.stream/playlist.m3u8||
+#EXTINF:-1, Erotic 6 18+;Adult;US;English;
+http://178.253.194.68:1935/liveloworigin/pinkerotic6.stream/playlist.m3u8||
+#EXTINF:-1, Erotic 7 18+;Adult;US;English;
+http://178.253.194.68:1935/liveloworigin/pinkerotic7.stream/playlist.m3u8||
+#EXTINF:-1, Erotic 8 18+;Adult;US;English;
+http://178.253.194.68:1935/liveloworigin/pinkerotic8.stream/playlist.m3u8||
+#EXTINF:-1, Erotic 18+;Adult;US;English;
+http://178.253.194.68:1935/liveloworigin/pinkerotic.stream/playlist.m3u8||
+#EXTINF:-1, Hot Shots 18+;Adult;US;English;
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8||
+#EXTINF:-1, PASSIE XXX 18+;Adult;US;English;
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8||
+#EXTINF:-1, Private 18+;Adult;US;English;
+http://178.33.126.213:1935/leved/privateCom/.m3u8||
+#EXTINF:-1, Sexstation 18+;Adult;US;English;
+http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8||
+#EXTINF:-1, Fm Cafe Channel;Radio;US;English;
+http://stream.north.kz:8000/16bitcafe||
+#EXTINF:-1, Unkown 4;Sports;Unk;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/29.m3u8
+
+#EXTINF:-1, Anime;RandomAirTime 24/7;US;English;
+http://veetle.com/index.php/hls/streamMbrFast/52a0adb7b6024_/stream.m3u8||
+#EXTINF:-1, China Times;RandomAirTime 24/7;US;English;
+http://veetle.com/index.php/hls/streamMbrFast/520c3ec32200c_/stream.m3u8||
+#EXTINF:-1, Classics;RandomAirTime 24/7;US;English;
+http://veetle.com/index.php/hls/streamMbrFast/5408d7749bc24_/stream.m3u8||
+#EXTINF:-1, Fishcenter;RandomAirTime 24/7;US;English;
+http://adultswim-lh.akamaihd.net/i/adultswim_7@156963/master.m3u8||
+#EXTINF:-1, HQ Bollywood Movies;RandomAirTime 24/7;US;English;
+http://veetle.com/index.php/hls/streamMbrFast/4e0e6f4dcc2d3_/stream.m3u8||
+
+#EXTINF:-1, Paramount Channel;Movie Channels;RU;Russian/English;
+http://j.mp/ZCH_C01_PARAMOUNTCHANNEL_sly||
+
+#EXTINF:-1, Paramount Channel HD;Movie Channels;RU;Russian/English;
+http://j.mp/ZCH_C02_PARAMOUNTCHANNELHD_sly||
+
+#EXTINF:-1, VEVO 1 HD ;Music;US;English;
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8||
+#EXTINF:-1, VEVO 2 HD ;Music;US;English;
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8||
+VEVO 3 HD ;Music;US;English;
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8||
+VH1 Classic;Music;RUS;English;
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C03_VH1CLASSIC/variant.m3u8?version=2||
+VM Music ;Music;CR;English;
+http://k3.usastreams.com:1935/canal29/canal29/playlist.m3u8||
+Vevo Playlist ;Music;US;English;
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8||
+Vibz FM TV ;Music;BB;English;
+http://cdn6.iviplanet.com:1935/VIBZFMTV/myStream.sdp/playlist.m3u8||
+Virgin TV ;Music;US;English;
+http://fms.105.net:1935/live/virgin1/playlist.m3u8||
+ZNS TV Bahamas ;Music;BS;English;
+http://xznsbahamasx.api.channel.livestream.com/3.0/playlist.m3u8||
+Al Baitak Cinema;Movie Channels;EG;English;
+http://38.99.146.36:7777/AlbaitBaitakCinema_HD.m3u8||
+
+#EXTINF:-1, Amedia 1 HD;Movie Channels;RU;Russian/English;
+http://j.mp/ZCH_C01_HDAMEDIA_sly||
+#EXTINF:-1, Amedia 1;Movie Channels;RU;Russian/English;
+http://j.mp/ZCH_C02_AMEDIA_sly||
+
+#EXTINF:-1, Classic BW Movies;Movie Channels;Unk;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/49.m3u8||
+#EXTINF:-1, Fox Movies ;Movie Channels;SA;English;
+http://38.99.146.36:7777/FoxMovies_HD.m3u8?token=||
+#EXTINF:-1, MBC 2 ;Movie Channels;SA;English;
+http://38.99.146.36:7777/MBC2_HD.m3u8||
+#EXTINF:-1, MBC Action ;Movie Channels;SA;English;
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8||
+
+#EXTINF:-1, MBC MAX ;Movie Channels;SA;English;
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8||
+
+#EXTINF:-1, Movie Star ;Movie Channels;RU;English;
+http://lag2.tv-mobile.org/prgc.m3u8||
+#EXTINF:-1, Mystery Science Theater ;Movie Channels;US;English;
+http://iphone-streaming.ustream.tv/uhls/16843506/streams/live/iphone/playlist.m3u8||
+
+#EXTINF:-1, Sport Time TV 1 ;Music;US;English;
+http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel1_800.mp4.m3u8||
+#EXTINF:-1, Sport Time TV 2 ;Music;US;English;
+http://streamer.a1.net/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8||
+#EXTINF:-1, Sport Time TV 3 ;Music;US;English;
+http://streamer.a1.net/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel3_1200.mp4.m3u8||
+#EXTINF:-1, Sport Time TV 4 ;Music;US;English;
+http://streamer.a1.net/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel4_1200.mp4.m3u8||
+#EXTINF:-1, Sport Time TV 5 ;Music;US;English;
+http://streamer.a1.net/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel5_1200.mp4.m3u8||
+#EXTINF:-1, Sport Time TV 6 ;Music;US;English;
+http://streamer.a1.net/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel6_1200.mp4.m3u8||
+#EXTINF:-1, Sport Time TV 7 ;Music;US;English;
+http://streamer.a1.net/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel7_1200.mp4.m3u8||
+#EXTINF:-1, THE VAULT;Music;UK;English;
+http://37.187.248.101:8080/thevault.stream/index.m3u8||
+#EXTINF:-1, TV Polanco ;Music;EC;English;
+http://186.155.200.118:1935/live/ColombiasuMusica/chunklist.m3u8||
+#EXTINF:-1, Telemusica ;Music;EC;Spanish;
+http://186.155.200.118:1935/live/telemusica/chunklist_w1353784156_69909.m3u8||
+#EXTINF:-1, The Beat 104.1 FM Barbados;Music;BB;English;
+http://starcom.videocdn.scaleengine.net/starcom-iphone/play/thebeat.smil/playlist.m3u8||
+
+#EXTINF:-1, Planet POP ;Music;US;English;
+http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8||
+#EXTINF:-1, ReTV 1 ;Music;JM;Jamaica;
+http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8||
+#EXTINF:-1, Real Hip Hop Network ;Music;US;English;
+http://rhn.tulix.tv/live/Stream1/playlist.m3u8||
+#EXTINF:-1, SMO Positive Channel ;Music;MX;Spanish;
+http://199.217.118.90:1935/smotv/stream/playlist.m3u8||
+#EXTINF:-1, Soy FM TV ;Music;MX;English;
+http://cdn6.iviplanet.com:1935/SoyFM/myStream.sdp/playlist.m3u8||
+
+#EXTINF:-1, Music Plus;Music;UE;English;
+http://38.99.146.36:7777/MusicPlus_HD.m3u8||
+#EXTINF:-1, Now Music ;Music;US;English;
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8||
+
+#EXTINF:-1, Gold TV ;Music;US;English;
+http://87.248.160.8/edge/smil:goldtv/playlist.m3u8||
+#EXTINF:-1, HEART TV ;Music;US;English;
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8||
+#EXTINF:-1, Heavy Metal Television ;Music;US;English;
+http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8||
+#EXTINF:-1, KISS TV ;Music;US;English;
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8||
+#EXTINF:-1, M2O Music ;Music;US;English;
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on||
+#EXTINF:-1, MAD ;Music;UK;English;
+http://144.76.2.213:1935/live/livestream/playlist.m3u8||
+#EXTINF:-1, MCM TOP;Music;Unk;English;
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C02_MCMTOP/variant.m3u8?version=2||
+#EXTINF:-1, MTV AM ;Music;RU;English;
+http://mtvam.ru/hlsam/playlist.m3u8||
+#EXTINF:-1, MTV Dance;Music;RUS;English;
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C06_MTVDANCE/variant.m3u8?version=2||
+#EXTINF:-1, MTV ForMusic ;Music;UK;English;
+http://194.116.73.52/quartaretetv1/formusicweb/playlist.m3u8||
+#EXTINF:-1, MTV Hits;Music;RUS;English;
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C02_MTVHITS/variant.m3u8?version=2||
+#EXTINF:-1, Miami Music TV ;Music;US;English;
+http://74.208.152.93/music/stream3/stream.m3u8||
+#EXTINF:-1, Monte Carlo TV ;Music;US;English;
+http://fms.105.net:1935/live/rmc1/playlist.m3u8||
+
+#EXTINF:-1, AKA Hip Hop ;Music;US;English;
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8||
+#EXTINF:-1, AKA;Music;US;English;
+http://ip-tv.zz.mu/live.php?kanal=560&user=velimirbl&pass=200200||
+#EXTINF:-1, BPM;Music;US;English;
+http://ip-tv.zz.mu/live.php?kanal=446&user=velimirbl&pass=200200||
+#EXTINF:-1, CAPITAL TV ;Music;US;English;
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on||
+#EXTINF:-1, CLUBLAND;Music;US;English;
+http://ip-tv.zz.mu/live.php?kanal=448&user=velimirbl&pass=200200||
+#EXTINF:-1, City TV;Music;BG;English;
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/stream.m3u8||
+#EXTINF:-1, Clubland TV ;Music;UK;English;
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8||
+#EXTINF:-1, Cool Radio Music Videos ;Music;US;English;
+http://cdn6.iviplanet.com:1935/AVRA/myStream.sdp/playlist.m3u8||
+#EXTINF:-1, DANCE FLOOR HD;Music;US;English;
+http://ip-tv.zz.mu/live.php?kanal=449&user=velimirbl&pass=200200||
+#EXTINF:-1, DJ1;Music;US;English;
+http://ip-tv.zz.mu/live.php?kanal=580&user=velimirbl&pass=200200||
+#EXTINF:-1, DJING Animation HD ;Music;US;English;
+http://www.djing.com/tv/a-05.m3u8||
+#EXTINF:-1, DJING Classic HD ;Music;US;English;
+http://www.djing.com/tv/i-05.m3u8||
+#EXTINF:-1, DJING Dancefloor HD ;Music;US;English;
+http://www.djing.com/tv/d-05.m3u8||
+#EXTINF:-1, DJING HD ;Music;US;English;
+http://www.djing.com/tv/h-05.m3u8||
+#EXTINF:-1, DJING Hot Hot Hot HD ;Music;US;English;
+http://www.djing.com/tv/hothothot.m3u8||
+#EXTINF:-1, DJING Underground HD ;Music;US;English;
+http://www.djing.com/tv/u-05.m3u8||
+#EXTINF:-1, DJING;Music;US;English;
+http://ip-tv.zz.mu/live.php?kanal=451&user=velimirbl&pass=200200||
+#EXTINF:-1, DMC;Music;US;English;
+http://ip-tv.zz.mu/live.php?kanal=592&user=velimirbl&pass=200200||
+#EXTINF:-1, ESKA Best Music HD ;Music;US;English;
+http://stream.smcloud.net/live2/best/best_720p/playlist.m3u8||
+#EXTINF:-1, ESKA TV ;Music;US;English;
+http://stream.smcloud.net/live/eskatv/aylist.m3u8||
+#EXTINF:-1, ESKA VOX HD ;Music;US;English;
+http://stream.smcloud.net/live2/vox/vox_720p/playlist.m3u8||
+#EXTINF:-1, Epic Rap Battles of History;Music;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/48.m3u8||
+
+
+#EXTINF:-1, Al Hiwar;News;UK;Arabic;
+http://38.99.146.36:7777/AlHiwar_HD.m3u8||
+#EXTINF:-1, Al Jazeera America ;News;US;English;
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_america/ls_satlink/b_828.m3u8?v=1603458820||
+#EXTINF:-1, Al Jazeera International ;News;UK;English;
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_,828,528,264,.m3u8||
+#EXTINF:-1, BBC News ;News;UK;English;http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8||
+#EXTINF:-1, BBC News;News;US;English;http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/30.m3u8||
+#EXTINF:-1, BBC World News;News;UK;English;http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_BBCWORLDNEWS/variant.m3u8?version=2||
+#EXTINF:-1, BBC World ;News;UK;English;http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_,828,528,264,.m3u8||
+#EXTINF:-1, Bloomberg ;News;US;English;http://cdn3.videos.bloomberg.com/btv/us/master.m3u8||
+#EXTINF:-1, Bloomberg;News;US;English;http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/79.m3u8||
+#EXTINF:-1, C-Span;News;US;English;http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/80.m3u8||
+#EXTINF:-1, CBSN ;News;US;English;http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile||
+#EXTINF:-1, CCTV ;News;US;English;http://origin2.live.web.tv.streamprovider.net/streams/877ba7a57aa68fd898b838f58d51a69f/index.m3u8||
+#EXTINF:-1, CNBC ;News;US;English;http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8||
+#EXTINF:-1, CNN ;News;EU;English;http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8||
+#EXTINF:-1, CNN ;News;US;English;http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8||
+#EXTINF:-1, FOX Business;News;US;English;http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/42.m3u8||
+#EXTINF:-1, FOX News;News;US;English;http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/35.m3u8||
+#EXTINF:-1, Fox News ;News;US;English;http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/35.m3u8||
+#EXTINF:-1, Global BC;News;CA;English;https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307348~exp=1434307948~acl=/i/*~id=5a91003f-0e87-4f31-b475-5beb4de69407~hmac=8011c2346009544656a3195d1e9e03e511efc6523dab9644debf3692f630fe77||
+#EXTINF:-1, Global Halifax;News;CA;English;https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307535~exp=1434308135~acl=/i/*~id=17e92158-bbde-4665-a37c-817c97c7569c~hmac=1afe142fae8d05bad8895371e0834b246ce53e26af2bd6090227741f043668bd||
+#EXTINF:-1, Global tv;News;CA;English;https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434303944~exp=1434304544~acl=/i/*~id=3f0edb02-c4e5-4596-8950-4331b8ce1baf~hmac=4acbecb511f7c3beaf085123ab9097c7a6acbd5d857fd4cefbfdfb733b666f57||
+#EXTINF:-1, NPR;News;US;English;http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/36.m3u8||
+
+
+#EXTINF:-1, Sky News ;News;UK;English;
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8||
+#EXTINF:-1, Smash TV ;News;US;English;
+http://iphone-streaming.ustream.tv/ustreamVideo/12803100/streams/live/playlist.m3u8||
+
+#EXTINF:-1, TIMES NOW ;News;IN;English;
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD96_W_350.sdp/chunklist.m3u8#.m3u8||
+#EXTINF:-1, TVC News;News;NG;English;
+http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8||
+#EXTINF:-1, Twit Tech News ;News;US;English;
+http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8||
+#EXTINF:-1, US News & World Reports;News;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/32.m3u8||
+#EXTINF:-1, WFTV (ABC) Florida ;News;US;English;
+http://bcoveliveios-i.akamaihd.net/hls/live/207141/268012959001/WFTV_EVENTLIVE1/WFTV_EVENTLIVE1_800.m3u8||
+#EXTINF:-1, WGN(Chicago) ;News;US;English;
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?||
+#EXTINF:-1, Weather Channel ;News;US;English;
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8||
+#EXTINF:-1, Weather Channel;News;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/33.m3u8||
+#EXTINF:-1, i24 News ;News;US;English;
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8||
+#EXTINF:-1, Animal Planet ;Documentary;UK;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/142.m3u8||
+#EXTINF:-1, Animal Planet ;Documentary;US;English;
+http://78.37.122.116:8802/hls/CH_C03_ANIMALPLANET/variant.m3u8?version=2||
+#EXTINF:-1, Discovery News;Documentary;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/46.m3u8||
+#EXTINF:-1, Discovery Science ;Documentary;UK;English;
+http://lag2.tv-mobile.org/prgi.m3u8||
+#EXTINF:-1, Discovery Turbo ;Documentary;UK;English;
+http://cric.dynns.com:1935/iptv/DiscoveryTurbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE1IDEyOjIxOjU1IFBNJmhhc2hfdmFsdWU9bkpuMW1HbHR6ZElDZGFQVjJOTzFmdz09JnZhbGlkbWludXRlcz0y||
+#EXTINF:-1, Discovery ;Documentary;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/11.m3u8||
+#EXTINF:-1, Eden ;Documentary;UK;English;
+http://31.220.41.102:80/LiveEdge/Eden.stream/chunklist_w700800010_b1000000.m3u8?token=c14bb2d7f10527c6065ddbb9e3768c2e
+#EXTINF:-1, xtreme Impacts ;Documentary;US;English;
+http://46.249.213.93/iPhone/HLS_TS/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8||
+#EXTINF:-1, H2 ;Documentary;US;English;
+http://31.220.41.107:80/LiveEdge/H2US/chunklist_w721172471_b1000000.m3u8?token=563e35e78a69337d3e801c92581d1016||
+#EXTINF:-1, History ;Documentary;US;English;
+http://31.220.40.108:80/LiveEdge/HistoryHD/chunklist_w1778540922_b1000000.m3u8?token=957412e08e050d5e509208dc5d03471c||
+#EXTINF:-1, ID ;Documentary;US;English;
+http://31.220.41.110:80/LiveEdge/IDUS/chunklist_w504478447_b1000000.m3u8?token=374e1ed63ba44e739e4711be0e7dba75||
+#EXTINF:-1, Nat Geo Wild ;Documentary;UK;English;
+http://lag2.tv-mobile.org/prgg.m3u8||
+#EXTINF:-1, National Geographic (US);Documentary;US;English;
+http://31.220.40.114:80/LiveEdge/NatGeoUS/playlist.m3u8?token=2f61696761a955734f651aa5de344bb3||
+#EXTINF:-1, National Geographic ;Documentary;UK;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/187.m3u8||
+#EXTINF:-1, 5 USA ;Family;UK;English;
+http://31.220.40.115:80/LiveEdge/5usa.stream/chunklist_w1592716005_b1000000.m3u8?token=88fdce9b1027640ffd028bd6f5b4be1e||
+#EXTINF:-1, ABC Family ;Family;US;English;
+http://31.220.40.118:80/LiveEdge/ABCFamilyUS/chunklist_w1301057991_b1000000.m3u8?token=ead50d7f8aa914e2b39393301395925c||
+#EXTINF:-1, Ajyal ;Family;SA;English;
+http://38.99.146.36:7777/AjyalTV_HD.m3u8||
+#EXTINF:-1, CBeebies ;Family;UK;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/6.m3u8||
+#EXTINF:-1, Disney Jr ;Family;US;English;
+http://31.220.40.105:80/LiveEdge/DisneyJrUS/chunklist_w1187852931_b1000000.m3u8?token=2aec102b50cb7d8949cfe0689b098c8d||
+#EXTINF:-1, Disney ;Family;UK;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/89.m3u8||
+#EXTINF:-1, E4 ;Family;UK;English;
+http://31.220.41.102:80/LiveEdge/e4.stream/chunklist_w1295833723_b1000000.m3u8?token=a08636a3b003c18d45400798156efd72||
+#EXTINF:-1, FASHION TV;Family;US;English;
+http://ip-tv.zz.mu/live.php?kanal=132&user=velimirbl&pass=200200||
+#EXTINF:-1, GINX;Family;UK;English;
+http://ip-tv.zz.mu/live.php?kanal=23&user=velimirbl&pass=200200||
+#EXTINF:-1, ITV 2 ;Family;UK;English;
+http://31.220.40.115/LiveEdge/itv2.stream/chunklist_w23967063_b1000000.m3u8?token=dc95ccbf56e24f141f92438899489e98||
+#EXTINF:-1, JimJam;Family;Rus;Russian/English;
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_JIMJAM/variant.m3u8?version=2||
+#EXTINF:-1, London Live ;Family;UK;English;
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8||
+#EXTINF:-1, NHK World TV;Family;Unk;English;
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C02_NHKWORLDTV/variant.m3u8?version=2||
+#EXTINF:-1, Semsem TV;Family;US;Arabic;
+http://38.99.146.36:7777/Semsem_HD.m3u8||
+#EXTINF:-1, Sesame Street ;Family;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/76.m3u8||
+#EXTINF:-1, Sesame Street;Family;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/76.m3u8||
+#EXTINF:-1, TG4 ;Family;UK;English;
+http://31.220.41.110:80/LiveEdge/tg4.stream/chunklist_w136016392_b1000000.m3u8?token=7cd4f2ae565af2669b46487a8efbe4a3||
+#EXTINF:-1, Cartoon Network ;Family;US;English;
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8||
+#EXTINF:-1, A&E ;Entertainment;US;English;
+http://31.220.40.115/LiveEdge/AEEastUS/chunklist_w845778274_b1000000.m3u8?token=fb70354fcf05a6cb5a2f1e3896befcd4
+#EXTINF:-1, AMC ;Entertainment;US;English;
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C06_MGM/variant.m3u8?version=2||
+#EXTINF:-1, AXN ;Entertainment;UK;English;
+http://lag2.tv-mobile.org/prgd.m3u8||
+
+#EXTINF:-1, Adult Swim ;Entertainment;US;English;
+http://adultswim-lh.akamaihd.net/i/adultswim_12@156963/master.m3u8||
+#EXTINF:-1, Adult Swim;Entertainment;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/78.m3u8||
+#EXTINF:-1, Alibi ;Entertainment;UK;English;
+http://31.220.40.108:80/LiveEdge/alibi.stream/chunklist_w1681494169_b1000000.m3u8?token=33fb72f714f2f2ffe051d73224fafa73||
+#EXTINF:-1, Amazing Facts TV ;Entertainment;US;English;
+http://amazingfacts.live-s.cdn.bitgravity.com/cdn-live/_definst_/amazingfacts/live/feed01/chunklist_w1921345467.m3u8||
+#EXTINF:-1, BBC 1 ;Entertainment;UK;English;
+http://live306.edge.filmon.com/live/14.low.stream/playlist.m3u8?id=426f49f9d67eeb71861928c78735acc5c890bc19847536dc0b6d5bb54b86161f99957abd0a0fa97c474e587adfabcdc266be84197b577a47683c77549fee324138c84d947d43ebec036b1f53549223631b152cd8c37d6ced0dfc5382d9a8cedca627668bae876850dc54273b97b985021a5d028c6d174feefd993ff5a23f237d6f3f867704450835bd8573d29bd7bad1bd8ac3c7f7adcae2||
+#EXTINF:-1, BBC 4 ;Entertainment;UK;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/174.m3u8||
+#EXTINF:-1, BW TV Sitcoms;Entertainment;Unk;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/45.m3u8||
+#EXTINF:-1, BW TV Variety;Entertainment;Unk;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/20.m3u8||
+#EXTINF:-1, CBS Drama ;Entertainment;UK;English;
+http://31.220.40.100:80/LiveEdge/cbsdrama.stream/chunklist_w334678999_b1000000.m3u8?token=a7c54976e3d28e61933e1cccb83a4a8f||
+#EXTINF:-1, CBS Reality +1 ;Entertainment;UK;English;
+http://204.107.27.248/live/1811.low.stream/playlist.m3u8?id=b9fdb53a624525074fc0e764ed2caf03440511e5621212be8fe3a9a1c19d70cab928fc9211589461ea50462e0e54f07f3e4296db32958a2e8adbd19d2a03bce9c31a43356e7eddb8db3c5a02061647898c2daf6162c5ff6e51a9124ca25cad2196eb89adbc66f8319839b14d24ca91b766c030247726875a2e91128ca1b20f48b916935e95bf5e9ad9abb4f416b91595d27a3d280846457a||
+#EXTINF:-1, CBS Reality ;Entertainment;UK;English;
+http://31.220.40.108:80/LiveEdge/cbsreality.stream/chunklist_w1137042417_b1000000.m3u8?token=ea20be477df3410aeb321fa1b644c4d5||
+#EXTINF:-1, CBS;Entertainment;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/63.m3u8||
+#EXTINF:-1, CW;Entertainment;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/65.m3u8||
+#EXTINF:-1, Channel 4 ;Entertainment;UK;English;
+http://31.177.62.76/live/2.low.stream/playlist.m3u8?id=0ad5aac39bb13fbed4e5091e21ac4e3f5868ad8bd411b8de4bf6603c41f684c4c2d3fc067b5f8465fd979b506bbf4a35a2e2ab8c08c8b724c3f500f04c0079f8c8ee600d9d837d910c41f1be2d2130b491257f99748a647b7e55fa083fcd11fee64cdcba14d1b4ed50c3ceb7c89a1902a510362d0f656b937d6a1d4ba6f2273023fb345a8317edceaf8e73aa0e79c76a75fdf44feac4b156||
+#EXTINF:-1, Channel 5;Entertainment;UK;English;
+http://213.200.110.114/live/22.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe2bd790f9108337467559271d6d571e73e5278afe1f034ddecc1406c4444fab14eeb37d41ed2002d6ef8bb9cc4343917706609bc44dd680d4d7d711ae5e9c59c1528d9adb239369cb9f94b15b92169ee4c8f49a2247af247e3c4ceec5f8eafc97ea933cac60753cd60ee2a2292243d9d954686e48575ebfbc9e7317a29a77b1bf0c779b0a32a2783f1941eeb8d4421084||
+#EXTINF:-1, CineStreamTV ;Entertainment;BB;English;
+http://68.71.42.179/live/livestream1/playlist.m3u8||
+#EXTINF:-1, CinemaSins;Entertainment;Unk;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/19.m3u8||
+#EXTINF:-1, Comedy Central Xtra;Entertainment;UK;English;
+http://lag2.tv-mobile.org:22637/udp/231.2.2.26:1234||
+#EXTINF:-1, Comedy Central (UK);Entertainment;UK;English;
+http://cric.dynns.com:1935/iptv/ComedyCentral/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE1IDEyOjE0OjI5IFBNJmhhc2hfdmFsdWU9V0ZFelljajVXRk1VQ1VNV3Nuem51Zz09JnZhbGlkbWludXRlcz0y||
+#EXTINF:-1, Comedy Central ;Entertainment;US;English;
+http://31.220.40.114/LiveEdge/ComedyCentralHD/chunklist_w1542907101_b1000000.m3u8?token=f3d69785cd083e92ac926e747e1f61d7
+#EXTINF:-1, Cooking Channel;Entertainment;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/10.m3u8||
+#EXTINF:-1, DIY Network;Entertainment;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/23.m3u8||
+#EXTINF:-1, Dave ;Entertainment;UK;English;
+http://31.220.40.118:80/LiveEdge/dave.stream/chunklist_w843599140_b1000000.m3u8?token=82fbe0a42383297b27f6e8f3ea1f04e9||
+#EXTINF:-1, Destination America;Entertainment;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/22.m3u8||
+#EXTINF:-1, Discovery Channel Loop;Entertainment;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/11.m3u8||
+#EXTINF:-1, Discovery News;Entertainment;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/46.m3u8||
+#EXTINF:-1, Discovery;Entertainment;Unk;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/60.m3u8||
+#EXTINF:-1, Disney Jr.;Entertainment;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/13.m3u8||
+#EXTINF:-1, Dubai Europe;Entertainment;UE;English;
+http://38.99.146.36:7777/DubaiEurope_HD.m3u8||
+#EXTINF:-1, Dubai One ;Entertainment;UE;English;
+http://38.99.146.36:7777/DubaiOne_HD.m3u8||
+#EXTINF:-1, E! HD ;Entertainment;US;English;
+http://31.220.40.118:80/LiveEdge/eEntUS/chunklist_w1503805423_b1000000.m3u8?token=59fbf42cbc2767f62ba65040852d9ea4||
+#EXTINF:-1, E!;Entertainment;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/181.m3u8||
+#EXTINF:-1, English Club TV;Entertainment;UK;English;
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_ENGLISHCLUB/variant.m3u8?version=2||
+#EXTINF:-1, Epic Meal Time;Entertainment;Unk;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/43.m3u8||
+#EXTINF:-1, FOX LIFE ;Entertainment;UK;English;
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C04_FOXLIFE/variant.m3u8?version=2||
+#EXTINF:-1, FOX ;Entertainment;UK;English;
+http://31.220.40.108:80/LiveEdge/fxuk.stream/chunklist_w629529780_b1000000.m3u8?token=f24f4051976c52883ad361ff345b26f7||
+#EXTINF:-1, FOX;Entertainment;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/41.m3u8||
+#EXTINF:-1, FX ;Entertainment;US;English;
+http://31.220.40.108:80/LiveEdge/FXEastUS/chunklist_w119159786_b1000000.m3u8?token=76bed321e5aaafb426b63af9c542be1b||
+#EXTINF:-1, FX;Entertainment;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/14.m3u8||
+#EXTINF:-1, Family Friendly Entertainment ;Entertainment;US;English;
+http://54.225.64.228:1935/live/roku2/playlist.m3u8||
+#EXTINF:-1, Food Network;Entertainment;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/53.m3u8||
+#EXTINF:-1, Genesis Science Network ;Entertainment;US;English;
+http://genesis.tulix.tv:1935/live/Stream1/playlist.m3u8||
+#EXTINF:-1, Global 2;Entertainment;US;English;
+https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307535~exp=1434308135~acl=/i/*~id=17e92158-bbde-4665-a37c-817c97c7569c~hmac=1afe142fae8d05bad8895371e0834b246ce53e26af2bd6090227741f043668bd||
+#EXTINF:-1, Global BC;Entertainment;US;English;
+https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307348~exp=1434307948~acl=/i/*~id=5a91003f-0e87-4f31-b475-5beb4de69407~hmac=8011c2346009544656a3195d1e9e03e511efc6523dab9644debf3692f630fe77||
+#EXTINF:-1, Gold ;Entertainment;UK;English;
+http://31.220.40.114:80/LiveEdge/gold.stream/chunklist_w1913307543_b1000000.m3u8?token=6d427a680d74a18d7d64ed13248df679||
+#EXTINF:-1, HGTV ;Entertainment;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/52.m3u8||
+#EXTINF:-1, HGTV;Entertainment;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/52.m3u8||
+#EXTINF:-1, HSN;Entertainment;US;English;
+http://ip-tv.zz.mu/live.php?kanal=342&user=velimirbl&pass=200200||
+#EXTINF:-1, Hannibal;Entertainment;LB;English;
+http://38.99.146.36:7777/Hannibal_HD.m3u8||
+#EXTINF:-1, ID;Entertainment;US;English;
+http://31.220.41.110/LiveEdge/IDUS/chunklist_w504478447_b1000000.m3u8?||
+#EXTINF:-1, MORE4 ;Entertainment;UK;English;
+http://live8.gv.edge.filmon.com/live/65.low.stream/chunklist_w1126820105.m3u8?id=7d803ea32dcd5ec237060188a2f449843efd5a427f2e59afe2d3900a0822384db597be1961d8dffb72bb0f9da25199c1ac436f51c014185eb0a79fb9f29f17a731d034b6ef9ab8fd4384c8a9fb9e1550ee293c1c679a53523f59012b310007b184d28f5e7342e8a6d2729e8f4023c70cc2d1127f67cbac631a4aa73bc628d3031b0cafa9b9c2f0cc4a7eaaf5843477ef915a2452c03f8fc5||
+#EXTINF:-1, NBC ;Entertainment;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/64.m3u8||
+#EXTINF:-1, NBC;Entertainment;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/64.m3u8||
+#EXTINF:-1, National Geographic;Entertainment;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/96.m3u8||
+#EXTINF:-1, PBS AMERICA;Entertainment;US;English;
+http://37.187.248.101:8080/pbsamerica.stream/index.m3u8||
+#EXTINF:-1, SYFY HD ;Entertainment;US;English;
+http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8||
+#EXTINF:-1, Sky 1 ;Entertainment;UK;English;
+http://5.196.82.222:8000/live/test1/test1/28.m3u8||
+#EXTINF:-1, Sky Living ;Entertainment;UK;English;
+http://5.196.82.222:8000/live/test1/test1/28.m3u8||
+#EXTINF:-1, Spike HD ;Entertainment;US;English;
+http://5.196.82.222:8000/live/test1/test1/26.m3u8||
+#EXTINF:-1, TBS ;Entertainment;US;English;
+http://31.220.41.102:80/LiveEdge/TBSEastUS/chunklist_w1211364230_b1000000.m3u8?token=986f6b8c6bcbad76e135d13317f09626||
+#EXTINF:-1, TNT ;Entertainment;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/84.m3u8||
+#EXTINF:-1, TNT;Entertainment;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/70.m3u8||
+#EXTINF:-1, TRING COMEDY ;Entertainment;US;English;
+http://tring-amd-live.tring.tv/out/u/78_139.m3u8||
+#EXTINF:-1, TRING MAX ;Entertainment;US;English;
+http://tring-amd-live.tring.tv/out/u/94_130.m3u8||
+#EXTINF:-1, TRING SUPER ;Entertainment;US;English;
+http://tring-amd-live.tring.tv/out/u/79_127.m3u8||
+#EXTINF:-1, TVJ 2 Jamaica;Entertainment;JM;Jamaica;
+http://univ-i.akamaihd.net/hls/live/222630/group2/playlist.m3u8||
+#EXTINF:-1, TVJ Jamaica;Entertainment;JM;Jamaica;
+http://univ-i.akamaihd.net/hls/live/222629/group1/playlist.m3u8||
+#EXTINF:-1, Toonami Aftermath ;Entertainment;US;English;
+http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8||
+#EXTINF:-1, USA Network;Entertainment;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/50.m3u8||
+#EXTINF:-1, 360 North ;Lifestyle;US;English;
+http://state.ak.tvwmedia.net:1935/ktoo-live/_definst_/360north/playlist.m3u8||
+#EXTINF:-1, ALB ;Lifestyle;UK;English;
+http://188.138.17.8:1935/albuk/albuk.stream/playlist.m3u8||
+#EXTINF:-1, BYU TV ;Lifestyle;US;English;
+http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/master.m3u8||
+#EXTINF:-1, Cooking Ch;Lifestyle;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/10.m3u8||
+#EXTINF:-1, DIY Network;Lifestyle;US;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/23.m3u8||
+#EXTINF:-1, Deutsche Welle;Lifestyle;US;English;
+http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8||
+#EXTINF:-1, Florida Ch ;Lifestyle;US;English;
+http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8||
+#EXTINF:-1, Food Network ;Lifestyle;UK;English;
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/167.m3u8||
+#EXTINF:-1, HSN 2 ;Lifestyle;US;English;
+http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31/mp4:468p500kB3.m3u8||
+#EXTINF:-1, HSN ;Lifestyle;US;English;
+http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31/mp4:420p500kB31.m3u8||
+#EXTINF:-1, Psychic Today ;Lifestyle;UK;English;
+http://204.107.26.252:1935/live/1711.high.stream/index.m3u8||
+#EXTINF:-1, QVC Beauty ;Lifestyle;UK;English;
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8||
+#EXTINF:-1, QVC PLUS ;Lifestyle;UK;English;
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8||
+#EXTINF:-1, QVC Style ;Lifestyle;UK;English;
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8||
+#EXTINF:-1,408;Updated:09/06-QVC ;Lifestyle;UK;English;
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8||
+#EXTINF:-1,410;Updated:09/06-Seattle Ch ;Lifestyle;US;English;
+http://video.seattle.gov/hls-live/livepkgr/_definst_/channelevent/ChannelLiveHD3.m3u8||
+#EXTINF:-1,411;Updated:09/08-Trinity Broadcasting Network ;Lifestyle;US;English;
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_2528_av-p.m3u8?sd=10&amp;rebase=on||
+#EXTINF:-1,;Updated:09/06-World Fashion TV ;Lifestyle;US;English;
+http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8||
+
