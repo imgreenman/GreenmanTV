@@ -6,17 +6,17 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/4.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/5.m3u8
 #EXTINF:-1, Cbeebies
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/6.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, unknown
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/7.m3u8
 #EXTINF:-1, 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/8.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, Newsmax TV
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/9.m3u8
 #EXTINF:-1, Cooking Channel
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/10.m3u8
 #EXTINF:-1, Discovery Channel
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/11.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, BW Movies
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/12.m3u8
 #EXTINF:-1, Disney Jr
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/13.m3u8
@@ -24,17 +24,17 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/13.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/14.m3u8
 #EXTINF:-1, 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/15.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, BW Movie
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/16.m3u8
 #EXTINF:-1, World Fishing Network
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/17.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, Centric DE
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/18.m3u8
 #EXTINF:-1, CinemaSins
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/19.m3u8
 #EXTINF:-1, BW TV Variety
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/20.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, twoheads
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/21.m3u8
 #EXTINF:-1, Destination America 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/22.m3u8
@@ -58,21 +58,21 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/30.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/31.m3u8
 #EXTINF:-1, US News
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/32.m3u8
-#EXTINF:-1, Weather Channel
+#EXTINF:-1, 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/33.m3u8
 #EXTINF:-1, 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/34.m3u8
 #EXTINF:-1, FOX News
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/35.m3u8
-#EXTINF:-1, NPR
+#EXTINF:-1, NPR News
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/36.m3u8
 #EXTINF:-1, 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/37.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, CNN en vivo
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/38.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, France 24
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/39.m3u8
-#EXTINF:-1, MLB
+#EXTINF:-1, MLB.tv
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/40.m3u8
 #EXTINF:-1, FOX
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/41.m3u8
@@ -84,9 +84,9 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/43.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/44.m3u8
 #EXTINF:-1, BW TV Sitcoms
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/45.m3u8
-#EXTINF:-1, Discovery News
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/46.m3u8
 #EXTINF:-1, 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/46.m3u8
+#EXTINF:-1, Driven
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/47.m3u8
 #EXTINF:-1, Epic Rap Battles
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/48.m3u8
@@ -100,7 +100,7 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/51.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/52.m3u8
 #EXTINF:-1, Food Network
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/53.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, npr
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/54.m3u8
 #EXTINF:-1, 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/55.m3u8
@@ -114,7 +114,7 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/58.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/59.m3u8
 #EXTINF:-1, Discovery
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/60.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, sking
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/61.m3u8
 #EXTINF:-1, Bein Sports
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/62.m3u8
@@ -138,65 +138,65 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/70.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/71.m3u8
 #EXTINF:-1, NFL Network 2
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/72.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, NHL
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/73.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, unknown
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/74.m3u8
 #EXTINF:-1, FOX Sports Esp
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/75.m3u8
 #EXTINF:-1, Sesame Street
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/76.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, unknown
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/77.m3u8
-#EXTINF:-1, Adult Swim
+#EXTINF:-1, Adult Swim Channel
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/78.m3u8
 #EXTINF:-1, Bloomberg
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/79.m3u8
 #EXTINF:-1, C-Span
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/80.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, unknown
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/81.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, unknown
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/82.m3u8
 #EXTINF:-1, 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/83.m3u8
 #EXTINF:-1, TNT
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/84.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, sport
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/85.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, comedy central us
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/86.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, unknown
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/87.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, unknown
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/88.m3u8
 #EXTINF:-1, Disney Channel
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/89.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, cnet
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/90.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, Howcast.com
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/91.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, unknown
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/92.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, unknown
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/93.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, chinese
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/94.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, Cars
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/95.m3u8
 #EXTINF:-1, National Geographic
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/96.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, Nickelodean 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/97.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, Bajo Techo tv
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/98.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, Bundeslinga
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/99.m3u8
 #EXTINF:-1, Chelsea tv
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/100.m3u8
 #EXTINF:-1, COPA Sports
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/101.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, Barca tv
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/102.m3u8
 #EXTINF:-1, 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/103.m3u8
@@ -212,15 +212,15 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/107.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/108.m3u8
 #EXTINF:-1, 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/109.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, Classic films
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/110.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, M Movies
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/111.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, bw sport
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/112.m3u8
 #EXTINF:-1, FIFA tv
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/113.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, football
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/114.m3u8
 #EXTINF:-1, 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/115.m3u8
@@ -228,7 +228,7 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/115.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/116.m3u8
 #EXTINF:-1, 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/117.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, Lvm
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/118.m3u8
 #EXTINF:-1, Liga BBVA
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/119.m3u8
@@ -240,17 +240,17 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/121.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/122.m3u8
 #EXTINF:-1, 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/123.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, vegano
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/124.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, football
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/125.m3u8
 #EXTINF:-1, 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/126.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, S
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/127.m3u8
 #EXTINF:-1, Champions League Live
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/128.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, bio 23
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/129.m3u8
 #EXTINF:-1, 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/130.m3u8
@@ -264,7 +264,7 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/133.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/134.m3u8
 #EXTINF:-1, 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/135.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, unknown
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/136.m3u8
 #EXTINF:-1, 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/137.m3u8
